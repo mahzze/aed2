@@ -3,6 +3,7 @@
 - **Grupo:** 10
 - **Ementa base/tema:** Árvores Digitais
 - **Data/Hora da apresentação:** 27/07 às 10h30
+- **Artigo do projeto (somente leitura)** : [clique aqui para ser redirecionado ao Overleaf](https://www.overleaf.com/read/dnbczpghxztq#377ab0)
 
 ## Problema de Pesquisa
 
