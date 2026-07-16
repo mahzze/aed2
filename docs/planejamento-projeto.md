@@ -25,10 +25,18 @@ Implementar e comparar duas estruturas de Árvore Digital — **binária** e **m
   - **965 siglas** no formato "4 letras + 5 dígitos" (posições 0-3 letras, 4-6 dígitos, 7 hífen, 8-9 ano) — prefixos como `ESAE`, `ESTS`, `MCBM`, `MCTB`, `NHBB`, etc. (cursos de formação específica).
   - 392 + 965 = 1357 ✅ bate com o total.
 
+## Decisões de design da árvore
+
+- [x] **Granularidade da chave:** a sigla é tratada como uma **string única de 10 símbolos** sobre o alfabeto completo (A-Z, 0-9, hífen), sem distinguir os dois formatos de sigla (3 letras + 6 dígitos vs. 4 letras + 5 dígitos). A árvore não conhece a estrutura do domínio (letra vs. dígito por posição) — ela só vê 10 símbolos genéricos, tratados sempre da mesma forma. Essa escolha evita ramificar a lógica de inserção/busca por grupo e mantém a árvore digital genérica e reutilizável, o que favorece o critério de "facilidade de implementação".
+- [x] **Codificação de símbolo → bits:** cada caractere é codificado usando seu **valor ASCII padrão de 8 bits**, em vez de uma tabela customizada de 6 bits (mínimo teórico para 37 símbolos, já que 2⁶=64 ≥ 37). Optamos pelo ASCII pela simplicidade de implementação (usa a conversão nativa da linguagem, sem precisar criar e manter uma tabela de mapeamento símbolo↔código). O trade-off documentado: isso torna a árvore ~33% mais profunda do que o mínimo teórico (80 bits/sigla com ASCII vs. 60 bits/sigla com 6 bits customizados), o que deve ser mencionado na análise de complexidade de espaço e no tempo prático de execução.
+  - Profundidade resultante por sigla (10 símbolos × 8 bits = 80 bits):
+    - Árvore binária: até **80 níveis**
+    - Árvore m-ária (m=4): até **40 níveis**
+- [x] **Agrupamento de bits na árvore m=4:** os nós da árvore 4-ária consomem **pares de bits sequenciais da mesma representação ASCII de 8 bits** usada na árvore binária (não uma tabela ou codificação base-4 separada). Cada par de bits (`00`, `01`, `10`, `11`) indexa um dos 4 filhos do nó. Isso garante que as duas árvores armazenem exatamente a mesma informação, diferindo apenas na quantidade de bits consumida por nível (1 bit na binária vs. 2 bits na m=4) — isolando o fator de ramificação como a única variável comparada entre as estruturas, sem contaminar a análise com uma codificação de dados diferente entre elas.
+
 ## Pendências restantes
 
-- [ ] Definir se o parser vai tratar os dois formatos de sigla separadamente (3 letras + 6 dígitos vs. 4 letras + 5 dígitos) ou tratar a sigla inteira como uma string única de 10 símbolos sobre o alfabeto completo (A-Z, 0-9, hífen) — a segunda abordagem é mais simples e evita ter que ramificar a lógica por grupo.
-- [ ] Decidir a codificação exata para a árvore binária (ex.: cada símbolo do alfabeto vira um código de bits fixo, tipo um mini Huffman ou codificação posicional) e para a árvore 4-ária (ex.: agrupar pares de bits, ou usar diretamente base-4 sobre subconjuntos do alfabeto).
+Nenhuma pendência de design em aberto no momento. Próximo passo: iniciar a implementação (ver "Passos de desenvolvimento" abaixo).
 
 ## Passos de desenvolvimento
 
