@@ -28,11 +28,59 @@ Implementar e comparar duas estruturas de Árvore Digital — **binária** e **m
 
 ## Dados a confirmar/preparar a partir do dataset
 
-- [ ] Baixar o export CSV mais recente e isolar a coluna `code`.
-- [ ] Filtrar apenas códigos que sejam **EAN-13 válidos**: exatamente 13 dígitos numéricos e checksum (dígito verificador) correto conforme o algoritmo padrão GS1.
-- [ ] Remover duplicatas e valores nulos/malformados (esperado em dataset colaborativo — documentar o percentual descartado como parte da seção de Aplicação Computacional).
+- [x] Baixar o export CSV e isolar a coluna `code` (**lida como `dtype=str`** — ver nota crítica abaixo).
+- [x] Filtrar apenas códigos que sejam **EAN-13 válidos**: exatamente 13 dígitos numéricos e checksum (dígito verificador) correto conforme o algoritmo padrão GS1.
+- [x] Remover duplicatas.
 - [ ] Definir o tamanho da amostra para os experimentos (ex.: subconjuntos de 1k, 10k, 100k códigos) para permitir análise de escalabilidade.
 - [ ] Verificar a distribuição de prefixos GS1 (país/organização) na amostra, para eventualmente ilustrar a utilidade de busca por prefixo.
+
+### ⚠️ Nota crítica: coluna `code` deve ser lida como string
+
+A coluna `code` do CSV é numérica por natureza, e se lida como `int64` (comportamento padrão do pandas), **zeros à esquerda são silenciosamente perdidos** — um EAN-13 como `0611103500043` vira o inteiro `611103500043` (12 dígitos), tornando-se indistinguível de um UPC-A genuíno. Isso inflava artificialmente as contagens de códigos com 5, 6, 7, 10, 11 e 12 dígitos na primeira inspeção. Ao reler com `dtype=str`, a distribuição real revelou apenas **dois formatos presentes na base**: EAN-8 e EAN-13 — sem sujeira adicional (0 valores nulos, 0 não-numéricos). **Sempre carregar a coluna `code` como string desde a leitura do CSV.**
+
+### Resultado da limpeza (amostra utilizada)
+
+| Etapa | Quantidade |
+| --- | --- |
+| Códigos com 13 dígitos (formato EAN-13) | 8878 |
+| Códigos com 8 dígitos (formato EAN-8 — fora do escopo do trabalho) | 926 |
+| EAN-13 com checksum válido | 8874 |
+| EAN-13 com checksum inválido (descartados) | 4 |
+| **EAN-13 válidos e únicos (dataset final)** | **8874*** |
+
+\* Os 4 códigos inválidos (`0005100000100`, `2000000002603`, `0510000010000`, `2000000037124`) seguem o padrão de prefixos `00`/`05`/`20`, característicos de **RCN — Restricted Circulation Numbers**: códigos internos de varejo (ex.: produtos pesados no açougue/hortifruti), reservados pelo GS1 para uso interno e sem checksum padronizado globalmente. Não são erro do dataset — foram descartados por estarem fora do escopo de "EAN-13 de catálogo".
+
+**Decisão de escopo:** os 926 códigos EAN-8 foram **excluídos** da amostra principal. O trabalho foca exclusivamente em EAN-13 (13 dígitos), conforme as decisões de design da árvore já definidas (52 bits, 26 níveis na árvore m=4). A exclusão do EAN-8 deve constar como critério de escopo, não como limitação, na seção de Aplicação Computacional do artigo.
+
+### Arquivo de entrada para o programa em C
+
+O dataset final é exportado como um arquivo de texto simples — **um código EAN-13 por linha, sem cabeçalho, sem separadores** — formato ideal para leitura direta em C sem necessidade de parser:
+
+```python
+# Filtrar apenas EAN-13 válidos
+df_final = df13[df13["valido"]].copy()
+
+# Remover duplicatas
+df_final = df_final.drop_duplicates(subset="code")
+
+# Conferência final
+assert df_final["code"].str.len().eq(13).all()
+assert df_final["code"].str.isdigit().all()
+
+# Salvar: um código por linha, texto puro
+df_final["code"].to_csv("ean13_dataset.txt", index=False, header=False)
+```
+
+Arquivo resultante (`ean13_dataset.txt`):
+
+```txt
+0611103500043
+7891000100103
+3017620422003
+...
+```
+
+Esse é o arquivo oficial de entrada para os experimentos de inserção/busca nas duas árvores.
 
 ## Decisões de design da árvore
 
@@ -45,8 +93,49 @@ Implementar e comparar duas estruturas de Árvore Digital — **binária** e **m
 
 ## Pendências restantes
 
-- [ ] Baixar e inspecionar uma amostra real do CSV do Open Food Facts para validar formato exato da coluna `code` (com/sem zeros à esquerda, presença de UPC-12 misturado com EAN-13, etc.).
-- [ ] Decidir tratamento para códigos UPC-A (12 dígitos): normalizar prependando `0` (equivalente a EAN-13) ou excluir da amostra — documentar a decisão tomada.
+- [x] ~~Baixar e inspecionar uma amostra real do CSV do Open Food Facts~~ — feito; formato real confirmado (EAN-8 e EAN-13, sem UPC-A/mistura de padrões nessa amostra).
+- [x] ~~Decidir tratamento para códigos UPC-A (12 dígitos)~~ — não se aplicou; a base não continha UPC-A genuíno (as ocorrências de 12 dígitos eram artefato da leitura como `int64`, corrigidas ao reler como string).
+- [ ] Definir o(s) tamanho(s) de amostra para os experimentos (1k / 10k / 100k) a partir dos 8874 códigos disponíveis.
+
+## Exemplo de leitura do dataset em C
+
+Leitura do `ean13_dataset.txt` (13 dígitos + `\n` por linha) usando buffer de tamanho fixo, pronta para alimentar a inserção nas duas árvores:
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+#define TAM_CODIGO 13
+
+int main() {
+    FILE *f = fopen("ean13_dataset.txt", "r");
+    if (!f) {
+        perror("erro ao abrir arquivo");
+        return 1;
+    }
+
+    char code[TAM_CODIGO + 1]; // 13 dígitos + '\0'
+    int count = 0;
+
+    while (fscanf(f, "%13s", code) == 1) {
+        // inserir 'code' na árvore digital (binária e m-ária)
+        // ex.: arvore_binaria_inserir(raiz_bin, code);
+        //      arvore_m4_inserir(raiz_m4, code);
+        count++;
+    }
+
+    printf("Total de códigos lidos: %d\n", count);
+
+    fclose(f);
+    return 0;
+}
+```
+
+Notas de implementação:
+
+- `%13s` no `fscanf` limita a leitura a 13 caracteres por chamada, evitando overflow de buffer mesmo que uma linha esteja malformada.
+- O buffer `code[14]` reserva o byte extra para o terminador `'\0'`, já que `fscanf` com `%s` sempre insere o terminador automaticamente.
+- Para a etapa de codificação em bits (BCD, 4 bits por dígito — ver "Decisões de design da árvore"), cada caractere de `code` pode ser convertido com `code[i] - '0'` para obter o valor numérico do dígito antes de extrair os bits.
 
 ## Passos de desenvolvimento
 
