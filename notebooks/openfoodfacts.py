@@ -1,12 +1,11 @@
 # %%
 import pandas as pd
 
-df = pd.read_csv("./data/openfoodfacts.csv", usecols=["code"], dtype=str)
+df = pd.read_csv("./data/openfoodfacts.csv", usecols=["code", "product_name", "brands"], dtype=str)
 
 # remove nulos e espaços
 df["code"] = df["code"].str.strip()
 df = df.dropna(subset=["code"])
-df = df[df["code"] != ""]
 
 # padrão: comprimento + se é só dígitos
 df["is_digit"] = df["code"].str.isdigit()
@@ -60,7 +59,7 @@ assert df_final["code"].str.len().eq(13).all(), "Existe código com tamanho != 1
 assert df_final["code"].str.isdigit().all(), "Existe código não-numérico"
 
 # 4. Salvar: um código por linha, texto puro (ideal para C)
-df_final["code"].to_csv("./data/ean13_dataset.txt", index=False, header=False)
+df_final[["code", "product_name", "brands"]].to_csv("./data/ean13_dataset.txt", index=False, header=False)
 
 print("Salvo em ean13_dataset.txt")
 # %%
