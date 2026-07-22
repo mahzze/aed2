@@ -1136,7 +1136,7 @@
 8480000205599,Yogur griego natural,Spain,Hacendado
 3083681093926,Aubergines cuisinées à la Provençal,France,Cassegrain
 8480000094919,Muesli Frutas,"Portugal,Espanha","Hacendado, Mercadona"
-5099077004306,Sourdough  bagels,en:gb,Fitzgeralds Sourdough Bagels
+5099077004306,Sourdough bagels,en:gb,Fitzgeralds Sourdough Bagels
 3182180002436,Pain Grillé l'Original,France,BRIOCHE PASQUIER
 3165433724019,Cassonade pure canne,en:fr,Daddy
 3329770076471,Calin Extra,France,"Calin, Yoplait"
@@ -1150,7 +1150,7 @@
 3068320080000,Evian,"Belgium, France, Luxembourg, Switzerland, en:united-kingdom",Evian
 3175460000017,Boursin garlic & herbs,"Belgique,France,Allemagne,Suisse,Royaume-Uni",Boursin
 3175681077324,Biscuit chocolat saveur amande,"Francia,Reunión",Gerblé
-3175681116863,sablé sésame saveur vanille  - Gerblé sans sucres,France,Gerblé
+3175681116863,sablé sésame saveur vanille - Gerblé sans sucres,France,Gerblé
 3175681134935,"Gerblé - Sablés sans sucres saveur citron et Yuzu, 132g (4.7oz)","Belgique,France,Suisse",Gerblé
 3229820019604,Soja nature sans sucre ajouté bio,France,Bjorg
 3229820794648,Galette de mais,"France,Morocco",Bjorg
@@ -1286,7 +1286,7 @@
 4056489695363,Soya Unsweetened plant based,"Ireland, United Kingdom, en:netherlands",Lidl
 7622201695323,Halls,en:Morocco,Mondelez
 3088540502663,Miel de Montagne,"Belgique,France,Suisse","Bernard Michaud, L'Apiculteur"
-3095757697105,Blanc de Poulet  - 25% de Sel*,France,Fleury Michon
+3095757697105,Blanc de Poulet - 25% de Sel*,France,Fleury Michon
 3229820794112,Tofu fumé,"France,Switzerland",Bjorg
 3265474573000,Fleur de Colza,"France,Guadeloupe,Martinique,Suisse",Lesieur
 3412290071801,Paysan Breton - Le Fromage Fouetté Madame Loïk - Ail et fines herbes de nos régions françaises,"Belgium,France",Paysan Breton
@@ -1354,7 +1354,7 @@
 8480000057105,Pechuga de Pavo Cocida 92%,en:spain,Hacendado
 0898999010007,Coconut Water The Original,"Canada,France,United Kingdom,United States, World",Vita Coco
 3254691586054,le bio pour toute la famille multifruit,"France,La Réunion",pressade
-3272770096850,Le  goût primeur,France,Saint moret
+3272770096850,Le goût primeur,France,Saint moret
 5051790270581,Green Lentils In Water,"France,Royaume-Uni",Tesco
 5099801003315,Organic Porridge Oats,"France,United Kingdom",Flahavan's
 8715035110502,Sojasauce,"Kroatien,Dänemark,Frankreich,Deutschland,Schweiz,Vereinigtes Königreich",Kikkoman
@@ -1564,7 +1564,7 @@
 0072417196379,Shortbread Fingers,"Spain, en:united-kingdom",Paterson’s
 5036829756342,Moroccan Spiced Falafel,"Ireland, en:united-kingdom",Gosh
 7394376620713,Whole Oat Drink,United Kingdom,Oatly
-6111259344051,سيرجيو  صغيرة,en:morocco,
+6111259344051,سيرجيو صغيرة,en:morocco,
 5000354924712,Medium Egg Noodles imp,en:united-kingdom,"Sharwood's,Premier Foods"
 3083680901024,Ratatouille Cuisinée à la Provençal,France,Cassegrain
 3228020215090,Краве масло 82%,"Франция,Мароко,Реюнион,България,Белгия,Швейцария",Président
@@ -1672,7 +1672,7 @@
 5000111044202,Dark soy sauce,"Francia,España,Reino Unido",Amoy
 5050974503736,CRISP BREAD Blackpepper,"France, en:united-kingdom",RYVITA
 5060139434362,Cocoa Alpha Bites,United Kingdom,BEAR
-7622210713902,Belvita original  - Biscuits petit déjeuner miel & pépites de chocolat,"France,La Réunion,Suisse","Belvita, Lu, Mondelez"
+7622210713902,Belvita original - Biscuits petit déjeuner miel & pépites de chocolat,"France,La Réunion,Suisse","Belvita, Lu, Mondelez"
 7622210724519,Chocolat noir Bio 70%,"Belgique,France,La Réunion","Côte d'Or,Mondelez International"
 5000116107810,10 potato waffles,"United Kingdom, en:ireland",Birdseye
 5012262004011,Traditional Dairy Ice Cream,United Kingdom,Mackie's of Scotland
@@ -2123,7 +2123,7 @@
 4056489528005,Coconut Milk,"France, en:united-kingdom","Freshona, Lidl"
 8402001009266,Confitura de Fresa 0%,"Alemania,Marruecos,Portugal,España",Hacendado
 7394376620867,No Sugars Oat Drink,United Kingdom,Oatly
-6111203007353,la hollandaisr  8 p classique,en:Morocco,
+6111203007353,la hollandaisr 8 p classique,en:Morocco,
 0769503575261,Filets De Maquereaux À L’huile Végétale,en:Morocco,Marsa
 3011360002884,Secret d'arômes plein sud,France,Knorr
 3175681797420,Biscuit Chocolat Céréales,France,gerlinea
@@ -2173,7 +2173,7 @@
 5053827199667,Céréales trésor - chocolat au lait,"Belgique,France,Allemagne",Kellogg's
 8480000512031,Queso crema suave,"Portugal,España","Entrepinares,Hacendado"
 5056142400029,mutigrain brown,"France,United Kingdom",jacksons
-5010115900718,Golden  Syrup,United Kingdom,Lyle’s
+5010115900718,Golden Syrup,United Kingdom,Lyle’s
 8480000505453,Havarti,España,Hacendado
 8002470030923,Huile d'olive vierge extra Classico,France,Carapelli
 5411188131380,"Alpro Fermentiertes Kokosnussprodukt, Natur, Absolutely 350g","Germany, Spain, en:belgium",alpro
@@ -2405,7 +2405,7 @@
 6111249960988,Capri Vanille,Morocco,Excelo
 7613033687884,MAGGI Bouillon KUB Volaille 180g,"France,Suisse","Nestlé, Maggi"
 7613035694897,Pavé Gourmand Epinards et Fromage,France,Garden gourmet
-7622210450029,Prince -  Goût Lait -  Choco Au Blé Compet,"Canada,France,Switzerland",LU
+7622210450029,Prince - Goût Lait - Choco Au Blé Compet,"Canada,France,Switzerland",LU
 8003753900438,"Illy Classico 100% Arabica, 250g","Австралійський Союз,Бельгія,Франція,Німеччина,Італія,Марокко,Румунія,Велика Британія,Україна",Illy
 8714100846179,Maille Vinaigrette Légère Vinaigre de Vin Rouge & Échalotes 36cl,"France, Germany",Maille
 5999884034469,HELL,"Bulgaria,Grecia,India,Marruecos,Rumania,España,Túnez",Hell
@@ -2478,7 +2478,7 @@
 3179140213964,,France,Vahiné
 3187670002347,Pancakes sans conservateurs Farine de blé issue de Moulins Français,"France,Switzerland",Brioche Pasquier
 3251490432650,Croq' soja à la provencale,"France,Switzerland",Céréal Bio
-3272770093590,St Moret Ligne & Plaisir 8%  Minis,France,"Fromarsac, Savencia, St Moret"
+3272770093590,St Moret Ligne & Plaisir 8% Minis,France,"Fromarsac, Savencia, St Moret"
 3366321051631,matière grasse,"Belgique,France","St Hubert,St Hubert Oméga 3"
 4012860003110,Senf Mittelscharf,Deutschland,"Bautz'ner,Bautzner"
 5000119003867,Tesco Smooth Peanut Butter 340G,United Kingdom,Tesco
@@ -2608,7 +2608,7 @@
 6111037002647,magdor,en:Morocco,Tartines &cuisson
 6111252422411,Lipton Peche ice tea,en:Morocco,Lipton
 3033490004514,Yaourt le nature,France,"D.P.F.F.,Danone,Danone Produits Frais France"
-3038352880206,Ravioli pur bœuf  sans colorant ni conservateur,"France,Japon",Panzani
+3038352880206,Ravioli pur bœuf sans colorant ni conservateur,"France,Japon",Panzani
 3057640379048,"1,5L CITRON VOLVIC","France,Suisse",Volvic
 3175680012937,Biscuit chocolat noir,"France,Réunion",Gerblé
 3220035210008,Sucre Cassonade,"France, Germany, Switzerland, en:morocco",Saint louis
@@ -2738,7 +2738,7 @@
 3175681272934,Biscuits Petit déj Bio Céréales Miel,France,"Gerblé, Gerblé Bio"
 6926548796349,soy sauce,en:Morocco,
 3033491724633,Hipro,France,Danone
-3029330072690,4 Pains burger géant à la farine  complète,France,Jacquet
+3029330072690,4 Pains burger géant à la farine complète,France,Jacquet
 3560071407773,Croustillant graines de courge et de tournesol,"France, Italie, Espagne","Carrefour BIO, Carrefour"
 3038359011450,Panzani sce provencale 425g,en:fr,Panzani
 4056489479475,Seed Mix,en:gb,Alesto
@@ -2780,12 +2780,12 @@
 3660603081904,Mayonnaise comme à la maison,France,Bénédicta
 6111246721384,Ricotta 1%,Morocco,Jobnaty
 8480000156488,Bebida de Almendras Enriquecida con Calcio,España,Hacendado
-8480000223111,Natillas Proteínas  Sabor Vainilla,España,Hacendado
+8480000223111,Natillas Proteínas Sabor Vainilla,España,Hacendado
 3019089042242,Rillettes de saumon et de thon,France,PETIT NAVIRE
 3329770082403,Creme fraiche entière,Frankrijk,YOPLAIT
 6223000495926,Hohos,"France, en:morocco",
 8445290044891,Azera Americano,United Kingdom,Nescafé
-3178530423815,Petites Madeleines  -30% de sucres,France,St Michel
+3178530423815,Petites Madeleines -30% de sucres,France,St Michel
 5000169235973,Natural Strained Greek Yoghurt,"United Kingdom,Greece",Waitrose No 1
 3487400006745,Riz tomate à l’italienne,en:fr,ben’s original
 6111246721971,Creem cheese,en:Morocco,
@@ -3029,7 +3029,7 @@
 5000159500258,Celebrations,"Belgium, France, Germany, Hungary, en:morocco",MARS
 5000295136793,Light fat spread,United Kingdom,Clover
 5010003000247,Tasty Wholemeal 400g,"France, en:united-kingdom",Hovis
-5010975070095,Tunnock's  Caramel Wafer Biscuits imp,"Australia,United Kingdom",Thomas Tunnock LTD
+5010975070095,Tunnock's Caramel Wafer Biscuits imp,"Australia,United Kingdom",Thomas Tunnock LTD
 5019503002157,Mince,"France,United Kingdom",Quorn
 5052909896579,0% fat greek style yogurt,Royaume-Uni,Tesco
 5053827111027,Céréales Frosties,"France,Switzerland, en:belgium",Kellogg's
@@ -3540,7 +3540,7 @@
 8410376057270,Choco Tablet Zero sin Azúcares,"Marruecos,España",Gullón
 8711200344130,Tomato Ketchup,"Germany, en:united-kingdom",Hellmann's
 4056489108160,Хомогенизирано пълномаслено краве мляко 3.5%,"Bulgaria,Czech Republic,Denmark,Romania,Hungary",Pilos
-4056489150527,Erdnussbutter  creamy,"Frankreich,Deutschland,Rumänien,Schweiz","Lidl, Maribel"
+4056489150527,Erdnussbutter creamy,"Frankreich,Deutschland,Rumänien,Schweiz","Lidl, Maribel"
 4088600311357,Sweet chilli sauce,"Ireland,United Kingdom",Asia Specialities
 5060055251272,Finnebrogue Artisan Naked Bacon 6 Smoked Back Bacon Rashers,en:United Kingdom,Finnebrogue Artisan
 5056142400005,White Champion Bloomer,"United Kingdom,en:united-kingdom","Jacksons of Yorkshire,Jacksons"
@@ -3635,8 +3635,7 @@
 3176571744289,Candy'Up Goût Chocolat🍫,"Bélgica,Francia,España",Candia
 3182180060290,Tartines de Pain multi-céréales,France,Pasquier
 3217450004428,Salad Sauce | Dijonnaise | Without Oil,France,Le Jardin d'Orante
-3265478858004,"Vinaigrette légère
-vinaigre balsamique tomates et tomates séchée",France,Puget
+3265478858004,Vinaigrette légère vinaigre balsamique tomates et tomates séchée,France,Puget
 3265479724001,Vinaigrette Balsamique Ciboulette - Echalotes,France,Puget
 3273220083260,Soja myrtille,"France,French Polynesia,Switzerland",Sojasun
 3292070007905,Tzatziki,"France,Suisse",Blini
@@ -3798,7 +3797,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 3029330065883,Maxi Jac' Nature,France,Jacquet
 3083681057843,Haricots Verts extra-fins 1/4,France,Cassegrain
 3088545004018,Miel,"France,Qatar","Family Michaud, lune de miel"
-3175681225107,"Tendres carrés de blé aux aubergine, poivron,  basilic",France,Céréal bio
+3175681225107,"Tendres carrés de blé aux aubergine, poivron, basilic",France,Céréal bio
 3178530407983,Madeleine,"France,Royaume-Uni",Bonne Maman
 3228886043714,Ice tea saveur pêche,"France,La Réunion,Suisse",Lipton
 3229820134642,Soja cuisine fluide,"France, Switzerland, en:morocco","Bjorg, Bjorg Veggie"
@@ -3882,7 +3881,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 3501940369006,Pâte à tartiner bio - 40% noisettes - Chocolat Noir,France,Bovetti
 3564700009666,Biscottes sans sel x 34,France,"Marque Repère, Epi d'Or"
 3564700024164,Riz basmati,France,"Marque Repère, Comptoir du Grain"
-3564700582596,Pains grillés  Blé complet,France,"Marque Repère, Epi d'Or"
+3564700582596,Pains grillés Blé complet,France,"Marque Repère, Epi d'Or"
 3760020508371,Tartines craquantes Multicéréales,France,"JARDIN BIO ETIC, Jardin bio"
 3760021251184,SAINT ANTONIN Eau Minérale Naturelle Naturelle 1 L,"France, en:belgium",Saint-Antonin
 5000328741901,Chilli Heatwave Tortilla Chips,"France,United Kingdom",Doritos
@@ -4111,7 +4110,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 4335619022126,Tortilla Wraps Vollkorn,"Germany, en:france",GRAFSAFTER
 6111032009887,Jamila Maxi,en:Morocco,Raibi Jamila
 0154480000231,,Morocco,
-0011210115255,Tabasco -  Red Pepper Hot Sauce,"France,Royaume-Uni","Avery Island LA, McIhenny Company, Tabasco"
+0011210115255,Tabasco - Red Pepper Hot Sauce,"France,Royaume-Uni","Avery Island LA, McIhenny Company, Tabasco"
 0044000050986,Triscuit Cracker,"France,United States, World","Mondelez, Nabisco-Triscuit"
 0078895300024,Panda Brand Oyster Flavoured Sauce,"Australia, Canada, France, Germany, United States, en:united-kingdom",Lee Kum Kee
 3019081238728,Sardines huile d olive vierge,France,Parmentier
@@ -4142,7 +4141,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 5000168164045,Ginger Nuts,"France,Ireland,Spain,United Kingdom",McVitie's
 5000184221241,Knorr All Purpose Seasoning Aromat,"United Kingdom, en:ireland",Knorr
 5000232819109,Passata Sieved Tomatoes,"France,United Kingdom,en:united-kingdom",Napolina
-5000328347790,WALKERS  SALTED,United Kingdom,Walkers
+5000328347790,WALKERS SALTED,United Kingdom,Walkers
 5000328428581,Lime & Coriander Chutney Poppadoms,"France,United Kingdom","Sensations, Walkers"
 5010026505170,Creamy superfast oats,"France, en:united-kingdom",Mornflake
 5010477348555,Country Crisp 4 Noix,France,Jordans
@@ -4529,7 +4528,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 0055828910017,Organic Honey,"Canada, France, Morocco, World, en:algeria",Naturoney
 3033491273810,"Danone fromage blanc 3,2% de mg 825 x 1",France,"Danone, Danone jockey nature"
 3033491350863,Activia bifidus saveur noix de coco sans arome artificiel 125 gx 4,"Bélgica,Francia,España","Activia,Danone"
-3095758049019,Le Torchon - Cuit à l'Etouffée  - 25% de sel*,"France,en:france",Fleury Michon
+3095758049019,Le Torchon - Cuit à l'Etouffée - 25% de sel*,"France,en:france",Fleury Michon
 3155250367063,La Motte Beurre doux pasteurisé 82 % de mat. gr. eurre doux pasteurisé 82 % de mat. gr.,"France,Suisse,en:france","Lactalis, Président"
 3175681157774,"Blé, riz rouge, quinoa",France,Céréal Bio
 3229820019611,Soja Douceur,France,Bjorg
@@ -4619,7 +4618,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 4058172308277,Eisen + Vitamin C,Germany,Mivolis
 0068100084276,Smooth Peanut Butter,"Canada,France",Kraft
 3023260031017,La brique pur brebis,France,Lou Pérac
-3045320074895,Marmelade Oranges🍊 Amères  Bonne Maman,"France,Allemagne,en:Frankreich,en:Schweiz",Bonne Maman
+3045320074895,Marmelade Oranges🍊 Amères Bonne Maman,"France,Allemagne,en:Frankreich,en:Schweiz",Bonne Maman
 3045320104127,100% Pur jus oranges,"Belgique,France,Suisse",Andros
 3095756102013,Le Tranché Fin - Dégustation,France,Fleury Michon
 3175681104112,"Purée lentilles corail, potimarron",France,Céréal Bio
@@ -4673,7 +4672,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 8480000592491,Jamón cocido extra,España,Hacendado
 8710100127300,Cruesli Chocolate,"Itália,Espanha","PepsiCo, Quaker"
 8714100536186,Mint Sauce,"Australia, France, Switzerland, en:gb",Colman’s
-8722700027775,"Soupe Thai  (Nouilles, champignons et pousses de soja)  د تای سوپ",France,"Knorr, Unilever"
+8722700027775,"Soupe Thai (Nouilles, champignons et pousses de soja) د تای سوپ",France,"Knorr, Unilever"
 8722700430889,Maille Mini Cornichons Petits Croquants Bocal 210g,"France,Allemagne","Maille, Mini"
 8853662056005,Sriracha,"Germany, United Kingdom, en:spain",Flying Goose Brand
 6111021012102,Confiture d'abricots,Morocco,Aicha
@@ -4743,7 +4742,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 5000159557702,Twix 5x2,"Germany, Switzerland, en:france","Twix, Mars"
 6111261970903,Mayonnaise,Morocco,Top Chef
 3608580124078,Be Nuts! Crémeux,France,Andros
-3033491993138,Activia bien-être  digestif,en:fr,DANONE
+3033491993138,Activia bien-être digestif,en:fr,DANONE
 4056489757825,Milled Flaxseed,"Ireland, en:united-kingdom","Alesto, Lidl"
 6111245344188,Cheddar slice khayrat,"France, en:morocco",
 6111032009948,raib salim banan,en:Morocco,undefined
@@ -5034,7 +5033,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 8710637105390,Wraps Multigrains,"België,Frankrijk,Verenigde Staten van Amerika","Gruma,Mission Wrap"
 8718781824402,Cebolla frita,España,Hacendado
 9300641001079,Organic vanilla bean extract,"Germany, Frankreich, en:united-kingdom",Tailor & Colledge
-5000157062697,Cream of Mushroom  Soup,"France,Ireland,United Kingdom",Heinz
+5000157062697,Cream of Mushroom Soup,"France,Ireland,United Kingdom",Heinz
 5057545929582,Salted Popcorn,United Kingdom,Tesco
 7622210882974,Mini Eggs,"España,Reino Unido",Cadbury
 4056489009184,Tortelloni Pesto Basilico,"Finland, France, Germany, Hungary, Spain, en:united-kingdom","Toque du Chef, chef select"
@@ -5357,7 +5356,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 3083680002929,Macédoine 1/2,"France,en:france, République tchèque",Bonduelle
 3083680918497,Lentilles préparées 4/4,"France,Allemagne",Cassegrain
 3083681081596,Riz provencal 320g,"France, Belgique",Bonduelle
-3095757047108,Blanc de Poulet  - 25% de sel*,France,Fleury Michon
+3095757047108,Blanc de Poulet - 25% de sel*,France,Fleury Michon
 3116740030393,Longfizz,"Belgium,France",Lutti
 3123340008288,Le Fruit - Orange sans pulpe,"Belgique,France,États-Unis",Joker
 3161919369286,Les Mini-Beurre Doux,France,Elle & Vire
@@ -5371,7 +5370,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 3256220368339,Muesli floconneux 25% de fruits et noix,"France,Guadeloupe","U, U Bio"
 3270160862481,Aiguillettes de poulet au miel et aux épices semoule,"Belgique,France",Picard
 3270190212980,Carottes râpées Au jus de citron*,"Belgique,France",Carrefour
-3273220080207,Boisson de soja Calcium  Vitamine D,"France,Maroc,Suisse",Sojasun
+3273220080207,Boisson de soja Calcium Vitamine D,"France,Maroc,Suisse",Sojasun
 3278699005027,Yaourt à la vanille bio,"France,en:france",Malo
 3302741859105,"La Paëlla Valenciana, poulet rôti, chorizo et fruits de mer","France,Suisse",Fleury Michon
 3329770060142,Fromage blanc au lait demi-écrémé,"France,Switzerland","Calin,Calin standard,Yoplait"
@@ -5485,7 +5484,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 0643435676497,,en:france,Nestlé
 4335619022119,Nature Wrap De Blé,"Germany, en:france",Snack Day
 6111003031930,Morceaux De Maquereaux,en:Morocco,Lukus
-6111021005609,Pâte à tartiner noisettes  et cacao,Morocco,Aïcha
+6111021005609,Pâte à tartiner noisettes et cacao,Morocco,Aïcha
 6111262388394,Tobigo Gusty,Morocco,Tobigo
 6111266680883,Campo verde - Fromage,en:Morocco,Campo Verde
 0021000658831,Cheese Sauce Mix,"France,United States,Allemagne,Royaume-Uni",Kraft Heinz
@@ -5493,8 +5492,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 0049733830119,CHOLULA HOT SAUCE,"France,Mexico,Spain,United States,United Kingdom",CHOLULA
 3029330067047,Pain de mie au céréales et aux graines,France,Jacquet
 3033710084005,Arome MAGGI - Bouteille 1kg,"France, Suisse, en:new-caledonia",Maggi
-3036810281183,"Sauce salade légère 
-à la moutarde à l'ancienne",France,lesieur
+3036810281183,Sauce salade légère à la moutarde à l'ancienne,France,lesieur
 3038350103604,Torti Tomates & Épinards,France,Panzani
 3038354586403,Riz pour risotto,"Frankreich, Réunion, Germany",Taureau Ailé
 3038359005626,Riz Méditerranéen de Camargue,"France,Suisse,en:france",Taureau Ailé
@@ -5510,7 +5508,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 3250390010258,Emmental français râpé,"Bélgica,França",Páturages
 3250391468423,Carottes,France,Monique ranou
 3256540000704,Pains au lait format familial,"France,Suisse",Brioche Pasquier
-3266980028428,L'escalope Cordon Bleu  Dinde,France,Le gaulois
+3266980028428,L'escalope Cordon Bleu Dinde,France,Le gaulois
 3270190117209,Noir amandes entieres,"France,Italy,Spain",Carrefour
 3272770096843,St Moret,"Belgique,France","Savencia, St Moret"
 3273220083000,Sojasun citron,"France,Suisse",Sojasun
@@ -5535,7 +5533,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 5010102240384,Fruit Creations: Orange & Mango,United Kingdom,robinsons
 5011835102390,Organic Dark Cooking Chocolate,"France,Royaume-Uni,États-Unis",Green & Black's
 5018929050919,Extra Mature Cheddar,"France,United Kingdom",Pilgrim’s Choice
-5022019560202,Blueberry & Blackcurrant  Cordial,"Australia, France, Germany, en:united-kingdom",Belvoir Farm
+5022019560202,Blueberry & Blackcurrant Cordial,"Australia, France, Germany, en:united-kingdom",Belvoir Farm
 5022313729824,Smooth Orange Juice,United Kingdom,Tropicana
 5053827139335,All-bran choco,"France,Espagne",Kellogg's
 5057545755716,Natural Yogurt,"France, en:united-kingdom",Tesco
@@ -5802,7 +5800,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 5000246728756,Lighter spreadable,gb,Anchor
 8720608030330,Tisane nuit tranquille,Frankrijk,Elephant
 8402001010194,Penne Rigate Integral,Spain,Hacendado
-8052575090278,Nocciolata Pâte à tartiner Cacao  et Noisettes,France,RIGONI DI ASIAGO
+8052575090278,Nocciolata Pâte à tartiner Cacao et Noisettes,France,RIGONI DI ASIAGO
 8402001014062,Zumo naranja,España,Hacendado
 5056215600233,Whole Chestnuts,en:United Kingdom,Merchant Gourmet
 8424465915228,Pan 100% Integral Fino,en:spain,El Horno/Forno de Mercadona
@@ -5955,7 +5953,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 8402001013218,Salsa miel y mostaza,España,Hacendado
 5059697759765,plant chef organic firm tofu,en:United Kingdom,Tesco
 4056489817611,Muesli Crunchy Chocolat Noir Noisettes Grillées,France,Lidl
-8402001011771,Confitura de  melocotón 0%,"Alemania,Marruecos,Portugal,España",Hacendado
+8402001011771,Confitura de melocotón 0%,"Alemania,Marruecos,Portugal,España",Hacendado
 6111266751132,Pâte à tartiner aux noisettes,Morocco,Révey
 8480000133724,Palitos frutos secos,España,Hacendado
 4088600564869,Lightly Salted Tortilla Chips,en:united-kingdom,Everyday Essentials
@@ -6379,7 +6377,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 6111243570039,Dima biscuit,"France, en:morocco",
 6130234001161,Lalla Khedidja,"Algérie,France",Cevital
 6130576000020,Voda,"Algérie,France",Essalsabil
-6130788000023,صول  مرغرين,"Algieria,Francja",Mateg
+6130788000023,صول مرغرين,"Algieria,Francja",Mateg
 7300400481700,Volkoren Authentiek Rogge-Knäckebrod,"Belgium,France,Netherlands",Wasa
 7622300315283,Oreo Original,"France,Royaume-Uni",Oreo
 7622300383947,Caramelo Liquido,"Frankreich, Marokko, Spanien, Germany","Royal, Mondelez"
@@ -6951,9 +6949,9 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 3256220211291,Petit beurre 200g,France,U
 3256220259576,Chocolat noir dégustation 85% de cacao Tablette de 100g,France,U
 3259810006437,Huile d'olives vierge extra bio,France,Soléou
-3270160717668,pizza 4  saisons,"Belgique,France,Allemagne,Espagne",Picard
+3270160717668,pizza 4 saisons,"Belgique,France,Allemagne,Espagne",Picard
 3270190174349,Ravioli vegetariens,"France,United States","Carrefour BIO, Carrefour"
-3272770093583,St Môret Léger 8% MG.  bolv,"Belgium,France,Switzerland, en:morocco",St Moret
+3272770093583,St Môret Léger 8% MG. bolv,"Belgium,France,Switzerland, en:morocco",St Moret
 3279231182008,Yaourt brassé crème de marrons 2 x 160 g,France,La fermière
 3307130801154,Haricots verts extra-fins coupés,France,"Jardin bio, LEA Nature"
 3307907100084,L'Original,"France,Espagne","Fromagerie Guilloteau, Pavé d'Affinois"
@@ -7144,7 +7142,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 3228022120033,Emmental cœur de meule,France,Président
 3228881010971,Lipton Thé 5 Fruits Rouges 20 Sachets,"France,Guadeloupe,La Réunion,en:france",Lipton
 3229820788067,Galettes de Riz Chocolat au Lait,France,Bjorg
-3242272261650,XtremBox - Radiatori  Bœuf Sauce au poivre,France,"Sodebo, pasta xtrem"
+3242272261650,XtremBox - Radiatori Bœuf Sauce au poivre,France,"Sodebo, pasta xtrem"
 3245412589980,Biscuits Nature,"France, Italy, Poland, Romania, Spain, en:morocco",Carrefour
 3250390005650,Biscottes sans sel x36,France,Chabrior
 3250390271604,Cacao en poudre 100% - 250g,"France,Belgique",Ivoria
@@ -7270,7 +7268,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 3256228482341,Fromage blanc nature 3% MG 8x100g,France,U
 3256228437921,Pâte à tartiner aux noisettes pot 700g,France,"U, U Bio"
 6111099003071,Dora,en:ma,
-3770008009882,Les Fourrées  -  Beurre de Cacahuète & Cacao,France,Funkie
+3770008009882,Les Fourrées - Beurre de Cacahuète & Cacao,France,Funkie
 3421557502774,Muesli croustillant chocolat,France,Terres & Céréales Bio
 4056489239888,Super Berry Granola,en:gb,Deluxe
 3564706617520,Barre aux 4 céréales et figue,France,"Marque Repère, Grainéa"
@@ -7600,7 +7598,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 3073780968997,Kiri® Goûter 5 barquettes,"Belgique,France,Suisse","Bel, Kiri, Kiri gouter"
 3088542004264,Lait de nos fermes,France,Lune de Miel
 3088864620050,30 boudoirs 175g,"Frankreich, Germany",Brossard
-3095758050015,Le Torchon - Cuit à l'Etouffée  - 25% de sel*,France,Fleury Michon
+3095758050015,Le Torchon - Cuit à l'Etouffée - 25% de sel*,France,Fleury Michon
 3103220035771,Haribo pik,France,Haribo
 3175681085688,Pain complet de seigle aux graines de tournesol,France,Céréal BIO
 3175681152137,Quinoa au naturel,France,Cereal Bio
@@ -7739,7 +7737,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 8001480021976,,Marruecos,
 3564706604353,granola,France,"Marque Repère, Grainéa"
 5012427142503,Chicken broth,en:United Kingdom,Baxters
-3564706617483,"Grainéa Abricot barres aux 5 céréales Maîs,Blé, Seigle, Riz  x 6 barres",Frankrijk,GRAINÉA
+3564706617483,"Grainéa Abricot barres aux 5 céréales Maîs,Blé, Seigle, Riz x 6 barres",Frankrijk,GRAINÉA
 4088600247601,Taco Mixed Beans,United Kingdom,Four Seasons
 5000225005816,chilli packet,en:United Kingdom,schwartz
 4056489424406,Bio ginger turmeric shot,"Allemagne,France",Solevita
@@ -7829,7 +7827,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 3036812050640,Bouillon volaille &vermicelles,"Belgique,France",RoycoCampbell's
 3043934232700,Lait écrémé en poudre,France,Régilait
 3049580545560,Les Saucisse aux lentilles,France,William Saurin
-3095753235011,Blanc de Dinde  - 25% de sel*,"France,Suisse",Fleury Michon
+3095753235011,Blanc de Dinde - 25% de sel*,"France,Suisse",Fleury Michon
 3095757413019,Le supérieur cuit à l'étouffée - tranches fines - 25% de sel * - 6 tranches,France,Fleury Michon
 3103220006603,200G STARMINT HARIBO,France,Haribo
 3116740029809,Lutti best fizz tubo 550g,France,Lutti
@@ -7860,7 +7858,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 3259011223978,L'Authentique Vegan,France,Soy
 3263670052329,Foie de morue fumé au bois de hêtre,France,Connétable
 3263670128413,Sardines généreuses à la tomate sans huile,"France,Suisse",Connétable
-3265475009003,HUILE D'OLIVE  SQUEEZE,France,Puget
+3265475009003,HUILE D'OLIVE SQUEEZE,France,Puget
 3270160725915,"Colin d'Alaska au citron et au basilic, risotto verde",France,Picard
 3270160754656,Poêlée de légumes à la provencale,France,Picard
 3270190111108,MUESLI & Co 6 FRUITS SECS,"France,Guadeloupe,Italy,Martinique,Morocco,Poland,Spain",Carrefour
@@ -8268,7 +8266,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 3229820801131,Oui au végétal,France,Bjorg
 0612322001360,Gluten Free Wholegrain crackers,United Kingdom,Nairn's
 8434164562890,Miel de Flores,en:Morocco,Granja san francisco
-6111242600447,Tacos  wafer,en:Morocco,biscarose
+6111242600447,Tacos wafer,en:Morocco,biscarose
 5449000257796,Minute Maid,France,"Coca-Cola, Minute Maid"
 5025820000738,Sliced Green Jalapeño Peppers,"France,United Kingdom",Aleyna
 5060391626864,Smooth Peanut Butter,en:United Kingdom,Sun-Pat
@@ -8279,7 +8277,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 4088600398358,Mild Spanish Chorizo Ring,"Germany, en:united-kingdom",Aldi
 8002230350285,Aperol,"Frankreich, Germany","Aperol, San Giovanni"
 5018095011264,Mexican style grains,en:gb,Merchant Gourmet
-8001665712859,Plaisir du Primeur -  Girasoli cèpes,"France,Italie",Rana
+8001665712859,Plaisir du Primeur - Girasoli cèpes,"France,Italie",Rana
 3560071407742,Muesli 6 frutas,"France,Espagne","Carrefour BIO,Carrefour"
 3038359011467,Panzani sauce provencale nat 650g f12,France,Panzani
 5060084345539,Chicken tikka,en:gb,The Gym Kitchen
@@ -8612,7 +8610,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 4056489733645,Cocoa sandwich biscuits with vanilla flavoured crème filling,"Чехия,Франция,Германия,Италия,Обединено кралство Великобритания и Северна Ирландия,България",Tower Gate
 4088600563893,Pickled Pink Onions,en:gb,Aldi
 3661344912533,Skyr bio nature,France,Les 2 Vaches
-4002359018848,Nouilles UDON  natures,en:fr,Suzi Wan
+4002359018848,Nouilles UDON natures,en:fr,Suzi Wan
 3083681163155,Lunch bowl Riz & haricots 250g,"Francie,Německo,Lucembursko,Česko, Autriche, Hongrie, Pays-Bas, Portugal, Slovaquie, Espagne, Suisse",Bonduelle
 3760381260420,Façon presse-purée,France,Mousline
 3701002408586,Le fromager nature,en:fr,Le Fromager Des Halles
@@ -8639,7 +8637,7 @@ vinaigre balsamique tomates et tomates séchée",France,Puget
 0024463061163,SRIRACHA CHILI SAUCE,"États-Unis,Belgique","HUY FONG FOODS, INC."
 0030000010204,OLD FASHIONED,"France,Germany,United States, World",QUAKER OATS
 0030000012000,Quick 1-Minute Oats,"Canada,France,United States, World",Quaker Oats
-0077260062512,"Elegant collection a decadent 16 piece private reserve chocolate assortment, assortment","France,United States",Russell Stover Candies  Inc.
+0077260062512,"Elegant collection a decadent 16 piece private reserve chocolate assortment, assortment","France,United States",Russell Stover Candies Inc.
 0602652171864,Oats & Honey Granola with Toasted Coconut,"United States, World",KIND
 0689544083016,Total 0% Yougart,"United States, World",FAGE
 0884912180599,Shredded Wheat'n Bran,"United States, World","Post Consumer Brands, Post"

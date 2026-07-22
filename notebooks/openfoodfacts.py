@@ -1,7 +1,7 @@
 # %%
 import pandas as pd
 
-df = pd.read_csv("./data/openfoodfacts.csv", usecols=["code", "product_name", "countries", "brands"], dtype=str)
+df = pd.read_csv("./openfoodfacts.csv", usecols=["code", "product_name", "countries", "brands"], dtype=str)
 
 # remove nulos e espaços
 df["code"] = df["code"].str.strip()
@@ -61,7 +61,18 @@ assert df_final["code"].str.len().eq(13).all(), "Existe código com tamanho != 1
 assert df_final["code"].str.isdigit().all(), "Existe código não-numérico"
 
 # 4. Salvar: um código por linha, texto puro (ideal para C)
-df_final[["code", "product_name", "countries","brands"]].to_csv("./data/ean13_dataset.txt", index=False, header=False)
+# Substitui quebras de linha por espaço nos campos de texto
+colunas_texto = ["product_name", "countries", "brands"]
+
+for col in colunas_texto:
+    df_final[col] = (
+        df_final[col]
+        .fillna("")
+        .str.replace(r"[\r\n]+", " ", regex=True)  # quebra de linha -> espaço
+        .str.replace(r"\s+", " ", regex=True)      # remove espaços duplicados
+        .str.strip()                               # remove espaços nas pontas
+    )
+df_final[["code", "product_name", "countries","brands"]].to_csv("./ean13_dataset.txt", index=False, header=False)
 
 print("Salvo em ean13_dataset.txt")
 # %%
