@@ -17,6 +17,12 @@ typedef struct No{
     Produto *produto;
 } No;
 
+typedef struct Trie{
+    No *root;
+} Trie;
+
+
+
 
 No *NewNode(){
 
@@ -78,9 +84,9 @@ void ReadCampo(char **p, char *campo){
 }
 
 /*insere nós na arvore*/
-void TrieInsert(No *raiz, const char *codigo, const char *nome, const char *paises, const char *labels){
+void TrieInsert(Trie *raiz, const char *codigo, const char *nome, const char *paises, const char *labels){
 
-    No *atual = raiz;
+    No *atual = raiz->root;
 
     for(int i = 0; i < 13; i++){
 
@@ -96,9 +102,10 @@ void TrieInsert(No *raiz, const char *codigo, const char *nome, const char *pais
 }
 
 
-No *TrieCreate(FILE *fp){
+Trie *TrieCreate(FILE *fp){
 
-    No *raiz = NewNode();
+    Trie* newTrie = malloc(sizeof(Trie));
+    newTrie->root = NewNode();
 
     char linha[MAX_LINHA];
 
@@ -116,16 +123,16 @@ No *TrieCreate(FILE *fp){
         ReadCampo(&p, paises);
         ReadCampo(&p, labels);
 
-        TrieInsert(raiz, codigo, nome, paises, labels);
+        TrieInsert(newTrie, codigo, nome, paises, labels);
     }
 
-    return raiz;
+    return newTrie;
 }
 
 
-Produto *TrieSearch(No *raiz, const char *codigo){
+Produto *TrieSearch(Trie *raiz, const char *codigo){
 
-    No *atual = raiz;
+    No *atual = raiz->root;
 
     for(int i = 0; i < 13; i++){
 
@@ -169,7 +176,7 @@ int main(int argc, char *argv[]){
         return 1;
     }
 
-    No *raiz = TrieCreate(fp);
+    Trie *root = TrieCreate(fp);
 
     fclose(fp);
 
@@ -183,7 +190,7 @@ int main(int argc, char *argv[]){
         if(strcmp(codigo, "0") == 0)
             break;
 
-        Produto *p = TrieSearch(raiz, codigo);
+        Produto *p = TrieSearch(root, codigo);
 
         if(p == NULL){
 
@@ -199,7 +206,7 @@ int main(int argc, char *argv[]){
         }
     }
 
-    TrieDelete(raiz);
+    TrieDelete(root->root);
 
     return 0;
 }
