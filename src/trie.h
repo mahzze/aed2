@@ -20,11 +20,20 @@ void TrieInsert(Trie *raiz,
                 const char *codigo,
                 const char *nome,
                 const char *paises,
-                const char *labels);
+                const char *brand);
 
 Produto *TrieSearch(Trie *raiz,
                     const char *codigo);
 
 void TrieDelete(No *raiz);
+
+Produto *TrieRemove(Trie *raiz, const char *codigo);
+
+int TriePrefixos(Trie *raiz,
+                 const char *prefixo,
+                 int *digitos);
+
+int TrieContaPrefixo(Trie *raiz,
+                     const char *prefixo);
 
 #endif

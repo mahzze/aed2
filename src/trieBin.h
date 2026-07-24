@@ -22,11 +22,20 @@ void TrieInsertBin(Trie *raiz,
                 const char *codigo,
                 const char *nome,
                 const char *paises,
-                const char *labels);
+                const char *brand);
 
 Produto *TrieSearchBin(Trie *raiz,
                        const char *codigo);
 
 void TrieDeleteBin(No *raiz);
+
+Produto *TrieRemoveBin(Trie *raiz, const char *codigo);
+
+int TriePrefixosBin(Trie *raiz,
+                    const char *prefixo,
+                    int *digitos);
+
+int TrieContaPrefixoBin(Trie *raiz,
+                        const char *prefixo);
 
 #endif

@@ -5,13 +5,13 @@
 
 Produto *NewProduto(const char *nome,
                     const char *paises,
-                    const char *labels){
+                    const char *brand){
 
     Produto *p = malloc(sizeof(Produto));
 
     strcpy(p->nome, nome);
     strcpy(p->paises, paises);
-    strcpy(p->labels, labels);
+    strcpy(p->brand, brand);
 
     return p;
 }

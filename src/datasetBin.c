@@ -53,16 +53,16 @@ Trie *TrieCreateBin(FILE *fp){
         char codigo[14];
         char nome[MAX_TEXT];
         char paises[MAX_TEXT];
-        char labels[MAX_TEXT];
+        char brand[MAX_TEXT];
 
         char *p = linha;
 
         ReadCampo(&p, codigo);
         ReadCampo(&p, nome);
         ReadCampo(&p, paises);
-        ReadCampo(&p, labels);
+        ReadCampo(&p, brand);
 
-        TrieInsertBin(newTrie, codigo, nome, paises, labels);
+        TrieInsertBin(newTrie, codigo, nome, paises, brand);
     }
 
     return newTrie;

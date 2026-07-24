@@ -35,28 +35,106 @@ int main(int argc, char *argv[]){
 
     fclose(fp);
 
-    char codigo[14];
+    int opcao;
 
     while(1){
 
-        printf("\nDigite um codigo de 13 digitos (0 para sair): ");
-        scanf("%13s", codigo);
+        printf("\n");
+        printf("1 - Buscar produto\n");
+        printf("2 - Remover produto\n");
+        printf("3 - Proximos digitos validos\n");
+        printf("4 - Contar produtos com prefixo\n");
+        printf("0 - Sair\n");
+        printf("Opcao: ");
 
-        if(strcmp(codigo, "0") == 0)
+        scanf("%d", &opcao);
+
+        if(opcao == 0)
             break;
 
-        Produto *p = TrieSearch(root, codigo);
+        if(opcao == 1){
 
-        if(p == NULL){
+            char codigo[14];
 
-            printf("\nProduto nao encontrado.\n");
+            printf("Codigo: ");
+            scanf("%13s", codigo);
+
+            Produto *p = TrieSearch(root, codigo);
+
+            if(p == NULL){
+
+                printf("\nProduto nao encontrado.\n");
+
+            }else{
+
+                printf("\nProduto encontrado\n");
+                printf("Nome   : %s\n", p->nome);
+                printf("Paises : %s\n", p->paises);
+                printf("brand : %s\n", p->brand);
+
+            }
+
+        }else if(opcao == 2){
+
+            char codigo[14];
+
+            printf("Codigo a remover: ");
+            scanf("%13s", codigo);
+
+            Produto *p = TrieRemove(root, codigo);
+
+            if(p == NULL){
+
+                printf("Produto nao encontrado.\n");
+
+            }else{
+
+                printf("Produto removido\n");
+                printf("Nome   : %s\n", p->nome);
+                printf("Paises : %s\n", p->paises);
+                printf("brand : %s\n", p->brand);
+
+                free(p);
+            }
+
+        }else if(opcao == 3){
+
+            char prefixo[14];
+            int digitos[10];
+
+            printf("Prefixo: ");
+            scanf("%13s", prefixo);
+
+            int qtd = TriePrefixos(root, prefixo, digitos);
+
+            if(qtd == 0){
+
+                printf("Nenhuma continuacao encontrada.\n");
+
+            }else{
+
+                printf("Proximos digitos possiveis: ");
+
+                for(int i = 0; i < qtd; i++)
+                    printf("%d ", digitos[i]);
+
+                printf("\n");
+            }
+
+        }else if(opcao == 4){
+
+            char prefixo[14];
+
+            printf("Prefixo: ");
+            scanf("%13s", prefixo);
+
+            int qtd = TrieContaPrefixo(root, prefixo);
+
+            printf("Quantidade de produtos com esse prefixo: %d\n", qtd);
 
         }else{
 
-            printf("\nProduto encontrado\n");
-            printf("Nome    : %s\n", p->nome);
-            printf("Paises  : %s\n", p->paises);
-            printf("Labels  : %s\n", p->labels);
+            printf("Opcao invalida.\n");
 
         }
     }

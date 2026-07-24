@@ -6,11 +6,11 @@
 typedef struct Produto{
     char nome[MAX_TEXT];
     char paises[MAX_TEXT];
-    char labels[MAX_TEXT];
+    char brand[MAX_TEXT];
 } Produto;
 
 Produto *NewProduto(const char *nome,
                     const char *paises,
-                    const char *labels);
+                    const char *brand);
 
 #endif
