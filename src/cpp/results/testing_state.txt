@@ -1,0 +1,14 @@
+Products read from CSV file: "products.csv"
+Used values:
+	mainAmount = 5000
+	mainPrefixAmount = 10
+	initialAmount = 100
+	limitAmount = 8853
+	amountStep = 100
+	initialPrefixAmount = 1
+	limitPrefixAmount = 50
+	prefixAmountStep = 1
+	testPrefixSize = 3
+	overallRepetitions = 50
+	eachSearchRepetitions = 10
+Tests performed on: 2026-07-24 08:31:20.7734920
