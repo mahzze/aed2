@@ -3,6 +3,21 @@
 #include "trie.h"
 #include "produto.h"
 
+void codigoParaBits(const char *codigo, char bits[53]){
+
+    int k = 0;
+
+    for(int i = 0; i < 13; i++){
+
+        int d = codigo[i] - '0';
+
+        for(int b = 3; b >= 0; b--)
+            bits[k++] = ((d >> b) & 1) + '0';
+    }
+
+    bits[k] = '\0';
+}
+
 No *NewNode(){
 
     No *novo = malloc(sizeof(No));
@@ -15,17 +30,20 @@ No *NewNode(){
     return novo;
 }
 
-void TrieInsert(Trie *raiz,
+void TrieInsertBin(Trie *raiz,
                 const char *codigo,
                 const char *nome,
                 const char *paises,
                 const char *labels){
 
+    char bits[53];
+    codigoParaBits(codigo, bits);
+
     No *atual = raiz->root;
 
-    for(int i = 0; i < 13; i++){
+    for(int i = 0; i < 52; i++){
 
-        int indice = codigo[i] - '0';
+        int indice = bits[i] - '0';
 
         if(atual->filho[indice] == NULL)
             atual->filho[indice] = NewNode();
@@ -36,16 +54,16 @@ void TrieInsert(Trie *raiz,
     atual->produto = NewProduto(nome, paises, labels);
 }
 
-Produto *TrieSearch(Trie *raiz, const char *codigo){
+Produto *TrieSearchBin(Trie *raiz, const char *codigo){
+
+    char bits[53];
+    codigoParaBits(codigo, bits);
 
     No *atual = raiz->root;
 
-    for(int i = 0; i < 13; i++){
+    for(int i = 0; i < 52; i++){
 
-        int indice = codigo[i] - '0';
-
-        if(indice < 0 || indice >= M)
-            return NULL;
+        int indice = bits[i] - '0';
 
         if(atual->filho[indice] == NULL)
             return NULL;
@@ -56,13 +74,13 @@ Produto *TrieSearch(Trie *raiz, const char *codigo){
     return atual->produto;
 }
 
-void TrieDelete(No *raiz){
+void TrieDeleteBin(No *raiz){
 
     if(raiz == NULL)
         return;
 
     for(int i = 0; i < M; i++)
-        TrieDelete(raiz->filho[i]);
+        TrieDeleteBin(raiz->filho[i]);
 
     free(raiz->produto);
     free(raiz);

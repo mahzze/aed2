@@ -2,8 +2,10 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "trie.h"
-#include "dataset.h"
+//#include "trie.h"
+//#include "dataset.h"
+#include "trieBin.h"
+#include "datasetBin.h"
 
 // leitura dos dados e construcao da trie
 
@@ -31,7 +33,7 @@ int main(int argc, char *argv[]){
         return 1;
     }
 
-    Trie *root = TrieCreate(fp);
+    Trie *root = TrieCreateBin(fp);
 
     fclose(fp);
 
@@ -45,7 +47,7 @@ int main(int argc, char *argv[]){
         if(strcmp(codigo, "0") == 0)
             break;
 
-        Produto *p = TrieSearch(root, codigo);
+        Produto *p = TrieSearchBin(root, codigo);
 
         if(p == NULL){
 
@@ -61,8 +63,51 @@ int main(int argc, char *argv[]){
         }
     }
 
-    TrieDelete(root->root);
+    TrieDeleteBin(root->root);
     free(root);
+
+
+    /*
+    FILE *fp = fopen(argv[1], "r");
+
+    if(fp == NULL){
+        perror("Erro ao abrir arquivo");
+        return 1;
+    }
+
+    Trie *root = TrieCreate(fp);
+
+    fclose(fp);
+
+    char codigo[14];
+
+    while(1){
+
+        printf("\nDigite um codigo de 13 digitos (0 para sair): ");
+        scanf("%13s", codigo);
+
+        if(strcmp(codigo, "0") == 0)
+            break;
+
+        Produto *p = TrieSearchBin(root, codigo);
+
+        if(p == NULL){
+
+            printf("\nProduto nao encontrado.\n");
+
+        }else{
+
+            printf("\nProduto encontrado\n");
+            printf("Nome    : %s\n", p->nome);
+            printf("Paises  : %s\n", p->paises);
+            printf("Labels  : %s\n", p->labels);
+
+        }
+    }
+
+    TrieDeleteBin(root->root);
+    free(root);
+    */
 
     return 0;
 }

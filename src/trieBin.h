@@ -3,7 +3,7 @@
 
 #include "produto.h"
 
-#define M 10
+#define M 2
 
 typedef struct No{
     struct No *filho[M];
@@ -14,17 +14,19 @@ typedef struct Trie{
     No *root;
 } Trie;
 
+void codigoParaBits(const char *codigo, char bits[53]);
+
 No *NewNode(void);
 
-void TrieInsert(Trie *raiz,
+void TrieInsertBin(Trie *raiz,
                 const char *codigo,
                 const char *nome,
                 const char *paises,
                 const char *labels);
 
-Produto *TrieSearch(Trie *raiz,
-                    const char *codigo);
+Produto *TrieSearchBin(Trie *raiz,
+                       const char *codigo);
 
-void TrieDelete(No *raiz);
+void TrieDeleteBin(No *raiz);
 
 #endif
