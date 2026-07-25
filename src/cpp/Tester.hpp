@@ -135,12 +135,14 @@ double Tester::testInsert(Trie<D, M> & trie, const std::vector<size_t> & indexes
 	}
 
 	auto end = std::chrono::high_resolution_clock::now();  // "para o cronômetro"
-	auto elapsed = std::chrono::duration<double, std::milli>(end - start);  // calcula o intervalo de tempo entre 'start' e 'end' (double representando ms)
+	auto elapsed = std::chrono::duration<double, std::micro>(end - start);  // calcula o intervalo de tempo entre 'start' e 'end' (double representando ms)
 
 	std::cout << "\t\t\tInsertion complete: " << countInserted << " elements (from a total of " << countAll << ") inserted in Trie of arity " << M << ".\n";
-	std::cout << "\t\t\tTime required: " << elapsed.count() << "ms.\n\n";
+	std::cout << "\t\t\tTime required: " << elapsed.count() << "us.\n";
+	std::cout << "\t\t\tAverage time required per succesful insert(): " << elapsed.count() / countInserted << "us.\n";
+	std::cout << "\t\t\tAverage time required per insert(): " << elapsed.count() / countAll << "us.\n\n";
 
-	return elapsed.count();
+	return elapsed.count() / countAll;
 }
 template <typename D, size_t M>
 double Tester::testSearch(Trie<D, M> & trie, const std::vector<size_t> & indexes, DataBase<D> & fromDB, size_t repetitions)
@@ -189,14 +191,16 @@ double Tester::testSearch(Trie<D, M> & trie, const std::vector<size_t> & indexes
 	}
 
 	auto end = std::chrono::high_resolution_clock::now();  // "para o cronômetro"
-	auto elapsed = std::chrono::duration<double, std::milli>(end - start);  // calcula o intervalo de tempo entre 'start' e 'end' (double representando ms)
+	auto elapsed = std::chrono::duration<double, std::micro>(end - start);  // calcula o intervalo de tempo entre 'start' e 'end' (double representando ms)
 
 	std::cout << "\t\t\tSearch complete: " << countFound << " elements (from a total of " << countAll << ") found in Trie of arity " << M << ".\n";
 	std::cout << "\t\t\tExecuted " << repetitions << " times.\n";
-	std::cout << "\t\t\tTotal time required: " << elapsed.count() << "ms.\n";
-	std::cout << "\t\t\tAverage time required per execution: " << elapsed.count() / repetitions << "ms.\n\n";
+	std::cout << "\t\t\tTotal time required: " << elapsed.count() << "us.\n";
+	std::cout << "\t\t\tAverage time required per execution: " << elapsed.count() / repetitions << "us.\n";
+	std::cout << "\t\t\tAverage time required per succesful search(): " << (elapsed.count() / repetitions) / countFound << "us.\n";
+	std::cout << "\t\t\tAverage time required per search(): " << (elapsed.count() / repetitions) / countAll << "us.\n\n";
 
-	return elapsed.count() / repetitions;
+	return (elapsed.count() / repetitions) / countAll;
 }
 template <typename D, size_t M>
 double Tester::testSearchPrefix(Trie<D, M> & trie, size_t prefixSize, const std::vector<size_t> & ofIndexes, DataBase<D> & fromDB, size_t repetitions)
@@ -247,16 +251,19 @@ double Tester::testSearchPrefix(Trie<D, M> & trie, size_t prefixSize, const std:
 	}
 
 	auto end = std::chrono::high_resolution_clock::now();  // "para o cronômetro"
-	auto elapsed = std::chrono::duration<double, std::milli>(end - start);  // calcula o intervalo de tempo entre 'start' e 'end' (double representando ms)
+	auto elapsed = std::chrono::duration<double, std::micro>(end - start);  // calcula o intervalo de tempo entre 'start' e 'end' (double representando ms)
 
 	std::cout << "\t\t\tPrefix search complete: " << countPrefixesFound << " prefixes (from a total of " << countAll << ") found in Trie of arity " << M << ".\n";
 	std::cout << "\t\t\tTotal of " << countDataFound << " elements found and collected by prefix.\n";
 	std::cout << "\t\t\tAverage of " << ((countPrefixesFound != 0) ? countDataFound / countPrefixesFound : 0) << " elements found and collected per prefix searched.\n";
 	std::cout << "\t\t\tExecuted " << repetitions << " times.\n";
-	std::cout << "\t\t\tTotal time required: " << elapsed.count() << "ms.\n";
-	std::cout << "\t\t\tAverage time required per execution: " << elapsed.count() / repetitions << "ms.\n\n";
+	std::cout << "\t\t\tTotal time required: " << elapsed.count() << "us.\n";
+	std::cout << "\t\t\tAverage time required per execution: " << elapsed.count() / repetitions << "us.\n";
+	std::cout << "\t\t\tAverage time required per succesful searchPrefix(): " << (elapsed.count() / repetitions) / countPrefixesFound << "us.\n";
+	std::cout << "\t\t\tAverage time required per element found and collected: " << (elapsed.count() / repetitions) / countDataFound << "us.\n";
+	std::cout << "\t\t\tAverage time required per searchPrefix(): " << (elapsed.count() / repetitions) / countAll << "us.\n\n";
 
-	return elapsed.count() / repetitions;
+	return (elapsed.count() / repetitions) / countAll;
 }
 template <typename D, size_t M>
 double Tester::testRemove(Trie<D, M> & trie, const std::vector<size_t> & indexes, DataBase<D> & fromDB)
@@ -301,12 +308,14 @@ double Tester::testRemove(Trie<D, M> & trie, const std::vector<size_t> & indexes
 	}
 
 	auto end = std::chrono::high_resolution_clock::now();  // "para o cronômetro"
-	auto elapsed = std::chrono::duration<double, std::milli>(end - start);  // calcula o intervalo de tempo entre 'start' e 'end' (double representando ms)
+	auto elapsed = std::chrono::duration<double, std::micro>(end - start);  // calcula o intervalo de tempo entre 'start' e 'end' (double representando ms)
 
 	std::cout << "\t\t\tRemoval complete: " << countRemoved << " elements (from a total of " << countAll << ") removed from Trie of arity " << M << ".\n";
-	std::cout << "\t\t\tTime required: " << elapsed.count() << "ms.\n\n";
+	std::cout << "\t\t\tTime required: " << elapsed.count() << "us.\n";
+	std::cout << "\t\t\tAverage time required per succesful remove(): " << elapsed.count() / countRemoved << "us.\n";
+	std::cout << "\t\t\tAverage time required per remove(): " << elapsed.count() / countAll << "us.\n\n";
 
-	return elapsed.count();
+	return elapsed.count() / countAll;
 }
 
 // Funções especializadas para o teste conjunto de 3 Tries: uma binária, uma quaternária e uma decimal (implementação)
@@ -345,12 +354,12 @@ std::tuple<double, double, double> Tester::testInsert_3Tries(size_t amount, Data
 
 	std::cout << "\n\t^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n";
 	std::cout << "\tTOTAL OF " << repetitions << " EXECUTIONS OF TRIPLE TESTING (INSERT).\n\n";
-	std::cout << "\tBINARY TRIE - TOTAL TIME REQUIRED: " << accumulatedResult_2 << "ms.\n";
-	std::cout << "\tBINARY TRIE - AVERAGE TIME REQUIRED PER EXECUTION: " << accumulatedResult_2 / repetitions << "ms.\n\n";
-	std::cout << "\tQUATERNARY TRIE - TOTAL TIME REQUIRED: " << accumulatedResult_4 << "ms.\n";
-	std::cout << "\tQUATERNARY TRIE - AVERAGE TIME REQUIRED PER EXECUTION: " << accumulatedResult_4 / repetitions << "ms.\n\n";
-	std::cout << "\tDECIMAL TRIE - TOTAL TIME REQUIRED: " << accumulatedResult_10 << "ms.\n";
-	std::cout << "\tDECIMAL TRIE - AVERAGE TIME REQUIRED PER EXECUTION: " << accumulatedResult_10 / repetitions << "ms.\n\n\n\n";
+	std::cout << "\tBINARY TRIE - TOTAL TIME REQUIRED: " << accumulatedResult_2 << "us.\n";
+	std::cout << "\tBINARY TRIE - AVERAGE TIME REQUIRED PER EXECUTION: " << accumulatedResult_2 / repetitions << "us.\n\n";
+	std::cout << "\tQUATERNARY TRIE - TOTAL TIME REQUIRED: " << accumulatedResult_4 << "us.\n";
+	std::cout << "\tQUATERNARY TRIE - AVERAGE TIME REQUIRED PER EXECUTION: " << accumulatedResult_4 / repetitions << "us.\n\n";
+	std::cout << "\tDECIMAL TRIE - TOTAL TIME REQUIRED: " << accumulatedResult_10 << "us.\n";
+	std::cout << "\tDECIMAL TRIE - AVERAGE TIME REQUIRED PER EXECUTION: " << accumulatedResult_10 / repetitions << "us.\n\n\n\n";
 
 	return {accumulatedResult_2 / repetitions, accumulatedResult_4 / repetitions, accumulatedResult_10 / repetitions};
 }
@@ -389,12 +398,12 @@ std::tuple<double, double, double> Tester::testSearch_3Tries(size_t amount, Data
 
 	std::cout << "\n\t^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n";
 	std::cout << "\tTOTAL OF " << overallRepetitions << " EXECUTIONS OF TRIPLE TESTING (SEARCH).\n\n";
-	std::cout << "\tBINARY TRIE - TOTAL TIME REQUIRED (SUM OF AVERAGES): " << accumulatedResult_2 << "ms.\n";
-	std::cout << "\tBINARY TRIE - AVERAGE TIME REQUIRED PER SINGLE EXECUTION: " << accumulatedResult_2 / overallRepetitions << "ms.\n\n";
-	std::cout << "\tQUATERNARY TRIE - TOTAL TIME REQUIRED (SUM OF AVERAGES): " << accumulatedResult_4 << "ms.\n";
-	std::cout << "\tQUATERNARY TRIE - AVERAGE TIME REQUIRED PER SINGLE EXECUTION: " << accumulatedResult_4 / overallRepetitions << "ms.\n\n";
-	std::cout << "\tDECIMAL TRIE - TOTAL TIME REQUIRED (SUM OF AVERAGES): " << accumulatedResult_10 << "ms.\n";
-	std::cout << "\tDECIMAL TRIE - AVERAGE TIME REQUIRED PER SINGLE EXECUTION: " << accumulatedResult_10 / overallRepetitions << "ms.\n\n\n\n";
+	std::cout << "\tBINARY TRIE - TOTAL TIME REQUIRED (SUM OF AVERAGES): " << accumulatedResult_2 << "us.\n";
+	std::cout << "\tBINARY TRIE - AVERAGE TIME REQUIRED PER SINGLE EXECUTION: " << accumulatedResult_2 / overallRepetitions << "us.\n\n";
+	std::cout << "\tQUATERNARY TRIE - TOTAL TIME REQUIRED (SUM OF AVERAGES): " << accumulatedResult_4 << "us.\n";
+	std::cout << "\tQUATERNARY TRIE - AVERAGE TIME REQUIRED PER SINGLE EXECUTION: " << accumulatedResult_4 / overallRepetitions << "us.\n\n";
+	std::cout << "\tDECIMAL TRIE - TOTAL TIME REQUIRED (SUM OF AVERAGES): " << accumulatedResult_10 << "us.\n";
+	std::cout << "\tDECIMAL TRIE - AVERAGE TIME REQUIRED PER SINGLE EXECUTION: " << accumulatedResult_10 / overallRepetitions << "us.\n\n\n\n";
 
 	return {accumulatedResult_2 / overallRepetitions, accumulatedResult_4 / overallRepetitions, accumulatedResult_10 / overallRepetitions};
 }
@@ -433,12 +442,12 @@ std::tuple<double, double, double> Tester::testSearchPrefix_3Tries(size_t prefix
 
 	std::cout << "\n\t^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n";
 	std::cout << "\tTOTAL OF " << overallRepetitions << " EXECUTIONS OF TRIPLE TESTING (PREFIX SEARCH).\n\n";
-	std::cout << "\tBINARY TRIE - TOTAL TIME REQUIRED (SUM OF AVERAGES): " << accumulatedResult_2 << "ms.\n";
-	std::cout << "\tBINARY TRIE - AVERAGE TIME REQUIRED PER SINGLE EXECUTION: " << accumulatedResult_2 / overallRepetitions << "ms.\n\n";
-	std::cout << "\tQUATERNARY TRIE - TOTAL TIME REQUIRED (SUM OF AVERAGES): " << accumulatedResult_4 << "ms.\n";
-	std::cout << "\tQUATERNARY TRIE - AVERAGE TIME REQUIRED PER SINGLE EXECUTION: " << accumulatedResult_4 / overallRepetitions << "ms.\n\n";
-	std::cout << "\tDECIMAL TRIE - TOTAL TIME REQUIRED (SUM OF AVERAGES): " << accumulatedResult_10 << "ms.\n";
-	std::cout << "\tDECIMAL TRIE - AVERAGE TIME REQUIRED PER SINGLE EXECUTION: " << accumulatedResult_10 / overallRepetitions << "ms.\n\n\n\n";
+	std::cout << "\tBINARY TRIE - TOTAL TIME REQUIRED (SUM OF AVERAGES): " << accumulatedResult_2 << "us.\n";
+	std::cout << "\tBINARY TRIE - AVERAGE TIME REQUIRED PER SINGLE EXECUTION: " << accumulatedResult_2 / overallRepetitions << "us.\n\n";
+	std::cout << "\tQUATERNARY TRIE - TOTAL TIME REQUIRED (SUM OF AVERAGES): " << accumulatedResult_4 << "us.\n";
+	std::cout << "\tQUATERNARY TRIE - AVERAGE TIME REQUIRED PER SINGLE EXECUTION: " << accumulatedResult_4 / overallRepetitions << "us.\n\n";
+	std::cout << "\tDECIMAL TRIE - TOTAL TIME REQUIRED (SUM OF AVERAGES): " << accumulatedResult_10 << "us.\n";
+	std::cout << "\tDECIMAL TRIE - AVERAGE TIME REQUIRED PER SINGLE EXECUTION: " << accumulatedResult_10 / overallRepetitions << "us.\n\n\n\n";
 
 	return {accumulatedResult_2 / overallRepetitions, accumulatedResult_4 / overallRepetitions, accumulatedResult_10 / overallRepetitions};
 }
@@ -477,12 +486,12 @@ std::tuple<double, double, double> Tester::testRemove_3Tries(size_t amount, Data
 
 	std::cout << "\n\t^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n";
 	std::cout << "\tTOTAL OF " << repetitions << " EXECUTIONS OF TRIPLE TESTING (REMOVE).\n\n";
-	std::cout << "\tBINARY TRIE - TOTAL TIME REQUIRED: " << accumulatedResult_2 << "ms.\n";
-	std::cout << "\tBINARY TRIE - AVERAGE TIME REQUIRED PER EXECUTION: " << accumulatedResult_2 / repetitions << "ms.\n\n";
-	std::cout << "\tQUATERNARY TRIE - TOTAL TIME REQUIRED: " << accumulatedResult_4 << "ms.\n";
-	std::cout << "\tQUATERNARY TRIE - AVERAGE TIME REQUIRED PER EXECUTION: " << accumulatedResult_4 / repetitions << "ms.\n\n";
-	std::cout << "\tDECIMAL TRIE - TOTAL TIME REQUIRED: " << accumulatedResult_10 << "ms.\n";
-	std::cout << "\tDECIMAL TRIE - AVERAGE TIME REQUIRED PER EXECUTION: " << accumulatedResult_10 / repetitions << "ms.\n\n\n\n";
+	std::cout << "\tBINARY TRIE - TOTAL TIME REQUIRED: " << accumulatedResult_2 << "us.\n";
+	std::cout << "\tBINARY TRIE - AVERAGE TIME REQUIRED PER EXECUTION: " << accumulatedResult_2 / repetitions << "us.\n\n";
+	std::cout << "\tQUATERNARY TRIE - TOTAL TIME REQUIRED: " << accumulatedResult_4 << "us.\n";
+	std::cout << "\tQUATERNARY TRIE - AVERAGE TIME REQUIRED PER EXECUTION: " << accumulatedResult_4 / repetitions << "us.\n\n";
+	std::cout << "\tDECIMAL TRIE - TOTAL TIME REQUIRED: " << accumulatedResult_10 << "us.\n";
+	std::cout << "\tDECIMAL TRIE - AVERAGE TIME REQUIRED PER EXECUTION: " << accumulatedResult_10 / repetitions << "us.\n\n\n\n";
 
 	return {accumulatedResult_2 / repetitions, accumulatedResult_4 / repetitions, accumulatedResult_10 / repetitions};
 }
@@ -496,7 +505,7 @@ Tester::testInsert_3Tries_variousAmounts(const std::vector<size_t> & amounts, Da
 
 	for (size_t i = 0; i < amounts.size(); i++)
 	{
-		std::cout << "\t********** RUNNING TRIPLE TESTING (INSERT) FOR AMOUNT[" << i << "] = " << amounts[i] << " * *****************************\n\n";
+		std::cout << "\t********** RUNNING TRIPLE TESTING (INSERT) FOR AMOUNT[" << i << "] = " << amounts[i] << " ******************************\n\n";
 		std::tuple<double, double, double> avgTuple = testInsert_3Tries(amounts[i], fromDB, repetitions);
 		result.push_back(avgTuple);
 	}
@@ -513,7 +522,7 @@ Tester::testSearch_3Tries_variousAmounts(const std::vector<size_t> & amounts, Da
 
 	for (size_t i = 0; i < amounts.size(); i++)
 	{
-		std::cout << "\t********** RUNNING TRIPLE TESTING (SEARCH) FOR AMOUNT[" << i << "] = " << amounts[i] << " * *****************************\n\n";
+		std::cout << "\t********** RUNNING TRIPLE TESTING (SEARCH) FOR AMOUNT[" << i << "] = " << amounts[i] << " ******************************\n\n";
 		std::tuple<double, double, double> avgTuple = testSearch_3Tries(amounts[i], fromDB, overallRepetitions, eachSearchRepetitions);
 		result.push_back(avgTuple);
 	}
@@ -530,7 +539,7 @@ Tester::testSearchPrefix_3Tries_variousAmounts(size_t prefixSize, const std::vec
 
 	for (size_t i = 0; i < amounts.size(); i++)
 	{
-		std::cout << "\t********** RUNNING TRIPLE TESTING (PREFIX SEARCH) FOR AMOUNT[" << i << "] = " << amounts[i] << " * *****************************\n\n";
+		std::cout << "\t********** RUNNING TRIPLE TESTING (PREFIX SEARCH) FOR AMOUNT[" << i << "] = " << amounts[i] << " ******************************\n\n";
 		std::tuple<double, double, double> avgTuple = testSearchPrefix_3Tries(prefixSize, amounts[i], fromDB, overallRepetitions, eachSearchRepetitions);
 		result.push_back(avgTuple);
 	}
@@ -547,7 +556,7 @@ Tester::testRemove_3Tries_variousAmounts(const std::vector<size_t> & amounts, Da
 
 	for (size_t i = 0; i < amounts.size(); i++)
 	{
-		std::cout << "\t********** RUNNING TRIPLE TESTING (REMOVE) FOR AMOUNT[" << i << "] = " << amounts[i] << " * *****************************\n\n";
+		std::cout << "\t********** RUNNING TRIPLE TESTING (REMOVE) FOR AMOUNT[" << i << "] = " << amounts[i] << " ******************************\n\n";
 		std::tuple<double, double, double> avgTuple = testRemove_3Tries(amounts[i], fromDB, repetitions);
 		result.push_back(avgTuple);
 	}
@@ -668,24 +677,24 @@ std::pair<std::vector<std::vector<std::tuple<double, double, double>>>, std::vec
 Tester::runTests(const std::string & csvFilePath)
 {
 	// Quantidades e base de dados principais
-	size_t mainAmount = 5000;
-	size_t mainPrefixAmount = 10;
+	size_t mainAmount = 5000;  // referência: 5000
+	size_t mainPrefixAmount = 10;  // referência: 10
 	DataBase<Product> mainDB(csvFilePath);
 
 	// Valores necessários
-	size_t initialAmount = 100, limitAmount = mainDB.size(), amountStep = 100;
-	size_t initialPrefixAmount = 1, limitPrefixAmount = 50, prefixAmountStep = 1;
-	size_t testPrefixSize = 3;
-	size_t overallRepetitions = 50, eachSearchRepetitions = 10;
+	size_t initialAmount = 100, limitAmount = mainDB.size(), amountStep = 100;  // referências: 100, mainDB.size(), 100
+	size_t initialPrefixAmount = 1, limitPrefixAmount = 50, prefixAmountStep = 1;  // referências: 1, 50, 1
+	size_t testPrefixSize = 3;  // referência: 3
+	size_t overallRepetitions = 50, eachSearchRepetitions = 10;  // referências: 50, 10
 
 	// Quantidades e bases de dados diversas (para testes comparativos e análise de resultados)
 	std::vector<size_t> amounts;
-	for (size_t a = initialAmount; a < limitAmount; a += amountStep)
+	for (size_t a = initialAmount; a <= limitAmount; a += amountStep)
 	{
 		amounts.push_back(a);
 	}
 	std::vector<size_t> prefixAmounts;
-	for (size_t pA = initialPrefixAmount; pA < limitPrefixAmount; pA += prefixAmountStep)
+	for (size_t pA = initialPrefixAmount; pA <= limitPrefixAmount; pA += prefixAmountStep)
 	{
 		prefixAmounts.push_back(pA);
 	}
@@ -745,11 +754,11 @@ void Tester::exportCSVs(const std::pair<std::vector<std::vector<std::tuple<doubl
 			std::ofstream fout(fileName);
 			if (not fout) { return; }
 
-			fout << "amount,binary_ms,quaternary_ms,decimal_ms\n";
+			fout << "amount,binary_total_ms,quaternary_total_ms,decimal_total_ms\n";
 			for (size_t i = 0; i < result.first[opIndex].size(); i++)
 			{
 				auto [b, q, d] = result.first[opIndex][i];
-				fout << amounts[i] << "," << b << "," << q << "," << d << "\n";
+				fout << amounts[i] << "," << (b * amounts[i]) / 1000 << "," << (q * amounts[i]) / 1000 << "," << (d * amounts[i]) / 1000 << "\n";
 			}
 
 			std::cout << "Saved: " << fileName << "\n";
@@ -759,11 +768,11 @@ void Tester::exportCSVs(const std::pair<std::vector<std::vector<std::tuple<doubl
 			std::ofstream fout(fileName);
 			if (not fout) { return; }
 
-			fout << "amount,binary_ms,quaternary_ms,decimal_ms\n";
+			fout << "amount,binary_total_ms,quaternary_total_ms,decimal_total_ms\n";
 			for (size_t i = 0; i < result.first[opIndex].size(); i++)
 			{
 				auto [b, q, d] = result.first[opIndex][i];
-				fout << prefixAmounts[i] << "," << b << "," << q << "," << d << "\n";
+				fout << prefixAmounts[i] << "," << (b * prefixAmounts[i]) / 1000 << "," << (q * prefixAmounts[i]) / 1000 << "," << (d * prefixAmounts[i]) / 1000 << "\n";
 			}
 
 			std::cout << "Saved: " << fileName << "\n";
@@ -773,7 +782,7 @@ void Tester::exportCSVs(const std::pair<std::vector<std::vector<std::tuple<doubl
 			std::ofstream fout(fileName);
 			if (not fout) { return; }
 
-			fout << "database_size,binary_ms,quaternary_ms,decimal_ms\n";
+			fout << "database_size,binary_avg_us,quaternary_avg_us,decimal_avg_us\n";
 			for (size_t i = 0; i < result.second[opIndex].size(); i++)
 			{
 				auto [b, q, d] = result.second[opIndex][i];
