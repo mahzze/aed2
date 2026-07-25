@@ -38,4 +38,6 @@ int TriePrefixosBin(Trie *raiz,
 int TrieContaPrefixoBin(Trie *raiz,
                         const char *prefixo);
 
+size_t TrieMemoriaBin(Trie *raiz, int *quantidadeNos);
+
 #endif

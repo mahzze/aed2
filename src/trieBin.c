@@ -259,3 +259,34 @@ int TrieContaPrefixoBin(Trie *raiz,
 
     return ContaProdutosBin(atual);
 }
+
+static int ContaNosBin(No *no){
+
+    if(no == NULL)
+        return 0;
+
+    int total = 1;
+
+    for(int i = 0; i < M; i++)
+        total += ContaNosBin(no->filho[i]);
+
+    return total;
+}
+
+size_t TrieMemoriaBin(Trie *raiz, int *quantidadeNos){
+
+    if(raiz == NULL){
+
+        if(quantidadeNos != NULL)
+            *quantidadeNos = 0;
+
+        return 0;
+    }
+
+    int nos = ContaNosBin(raiz->root);
+
+    if(quantidadeNos != NULL)
+        *quantidadeNos = nos;
+
+    return (size_t)nos * sizeof(No);
+}

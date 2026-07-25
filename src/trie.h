@@ -36,4 +36,6 @@ int TriePrefixos(Trie *raiz,
 int TrieContaPrefixo(Trie *raiz,
                      const char *prefixo);
 
+size_t TrieMemoria(Trie *raiz, int *quantidadeNos);
+
 #endif

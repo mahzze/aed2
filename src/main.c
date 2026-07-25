@@ -17,130 +17,223 @@
 // 2 - sair
 
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+
+#include "trie.h"
+
+#define MAX_PRODUTOS 1000000
+#define REP 1
+#define PREFIXO 5
+
+char codigos[MAX_PRODUTOS][14];
+int nCodigos = 0;
+
+void LerCodigos(const char *arquivo){
+
+    FILE *fp = fopen(arquivo, "r");
+
+    if(fp == NULL){
+        perror("Erro ao abrir arquivo");
+        exit(1);
+    }
+
+    char linha[4096];
+
+    fgets(linha, sizeof(linha), fp);
+
+    while(fgets(linha, sizeof(linha), fp)){
+
+        sscanf(linha, "%13[^,]", codigos[nCodigos]);
+        nCodigos++;
+    }
+
+    fclose(fp);
+}
+
+double TempoMs(clock_t ini, clock_t fim){
+
+    return 1000.0 * (fim - ini) / CLOCKS_PER_SEC;
+}
+
 int main(int argc, char *argv[]){
 
     if(argc != 2){
-        printf("Uso: %s arquivo.txt\n", argv[0]);
+
+        printf("Uso: %s dataset.csv\n", argv[0]);
         return 1;
     }
+
+    LerCodigos(argv[1]);
 
     FILE *fp = fopen(argv[1], "r");
 
     if(fp == NULL){
-        perror("Erro ao abrir arquivo");
+
+        perror("Erro");
         return 1;
     }
 
+    clock_t ini, fim;
+
+    printf("=====================================\n");
+    printf("          BENCHMARK TRIE\n");
+    printf("=====================================\n\n");
+
+    printf("Produtos: %d\n", nCodigos);
+    printf("Repeticoes: %d\n\n", REP);
+
+    /*=========================
+      CRIAÇÃO
+    =========================*/
+
+    ini = clock();
+
     Trie *root = TrieCreate(fp);
+
+    fim = clock();
+
+    int nos;
+    size_t memoria = TrieMemoria(root, &nos);
+
+    printf("\n===== MEMORIA =====\n");
+    printf("Nos               : %d\n", nos);
+    printf("Memoria da trie   : %.2f KB\n", memoria / 1024.0);
 
     fclose(fp);
 
-    int opcao;
+    printf("Criacao              : %10.3lf ms\n",
+           TempoMs(ini,fim));
 
-    while(1){
+    /*=========================
+      BUSCA EXISTENTE
+    =========================*/
 
-        printf("\n");
-        printf("1 - Buscar produto\n");
-        printf("2 - Remover produto\n");
-        printf("3 - Proximos digitos validos\n");
-        printf("4 - Contar produtos com prefixo\n");
-        printf("0 - Sair\n");
-        printf("Opcao: ");
+    ini = clock();
 
-        scanf("%d", &opcao);
+    for(int r=0;r<REP;r++)
+        for(int i=0;i<nCodigos;i++)
+            TrieSearch(root,codigos[i]);
 
-        if(opcao == 0)
-            break;
+    fim = clock();
 
-        if(opcao == 1){
+    printf("Busca existente      : %10.3lf ms (%.3lf us/op)\n",
+           TempoMs(ini,fim),
+           TempoMs(ini,fim)*1000.0/(REP*nCodigos));
 
-            char codigo[14];
+    /*=========================
+      BUSCA INEXISTENTE
+    =========================*/
 
-            printf("Codigo: ");
-            scanf("%13s", codigo);
+    ini = clock();
 
-            Produto *p = TrieSearch(root, codigo);
+    for(int r=0;r<REP;r++){
 
-            if(p == NULL){
-
-                printf("\nProduto nao encontrado.\n");
-
-            }else{
-
-                printf("\nProduto encontrado\n");
-                printf("Nome   : %s\n", p->nome);
-                printf("Paises : %s\n", p->paises);
-                printf("brand : %s\n", p->brand);
-
-            }
-
-        }else if(opcao == 2){
+        for(int i=0;i<nCodigos;i++){
 
             char codigo[14];
 
-            printf("Codigo a remover: ");
-            scanf("%13s", codigo);
+            strcpy(codigo,codigos[i]);
 
-            Produto *p = TrieRemove(root, codigo);
+            codigo[12] = (codigo[12]=='9') ? '8' : '9';
 
-            if(p == NULL){
-
-                printf("Produto nao encontrado.\n");
-
-            }else{
-
-                printf("Produto removido\n");
-                printf("Nome   : %s\n", p->nome);
-                printf("Paises : %s\n", p->paises);
-                printf("brand : %s\n", p->brand);
-
-                free(p);
-            }
-
-        }else if(opcao == 3){
-
-            char prefixo[14];
-            int digitos[10];
-
-            printf("Prefixo: ");
-            scanf("%13s", prefixo);
-
-            int qtd = TriePrefixos(root, prefixo, digitos);
-
-            if(qtd == 0){
-
-                printf("Nenhuma continuacao encontrada.\n");
-
-            }else{
-
-                printf("Proximos digitos possiveis: ");
-
-                for(int i = 0; i < qtd; i++)
-                    printf("%d ", digitos[i]);
-
-                printf("\n");
-            }
-
-        }else if(opcao == 4){
-
-            char prefixo[14];
-
-            printf("Prefixo: ");
-            scanf("%13s", prefixo);
-
-            int qtd = TrieContaPrefixo(root, prefixo);
-
-            printf("Quantidade de produtos com esse prefixo: %d\n", qtd);
-
-        }else{
-
-            printf("Opcao invalida.\n");
-
+            TrieSearch(root,codigo);
         }
     }
 
+    fim = clock();
+
+    printf("Busca inexistente    : %10.3lf ms (%.3lf us/op)\n",
+           TempoMs(ini,fim),
+           TempoMs(ini,fim)*1000.0/(REP*nCodigos));
+
+    /*=========================
+      PREFIXOS
+    =========================*/
+
+    int digitos[10];
+
+    ini = clock();
+
+    for(int r=0;r<REP;r++){
+
+        for(int i=0;i<nCodigos;i++){
+
+            char prefixo[PREFIXO+1];
+
+            strncpy(prefixo,codigos[i],PREFIXO);
+            prefixo[PREFIXO]='\0';
+
+            TriePrefixos(root,prefixo,digitos);
+        }
+    }
+
+    fim = clock();
+
+    printf("Prefixos             : %10.3lf ms (%.3lf us/op)\n",
+           TempoMs(ini,fim),
+           TempoMs(ini,fim)*1000.0/(REP*nCodigos));
+
+    /*=========================
+      CONTA PREFIXO
+    =========================*/
+
+    ini = clock();
+
+    for(int r=0;r<REP;r++){
+
+        for(int i=0;i<nCodigos;i++){
+
+            char prefixo[PREFIXO+1];
+
+            strncpy(prefixo,codigos[i],PREFIXO);
+            prefixo[PREFIXO]='\0';
+
+            TrieContaPrefixo(root,prefixo);
+        }
+    }
+
+    fim = clock();
+
+    printf("Conta prefixo        : %10.3lf ms (%.3lf us/op)\n",
+           TempoMs(ini,fim),
+           TempoMs(ini,fim)*1000.0/(REP*nCodigos));
+
+    /*=========================
+      REMOÇÃO
+    =========================*/
+
+    ini = clock();
+
+    for(int i=0;i<nCodigos;i++){
+
+        Produto *p = TrieRemove(root,codigos[i]);
+
+        if(p != NULL)
+            free(p);
+    }
+
+    fim = clock();
+
+    printf("Remocao              : %10.3lf ms (%.3lf us/op)\n",
+           TempoMs(ini,fim),
+           TempoMs(ini,fim)*1000.0/nCodigos);
+
+    /*=========================
+      DESTRUIÇÃO
+    =========================*/
+
+    ini = clock();
+
     TrieDelete(root->root);
     free(root);
+
+    fim = clock();
+
+    printf("Destruicao           : %10.3lf ms\n",
+           TempoMs(ini,fim));
 
     return 0;
 }
