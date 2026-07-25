@@ -1,4 +1,4 @@
-Products read from CSV file: "products.csv"
+Products read from CSV file: "ean13_dataset.csv"
 Used values:
 	mainAmount = 5000
 	mainPrefixAmount = 10
@@ -11,4 +11,4 @@ Used values:
 	testPrefixSize = 3
 	overallRepetitions = 50
 	eachSearchRepetitions = 10
-Tests performed on: 2026-07-24 08:31:20.7734920
+Tests performed on: 2026-07-25 04:49:59.8127013
