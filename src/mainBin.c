@@ -87,13 +87,34 @@ int main(int argc, char *argv[]){
     printf("Produtos: %d\n", nCodigos);
     printf("Repeticoes: %d\n\n", REP);
 
-    /*=========================
-      CRIAÇÃO
-    =========================*/
+    //CRIAÇÃO
 
-double tempos[REP];
+    double tempos[REP];
 
-for(int r = 0; r < REP; r++){
+    for(int r = 0; r < REP; r++){
+
+        fp = fopen(argv[1], "r");
+
+        if(fp == NULL){
+            perror("Erro");
+            return 1;
+        }
+
+        ini = clock();
+
+        Trie *rootTeste = TrieCreateBin(fp);
+
+        fim = clock();
+
+        tempos[r] = TempoMs(ini, fim);
+
+        fclose(fp);
+        TrieDeleteBin(rootTeste);
+    }
+
+    double mediaCriacao = Media(tempos, REP);
+
+    //Cria a trie definitiva para os demais testes
 
     fp = fopen(argv[1], "r");
 
@@ -102,226 +123,188 @@ for(int r = 0; r < REP; r++){
         return 1;
     }
 
-    ini = clock();
-
-    Trie *rootTeste = TrieCreateBin(fp);
-
-    fim = clock();
-
-    tempos[r] = TempoMs(ini, fim);
+    Trie *root = TrieCreateBin(fp);
 
     fclose(fp);
-    TrieDeleteBin(rootTeste);
-}
 
-double mediaCriacao = Media(tempos, REP);
+    int nos;
+    size_t memoria = TrieMemoriaBin(root, &nos);
 
-/* Cria a trie definitiva para os demais testes */
+    printf("\n===== MEMORIA =====\n");
+    printf("Nos               : %d\n", nos);
+    printf("Memoria da trie   : %.2f KB\n", memoria / 1024.0);
 
-fp = fopen(argv[1], "r");
-
-if(fp == NULL){
-    perror("Erro");
-    return 1;
-}
-
-Trie *root = TrieCreateBin(fp);
-
-fclose(fp);
-
-int nos;
-size_t memoria = TrieMemoriaBin(root, &nos);
-
-printf("\n===== MEMORIA =====\n");
-printf("Nos               : %d\n", nos);
-printf("Memoria da trie   : %.2f KB\n", memoria / 1024.0);
-
-printf("Criacao              : %10.3lf ms (%.3lf us/prod)\n",
-       mediaCriacao,
-       mediaCriacao * 1000.0 / nCodigos);
+    printf("Criacao              : %10.3lf ms (%.3lf us/prod)\n",
+        mediaCriacao,
+        mediaCriacao * 1000.0 / nCodigos);
 
 
+    for(int r = 0; r < REP; r++){
 
+        Trie *rootInsert = malloc(sizeof(Trie));
+        rootInsert->root = NewNode();
 
-for(int r = 0; r < REP; r++){
+        ini = clock();
 
-    Trie *rootInsert = malloc(sizeof(Trie));
-    rootInsert->root = NewNode();
+        for(int i = 0; i < nCodigos; i++){
 
-    ini = clock();
+            TrieInsertBin(rootInsert,
+                        codigos[i],
+                        nomes[i],
+                        paises[i],
+                        brands[i]);
+        }
 
-    for(int i = 0; i < nCodigos; i++){
+        fim = clock();
 
-        TrieInsertBin(rootInsert,
-                      codigos[i],
-                      nomes[i],
-                      paises[i],
-                      brands[i]);
+        tempos[r] = TempoMs(ini, fim);
+
+        TrieDeleteBin(rootInsert);
     }
 
-    fim = clock();
+    double mediaInsercao = Media(tempos, REP);
 
-    tempos[r] = TempoMs(ini, fim);
+    printf("Insercao             : %10.3lf ms (%.3lf us/op)\n",
+        mediaInsercao,
+        mediaInsercao * 1000.0 / nCodigos);
 
-    TrieDeleteBin(rootInsert);
-}
+    //BUSCA EXISTENTE
 
-double mediaInsercao = Media(tempos, REP);
+    for(int r = 0; r < REP; r++){
 
-printf("Insercao             : %10.3lf ms (%.3lf us/op)\n",
-       mediaInsercao,
-       mediaInsercao * 1000.0 / nCodigos);
+        ini = clock();
 
+        for(int i = 0; i < nCodigos; i++)
+            TrieSearchBin(root, codigos[i]);
 
+        fim = clock();
 
-    /*=========================
-      BUSCA EXISTENTE
-    =========================*/
-
-for(int r = 0; r < REP; r++){
-
-    ini = clock();
-
-    for(int i = 0; i < nCodigos; i++)
-        TrieSearchBin(root, codigos[i]);
-
-    fim = clock();
-
-    tempos[r] = TempoMs(ini, fim);
-}
-
-double mediaBusca = Media(tempos, REP);
-
-printf("Busca existente      : %10.3lf ms (%.3lf us/op)\n",
-       mediaBusca,
-       mediaBusca * 1000.0 / nCodigos);
-
-    /*=========================
-      BUSCA INEXISTENTE
-    =========================*/
-
-for(int r = 0; r < REP; r++){
-
-    ini = clock();
-
-    for(int i = 0; i < nCodigos; i++){
-
-        char codigo[14];
-
-        strcpy(codigo, codigos[i]);
-
-        codigo[11] = (codigo[11]=='9') ? '8' : '9';
-        codigo[12] = (codigo[12]=='9') ? '8' : '9';
-
-        TrieSearchBin(root, codigo);
+        tempos[r] = TempoMs(ini, fim);
     }
 
-    fim = clock();
+    double mediaBusca = Media(tempos, REP);
 
-    tempos[r] = TempoMs(ini, fim);
-}
+    printf("Busca existente      : %10.3lf ms (%.3lf us/op)\n",
+        mediaBusca,
+        mediaBusca * 1000.0 / nCodigos);
 
-double mediaBuscaInv = Media(tempos, REP);
+    //BUSCA INEXISTENTE
 
-printf("Busca inexistente    : %10.3lf ms (%.3lf us/op)\n",
-       mediaBuscaInv,
-       mediaBuscaInv * 1000.0 / nCodigos);
+    for(int r = 0; r < REP; r++){
 
-    /*=========================
-      PREFIXOS
-    =========================*/
+        ini = clock();
 
-int digitos[10];
+        for(int i = 0; i < nCodigos; i++){
 
-for(int r = 0; r < REP; r++){
+            char codigo[14];
 
-    ini = clock();
+            strcpy(codigo, codigos[i]);
 
-    for(int i = 0; i < nCodigos; i++){
+            codigo[11] = (codigo[11]=='9') ? '8' : '9';
+            codigo[12] = (codigo[12]=='9') ? '8' : '9';
 
-        char prefixo[PREFIXO+1];
+            TrieSearchBin(root, codigo);
+        }
 
-        strncpy(prefixo, codigos[i], PREFIXO);
-        prefixo[PREFIXO] = '\0';
+        fim = clock();
 
-        TriePrefixosBin(root, prefixo, digitos);
+        tempos[r] = TempoMs(ini, fim);
     }
 
-    fim = clock();
+    double mediaBuscaInv = Media(tempos, REP);
 
-    tempos[r] = TempoMs(ini, fim);
-}
+    printf("Busca inexistente    : %10.3lf ms (%.3lf us/op)\n",
+        mediaBuscaInv,
+        mediaBuscaInv * 1000.0 / nCodigos);
 
-double mediaPrefixo = Media(tempos, REP);
+    //PREFIXOS
 
-printf("Prefixos             : %10.3lf ms (%.3lf us/op)\n",
-       mediaPrefixo,
-       mediaPrefixo * 1000.0 / nCodigos);
+    int digitos[10];
 
-    /*=========================
-      CONTA PREFIXO
-    =========================*/
-for(int r = 0; r < REP; r++){
+    for(int r = 0; r < REP; r++){
 
-    ini = clock();
+        ini = clock();
 
-    for(int i = 0; i < nCodigos; i++){
+        for(int i = 0; i < nCodigos; i++){
 
-        char prefixo[PREFIXO+1];
+            char prefixo[PREFIXO+1];
 
-        strncpy(prefixo, codigos[i], PREFIXO);
-        prefixo[PREFIXO] = '\0';
+            strncpy(prefixo, codigos[i], PREFIXO);
+            prefixo[PREFIXO] = '\0';
 
-        TrieContaPrefixoBin(root, prefixo);
+            TriePrefixosBin(root, prefixo, digitos);
+        }
+
+        fim = clock();
+
+        tempos[r] = TempoMs(ini, fim);
     }
 
-    fim = clock();
+    double mediaPrefixo = Media(tempos, REP);
 
-    tempos[r] = TempoMs(ini, fim);
-}
+    printf("Prefixos             : %10.3lf ms (%.3lf us/op)\n",
+        mediaPrefixo,
+        mediaPrefixo * 1000.0 / nCodigos);
 
-double mediaConta = Media(tempos, REP);
+    //CONTA PREFIXO
 
-printf("Conta prefixo        : %10.3lf ms (%.3lf us/op)\n",
-       mediaConta,
-       mediaConta * 1000.0 / nCodigos);
+    for(int r = 0; r < REP; r++){
 
-    /*=========================
-      REMOÇÃO
-    =========================*/
+        ini = clock();
 
-for(int r = 0; r < REP; r++){
+        for(int i = 0; i < nCodigos; i++){
 
-    rewind(fp);
+            char prefixo[PREFIXO+1];
 
-    Trie *rootRem = TrieCreateBin(fp);
+            strncpy(prefixo, codigos[i], PREFIXO);
+            prefixo[PREFIXO] = '\0';
 
-    ini = clock();
+            TrieContaPrefixoBin(root, prefixo);
+        }
 
-    for(int i = 0; i < nCodigos; i++){
+        fim = clock();
 
-        Produto *p = TrieRemoveBin(rootRem, codigos[i]);
-
-        if(p != NULL)
-            free(p);
+        tempos[r] = TempoMs(ini, fim);
     }
 
-    fim = clock();
+    double mediaConta = Media(tempos, REP);
 
-    tempos[r] = TempoMs(ini, fim);
+    printf("Conta prefixo        : %10.3lf ms (%.3lf us/op)\n",
+        mediaConta,
+        mediaConta * 1000.0 / nCodigos);
 
-    TrieDeleteBin(rootRem);
-}
+    //REMOÇÃO
 
-double mediaRemocao = Media(tempos, REP);
+    for(int r = 0; r < REP; r++){
 
-printf("Remocao              : %10.3lf ms (%.3lf us/op)\n",
+        rewind(fp);
+
+        Trie *rootRem = TrieCreateBin(fp);
+
+        ini = clock();
+
+        for(int i = 0; i < nCodigos; i++){
+
+            Produto *p = TrieRemoveBin(rootRem, codigos[i]);
+
+            if(p != NULL)
+                free(p);
+        }
+
+        fim = clock();
+
+        tempos[r] = TempoMs(ini, fim);
+
+        TrieDeleteBin(rootRem);
+    }
+
+    double mediaRemocao = Media(tempos, REP);
+
+    printf("Remocao              : %10.3lf ms (%.3lf us/op)\n",
        mediaRemocao,
        mediaRemocao * 1000.0 / nCodigos);
 
-    /*=========================
-      DESTRUIÇÃO
-    =========================*/
+    //DESTRUIÇÃO
 
     ini = clock();
 
