@@ -25,7 +25,7 @@ void TrieInsert(Trie *raiz,
 Produto *TrieSearch(Trie *raiz,
                     const char *codigo);
 
-void TrieDelete(No *raiz);
+void TrieDelete(Trie *raiz);
 
 Produto *TrieRemove(Trie *raiz, const char *codigo);
 

@@ -56,17 +56,28 @@ Produto *TrieSearch(Trie *raiz, const char *codigo){
     return atual->produto;
 }
 
-void TrieDelete(No *raiz){
+void TrieDeleteRec(No *raiz){
 
     if(raiz == NULL)
         return;
 
     for(int i = 0; i < M; i++)
-        TrieDelete(raiz->filho[i]);
+        TrieDeleteRec(raiz->filho[i]);
 
     free(raiz->produto);
     free(raiz);
 }
+
+void TrieDelete(Trie *raiz){
+
+    if(raiz == NULL)
+        return;
+
+    TrieDeleteRec(raiz->root);
+
+    free(raiz);
+}
+
 
 /*=========================================================
     REMOÇÃO

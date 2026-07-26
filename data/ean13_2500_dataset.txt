@@ -1,0 +1,2500 @@
+6111035000430,Sidi Ali,Morocco,سيدي علي
+6111242100992,perly,"Morocco,United States",perly
+6111035002175,Sidi Ali,Morocco,Sidi Ali
+6111035000058,Eau minérale naturelle,Morocco,"Les Eaux Minérales d'oulmès,Sidi Ali"
+6111252421568,اكوافينا,المغرب,AQUAFINA
+6111266962187,Lait,Morocco,Jaouda
+3274080005003,Eau De Source,"Belgium,Côte d'Ivoire,France,Germany,Guadeloupe,Italy,Luxembourg,Mali,Martinique,New Caledonia,Switzerland,United Kingdom",Cristaline
+6111246721261,Fromage blanc nature,Morocco,MILKY FOOD PROFESSIONAL
+6111242101180,uht jaouda 1L,"Democratic Republic of the Congo,Mauritania,Morocco,United States",Jaouda
+6111242106949,Jben,"Maroc,en:morocco",Jaouda
+6111128000071,Ain Saïss,Maroc,Danone
+6111035502828,Eau minéral naturelle,Morocco,Ain atlas
+6111242100985,,Maroc,Jaouda
+6111099003897,,"Morocco,United States",lilia
+6111252421582,اكوافينا,Maroc,pepsi
+7622210449283,Prince Goût Chocolat,"Algeria,Belgium,France,French Polynesia,Germany,Guadeloupe,Hungary,Luxembourg,Martinique,Morocco,New Caledonia,Réunion,Spain,Switzerland,United States",LU
+3046920029759,Excellence Noir Prodigieux 90% Cacao,"Algérie,Autriche,Belgique,Bulgarie,Canada,République tchèque,Finlande,France,Polynésie française,Allemagne,Irlande,Italie,Maurice,Maroc,Pays-Bas,Norvège,La Réunion,Roumanie,Singapour,Espagne,Suède,Suisse,Tunisie,Royaume-Uni",Lindt
+6111035003035,Oulmes natural carbonated water,Maroc,Les eaux minérales d'Oulmès S.A.
+3017620425035,Nutella,"Algérie,Belgique,Bulgarie,France,Allemagne,Guadeloupe,Inde,Italie,Luxembourg,Martinique,Maroc,La Réunion,Espagne,Suisse,Tunisie,Royaume-Uni,États-Unis",Ferrero
+5449000147417,Orange juice,Marocco,Coca cola
+6111031005064,Tonik,Morocco,bimo
+6111180000231,levure pâtisserie,Maroc,
+6111128000163,Ain Saiss Eau Minerale Naturelle,"Maroc,États-Unis",Danone
+3175680011480,Sésame,"Belgium, Bulgaria, France, en:switzerland",Gerblé
+6111162000839,Confiture de fraise,Maroc,Délicia
+6111035001659,Ain Atlas,Maroc,Eau minérale naturelle des Montagnes d'Atlas
+6111242100206,Yaourt nature,"Maroc,en:morocco",Jaouda
+6111035001635,Ain Atlas,Maroc,Eau minérale naturelle
+6111184004129,Mayonnaise recette originale,Maroc,Star
+5025125000006,Sourdough White Ciabattin,"Ireland,United Kingdom,United States",Jason's
+6111128000460,,Maroc,aïn Saiss
+3268840001008,CRISTALINE Eau De Source 0.5L,"Belgique,Côte d'Ivoire,France,Allemagne,Luxembourg,Mali,Martinique,Russie,Suisse,Royaume-Uni",Cristaline
+3017620422003,Nutella,"Belgique,France,Allemagne,Inde,Italie,Luxembourg,Maroc,Pays-Bas,Philippines,Pologne,Roumanie,Espagne,Suisse,Turquie,Royaume-Uni,États-Unis","Nutella,Ferrero"
+5025125000112,Proper Sourdough,en:gb,Jason's Sourdough
+5025125000037,SLICED WHITE SOURDOUGH BREAD WITH GRAINS & SEEDS,gb,JASONS SOURDOUGH
+6111203006653,Cheddar,"Morocco, en:united-states",la Hollandaise
+6111184001562,Sel de table iodé,Maroc,Star
+6111184004730,Ketchup star 310 g,Morocco,Star
+6111029000118,Cosumar Sucre En Lingot Pour Le Thé 1 kg,"Morocco, en:united-states",COSUMAR
+3362600011044,Henry’s,Maroc,Henry's
+6111032001003,Assil,Morocco,Danone
+6111032000600,Salim,Morocco,Salim
+5449000214911,Coca-Cola,"Belgio,Croazia,Cipro,Francia,Germania,Grecia,Ungheria,Italia,Serbia,Spagna,Svizzera",Coca-Cola
+6111242100305,Cremy,Maroc,jaouda
+5449000061515,Ciel,Maroc,THE COCA-COLA COMPANY
+8425197712024,,"Algeria,Cameroon,France,Morocco,Spain",Maruja
+6111128000088,ain saiss 50cl,Maroc,عين سايس
+6111246721278,Cream cheese,en:Morocco,Original
+5740900404465,Spreadable Slightly Salted,United Kingdom,Lurpak
+6111035003523,,Maroc,BAHIA
+6111035003004,Oulmes Eau Gazeuse,Maroc,Oulmès
+7622210578464,Organic 70% Dark Chocolate Bar,"France,Irlande,Suède,Royaume-Uni",Green & Black's
+6111246954461,,Morocco,jibal
+6111259343108,KING COOKIES,Morocco,Excelo
+6111018903161,Nescafé Classic,"Algérie,France,Maroc",Nescafé
+6111032006619,Jamila رايبي,Morocco,Danone
+6111251420166,Eau,Maroc,Aïn lfrane
+6111252421575,Aquafina 50cl,Maroc,Aquafina
+8445290615350,sauce tomate cuisinée,Morocco,solis
+5449000214799,Coke Zero,"Belgique,France,Allemagne,Grèce,Hongrie,Italie,Serbie,Espagne,Suisse,Royaume-Uni,États-Unis",Coca-Cola
+3362600011228,Sable coco Henry s 42g,Maroc,Henry's
+5411188112709,Geröstete Mandel Ohne Zucker,"Albânia,Áustria,Bélgica,Croácia,Finlândia,França,Alemanha,Grécia,Hungria,República da Irlanda,Israel,Luxemburgo,Países Baixos,Noruega,Polónia,Portugal,Reunião,Roménia,Espanha,Suécia,Suíça,Reino Unido",alpro
+6111035001673,Aïn Atlas 50cl,Maroc,Aïn Atlas
+7394376616228,Oat Drink Barista Edition,"An Fhraing,A' Ghearmailt,Poblachd na h-Èireann,An Rìoghachd Aonaichte",Oatly
+6111250470742,Lait U.H.T entier,Morocco,Dost
+6111203001467,margarine la prairie 225g,"France, Morocco, en:united-states",la Prairie
+8000500310427,Biscuits croquants au coeur onctueux de Nutella®,"Francia,Alemania,Italia,Marruecos,Portugal,Rumania,España,Suiza",Nutella
+7300400481595,Tartine croustillante Authentique,"France, Italy, Spain, Switzerland, en:reunion",wasa
+3046920022651,Excellence Noir Intense 70% Cacao,"Algérie,Belgique,République tchèque,France,Allemagne,Guadeloupe,Italie,Maroc,La Réunion,Espagne,Suisse",Lindt
+6111037000599,Familia 200g,Morocco,
+6111184001661,Star vinaigre de table BLANC,Maroc,Star
+6111032008583,,Morocco,Gervais
+8052575090230,Nocciolata,"France, Switzerland, en:reunion",Rigoni Di Asiago
+3608580065340,Pâte à tartiner noisettes et cacao,France,Bonne Maman
+5010029000016,Weetabix,"France,Ireland,United Kingdom",Weetabix
+5060042641000,Lightly sea salted crisps,"France,Germany,Spain,United Kingdom",Tyrrell's
+7622210584724,Dark chocolate,"Belgium, France, United Kingdom, en:ireland",Green and black
+3057640257773,Eau Minérale Naturelle,"France, Luxembourg, Belgien, Deutschland, Frankreich, Schweiz, en:belgium",Volvic
+6111162001218,Filets de maquereau,Maroc,joly
+3046920022606,Excellence Noir Puissant 85% Cacao,"Autriche,Belgique,France,Allemagne,Italie,Maroc,Pays-Bas,La Réunion,Espagne,Suisse",Lindt
+3155251205296,Tartine Doux,"Algeria, Côte d'Ivoire, France, Guadeloupe, Martinique, Réunion, Switzerland, en:belgium",Primevère
+6111251753912,611251753912,en:Morocco,sos
+6111248360130,Aïn Soltane,Morocco,سلطان
+6111003031107,,Maroc,10dh
+3229820100234,Fourrés Chocolat Noir,"France,Luxembourg,Switzerland",Bjorg
+6111184001074,Confiture De Fraises 430 G,Maroc,El Baraka
+5449000206770,Eau de table,Maroc,Ciel
+6111184001197,,Morocco,Star
+3760020507350,Pur beurre de cacahuète,"Belgique,France,Maroc,La Réunion,Espagne,Suisse","Jardin Bio, Léa Nature"
+5449000036872,Hawai Tropical,Maroc,"Hawai,Coca cola"
+6111242100220,Lait Entier UHT,"France,Maroc",Jaouda
+5013665100065,Organic Lightly Salted Wholegrain Low Fat Rice Cakes,"France,United Kingdom",Kallo
+3329770077003,Skyr nature 0%,"France,Irlande,Royaume-Uni",Yoplait
+6111184000619,Mayonnaise,Maroc,Star
+6923818812082,Green Tea,Maroc,green tea
+3760049798609,Pain de mie grandes tranches Seigle & Graines 500g,France,la Boulangère
+5025125000129,Jasons Sourdough,"United Kingdom, United States, en:ireland",Jasons
+8052575090254,Nocciolata bio,en:fr,Rigoni di Asiago
+7300400481588,FIBRES,"Belgium,France,Guadeloupe,Italy,Réunion,Spain,Switzerland",Wasa
+7311070032611,Krisprolls complets sans sucres ajoutés,France,Krisprolls
+3029330022428,14 Maxi Tranches complet sans sucres ajoutés,"France,Suisse,en:Suisse",Jacquet
+3362600011006,Henry’s,Maroc,Henry’s
+6111162000716,Confiture d'abricot,Maroc,Delicia
+8076809513753,Pesto alla Genovese,"Australie,Belgique,France,Allemagne,Maroc,Norvège,Pologne,Serbie,Suède,Suisse,Royaume-Uni",Barilla
+3168930010265,cruesly mélange de noix,"Belgium,France,French Polynesia,Germany,Guadeloupe,Italy,Luxembourg,Martinique,Réunion,Slovenia,Spain,Switzerland,United Kingdom",Quaker
+6111259341197,Momo black,Maroc,Excelo
+6111184007618,,Maroc,Star
+5411188124689,Hafer Milch,Germany,Alpro
+5410041001204,Tuc Original,"Österreich,Belgien,Dänemark,Estland,Finnland,Frankreich,Deutschland,Italien,Luxemburg,Malta,Marokko,Niederlande,Portugal,Spanien,Schweden,Schweiz","Mondelēz, LU"
+6111251420135,Aïn Ifrane,Maroc,
+6111180000392,سكر الفانيلين,Morocco,Idéal
+3017620429484,Nutella,Argentina,"Ferrero, Nutella"
+6111031005552,Merendino,Maroc,"Bimo,Mondelez"
+6111032001010,DANONE ASSIL BANANE,Morocco,Danone
+6111099005396,مارغرين المائدة,en:Morocco,Lilia
+6111184000213,El Baraka Confiture D'abricots 430 G,"France,Maroc",el baraka
+6111206000733,Jebli,"France,Maroc,en:morocco","Centrale, Danone, Jebli"
+8002270014901,S. Pellegrino Water,"Belgio,Francia,Italia,Lussemburgo,Paesi Bassi,Svizzera","Nestlé,Nestlé Waters,San Pellegrino"
+3046920028004,70% chocolate,"Australia,Belgium,Canada,Czech Republic,Denmark,Estonia,France,Germany,Hungary,Ireland,Italy,Lebanon,Morocco,Netherlands,Portugal,Serbia,Spain,Switzerland,United Kingdom",Lindt & Sprüngli
+6111018501480,Nescafé,"France,Maroc,Tunisie",Nescafe
+5449000054227,Original Taste,"Alžir,Austrija,Belgija,Bugarska,Kamerun,Hrvatska,Francuska,Njemačka,Mađarska,Italija,Kazahstan,Maroko,Poljska,Portugal,Réunion,Rusija,Senegal,Srbija,Španjolska,Švedska,Švicarska,Tunis,Turska,Ukrajina,Ujedinjeno Kraljevstvo",Coca-Cola
+3155250358788,Primevère bio doux tartine & cuisson,France,Primevère
+6111242100930,raibi jaoda,"France,Maroc",Jaouda
+6111259340992,Eyoo cover,Morocco,EXCELO
+6111242102781,Tendre nature,Maroc,"Tendre, jouda"
+3068320123264,La salvetat,France,"Danone,La Salvetat"
+4056489148739,NATURAL YOGURT,United Kingdom,Milbona Lidl
+6111242103702,Yaourt Grec Muesli,Maroc,Jaouda
+5010265002911,Dark Rye Crispbread,"Ireland,United Kingdom",Ryvita
+6111032008453,Danino,"France, en:morocco",Danone
+5449000131805,Coke Zero can,"Austria, Belgium, Bulgaria, France, Italy, Morocco, Poland, Romania, Spain, Switzerland, United Kingdom, Germany",Coca-Cola
+5449000131836,Coca-Cola Zero Azúcar,"Áustria,Bélgica,França,Alemanha,Guernsey,Hungria,Itália,Marrocos,Portugal,Roménia,Sérvia,Espanha,Suíça,Tunísia,Reino Unido",Coca-Cola
+6111214004747,Pipas,en:ma,
+3608580124047,Be Nuts ! - Pâte à tartiner Cacahuète,"France, en:reunion",Andros
+3175681851849,Pomme 🍏 🍎 Noisette🥜,"Belgium,France,French Polynesia,Germany,Guadeloupe,Martinique,Morocco,Réunion,Switzerland",Gerblé
+3451790988677,Le Beurre Tendre Doux,"Canada,France,Suisse,États-Unis","Elle & Vire, Savencia"
+5010029000801,Family Pack,"France,Irlande,Portugal,Espagne,Royaume-Uni",Weetabix
+6111242101050,LBEN CARTON PASTEURISER,Maroc,Jaouda
+5013665112273,Organic Vegetable Stock Cubes,"France,Royaume-Uni",Kallø
+6111250012416,Le bon lait,en:Morocco,Albane
+6111252860077,Trios,"Spain, Marruecos, en:morocco",Aperitivos company
+3046920028363,Excellence 85% Cacao Rich Dark,"Andorra,Áustria,Bélgica,Bulgária,Dinamarca,França,Alemanha,Hungria,Itália,Marrocos,Países Baixos,Nova Zelândia,Polónia,Portugal,Roménia,Rússia,Espanha,Suíça,Reino Unido",Lindt
+6111245591063,Dalaa 550 feuilles,morocco,
+6111242100817,Le Lait demi écrémé,Maroc,Jaouda
+3229820019307,Flocons d'avoine,"Belgium,France,Germany,Morocco,New Caledonia,Spain,Switzerland",Bjorg
+5034467000216,Tofoo Naked,"United Kingdom, en:ireland",The Tofoo Co.
+6111035003509,"Bahia, Eau De Table",Maroc,Bahia
+6111126003821,Lait Frais 15 jours,Maroc,Chergui
+3480341000674,Carré Frais,France,Elle & Vire
+6111203001474,La prairie classique,"France,Morocco",margafrique
+5053990156009,Pringles Original,Italia,Pringles
+8410076801180,Crunchy oats&honey,"Bélgica,Francia,Alemania,Irlanda,Países Bajos,España,Suiza,Reino Unido,en:Bélgica",Nature Valley
+4008400401621,Nutella,"Finland,France,Germany,Hungary,Morocco,Netherlands,Switzerland","Nutella, Ferrero"
+6111032000631,Salim,en:Morocco,
+6111242102002,Ghilal Yaourt zr3,Maroc,Jaouda
+3251490332080,Figue & son,"Belgique,France,Polynésie française,Martinique,Maroc,La Réunion,Suisse",Gerblé
+3175680015228,Levure de bière,France,Gerblé
+3229820160672,Croustillant Chocolat,"France,Morocco",Bjorg
+5449000133328,,"Argelia,Bélgica,Francia,Alemania,Hungría,Italia,Marruecos,Polonia,Senegal,España,Suiza,Túnez",Coca-Cola
+3760049790214,Pain De Mie Bio,"France,Switzerland","La Boulangère,La Boulangère Bio"
+3046920028721,Bitter Extra Kraftig,"Australia,Austria,Belgium,Bulgaria,France,Germany,Italy,Lebanon,Morocco,Romania,Spain,Switzerland,Thailand,United Kingdom","Lindt,Lindt&Sprüngli"
+5010003064744,Seed Sensations,"France, United Kingdom, en:ireland",Hovis
+3019081238643,Sardines Huile d'Olive Vierge Extra,"France,Allemagne,Royaume-Uni",Parmentier
+5449000000439,Coca-Cola,"Albanien,Algeriet,Österrike,Belgien,Kroatien,Tjeckien,Kongo-Kinshasa,Frankrike,Georgien,Tyskland,Grekland,Italien,Madagaskar,Marocko,Polen,Réunion,Slovenien,Sydafrika,Sverige,Schweiz,Tunisien,Ukraina,Storbritannien",Coca-Cola
+6111024001516,"Huile de table équilibrée riche en vitamines A,E,D3","France,Maroc",Lesieur
+7613035040823,Nestlé Dessert,"Belgium,France,Germany,Réunion,Switzerland",Nestlé
+6111259342828,Petit beurre,Morocco,Bé
+3257971309114,Eau minérale naturelle,France,Mont Roucous
+7322540548563,jempo,en:Morocco,
+7640154260283,,"Morocco, en:united-states",
+3256540000698,Pains au lait x10,"Belgique,France,Suisse,Royaume-Uni,États-Unis",Pasquier
+8000500179864,Nutella,"Algeria, Czech Republic, Italy, Morocco, Poland, Spain, Germany","Ferrero,Nutella"
+3045140105502,Chocolat au lait,"Algeria,Austria,Bulgaria,France,Germany,Hungary,Italy,Morocco,Poland,Tunisia,United Kingdom",Milka
+6111184001203,Moutarde 10.50 g,Morocco,Star
+5020364010113,Bakery Co. 5 The Original Bagels,"France,United Kingdom",New York Bakery Co
+5036589252450,Kefir Natural Fermented Yogurt,"France, en:united-kingdom",Yeo Valley Organic
+3033710073467,RICORE Original,"Belgium,France,Morocco,Spain,Switzerland","Nestlé, Ricore"
+3284230006408,Brioche Tranchée Bio 400g,France,La Boulangère
+6111242103528,Croissance réduit en sucre,Morocco,Jaouda
+6111242105331,Beurre Frais Pasteurisé,en:ma,Jaouda
+7622201693916,Philadelphia,"Ireland,United Kingdom",Mondelez International
+4056489216162,High Protein Chocolate Flavour Pudding,"Bugarska,Hrvatska,Njemačka,Grčka,Italija,Litva,Portugal,Rumunjska,Slovenija,Španjolska",Milbona
+6111035502941,Eau minérale naturelle gazeuse,en:ma,les Eaux Minérales d’Oulmes
+5000157024671,BEANZ In a rich tomato sauce,"България,Обединено кралство Великобритания и Северна Ирландия",HEINZ
+3225350000501,Pulco Citron,"Belgique,France,Allemagne,Suisse","Orangina Schweppes France,Pulco,Schweppes International Limited"
+8722700479475,Real Mayonnaise,"Australie,France,Irlande,Royaume-Uni",Hellmann's
+6111259343344,King cookies choco,en:ma,Excelo
+8719200237902,Vegetable Fat Spread with 10% Olive Oil,"en:gb,",Bertolli
+8076809523547,Pesto Rosso,"Austria,Belgium,Croatia,France,Germany,Greece,Italy,Norway,Switzerland,United Kingdom",Barilla
+3088543506255,Sirop d'Agave,"France,Polynésie française,Guadeloupe,Maroc,La Réunion,Suisse",Sunny Via
+3480341000636,Carré Frais - Nature,"France,La Réunion",Elle&Vire
+8718114724485,Mayonnaise,"Francia,Irlanda,Reino Unido",Hellmann's
+6111250474405,Peripella,Morocco,Peripella
+6111242102767,Yaourt tendre,Maroc,
+5411188103387,Vanille au soja,"Belgique,France,Allemagne,Grèce,Hongrie,Irlande,Italie,Pays-Bas,Espagne,Suisse,Royaume-Uni",alpro
+3760091727732,Beurre bio cacahuète,France,Ethiquable
+5010029000023,Weetabix produit à base de blé complet 100%,"Belgique,France,Allemagne,Hong Kong,Japon,Luxembourg,Pays-Bas,Espagne,Suisse,Taiwan,Royaume-Uni,États-Unis",Weetabix
+4056489346357,Almond Drink,"Bulgaria,Croatia,Czech Republic,France,Germany,Hungary,Italy,Malta,Poland,Romania,Slovakia,Slovenia,Switzerland",Vemondo
+5201054017432,5% Greek Yogurt,"Greece, United Kingdom, en:ireland",Fage
+4088600247519,Wheat Bisks,"United Kingdom, en:ireland",Harvest Morn
+5057967395088,Rye & Mixed Seed Sourdough Bread,en:United Kingdom,Tesco
+3046920029780,Excellence Noir Subtil Doux 70% Cacao,"Australia,Austria,Denmark,France,Germany,Morocco,New Zealand,Spain,Switzerland",Lindt Excellence
+3587220002252,La gâche tranchée,"France,Germany,Switzerland",La Fournée Dorée
+6111250472241,Bol Bol Ketchup,Morocco,Bol&Bol
+6111260230619,Tranches Au Goût Cheddar,en:ma,Ideal
+3366321052386,st hubert bio & végétal,France,st hubert
+5053990101597,Sour Cream & Onion,"Algieria,Bułgaria,Chorwacja,Egipt,Węgry,Irak,Liban,Libia,Litwa,Maroko,Polska,Rumunia,Tunezja,Ukraina",Pringles
+6111184003276,Assaisonnement aromatisé au citron,Maroc,Star
+3229820129488,"Muesli Raisin, Figue, Abricot","Belgique,Côte d'Ivoire,France,Polynésie française,Guadeloupe,Italie,Martinique,Maroc,Nouvelle-Calédonie,La Réunion,Espagne,Suisse",Bjorg
+7613039490266,Nesquik,"France,Morocco,Spain",Nestlé
+3033710084913,Arome MAGGI,"France, French Polynesia, Germany, Guadeloupe, New Caledonia, Réunion, Switzerland, Belgique, en:belgium","Nestlé, Maggi"
+6111246250013,Levure rafiaa,Maroc,
+3327272107969,Menguy's Peanut 100%,"France,Réunion",Menguy's
+3088542500285,Sirop d'érable ambré goût riche,"Belgique,Croatie,Finlande,France,Italie,Maroc,Suisse",Maple Joe
+3760049791006,Tartines campagne 450g,France,La boulangere
+4008400404127,Nutella,"Croatia, France, Germany, Morocco, en:netherlands",Ferrero
+6111242101272,Muscly la force pour grandir,maroc,Jaouda
+8410510012196,Chocolat Noir 92% cacao,Morocco,Dark Excellente
+4056489007180,pain de mie grandes tranches spécial sandwich complet,France,"Lidl,Maître Jean Pierre"
+4088600246291,Seeded Sourdough Bread,en:gb,Specially Selected
+5410126006957,Biscoff à tartiner,"Algérie,Belgique,France,Luxembourg,Mauritanie,Maroc,Pays-Bas,Suisse,Tunisie",Lotus
+7622210601988,Granola L'Original,"Belgique,France,Martinique,Maroc,La Réunion,Suisse,États-Unis","LU, Mondelez International"
+6111242104198,PRESSup ORANGE 1L,Maroc,jaouda
+6111021090049,Concentré de tomates Aicha,"Morocco, en:spain",Aicha
+6111251753899,Olla,Morocco,Olla
+3041090063206,Cracotte Céréales Complètes,"Belgium, France, Luxembourg, Réunion, Switzerland, en:netherlands","lu, LU"
+5010477348678,Special Muesli 30% fruits & noix,"Belgium,France,French Polynesia,Germany,Italy,Martinique,Réunion,Spain,Switzerland",Jordans
+6111250470209,,Maroc,VIP
+5011273040698,Runny Honey imp,"France, United Kingdom, en:ireland",Rowse
+6111035001024,Oulmès eau minerale naturellement gazeuse,Maroc,ولماس ماء معدني غازي طبيعي
+5059697731860,Dark Chocolate,United Kingdom,Tesco finest
+4016241030573,Skyr | Natural Fat Free | 0% Fat,"United Kingdom, en:france",Arla
+5017764128104,Chips,United Kingdom,Kettle
+8198701234564,Pâte d'arachide,Maroc,pâte d'arachide
+5053990101573,Pringles Sare,"Armenia,Belarus,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,France,Hungary,Kuwait,Latvia,Lebanon,Lithuania,Morocco,Poland,Romania,Russia,Serbia,Switzerland,Ukraine",Pringles
+8719200269743,BUTTERY,United Kingdom,FLORA
+7300400481571,wasa,"France,Guadeloupe,Italy,Switzerland","Barilla,Wasa"
+3362600001106,Henry's Sable Coco Biscuit 85G,Maroc,Henrys
+7613035676497,Ricoré original,"France,Germany,Switzerland",Nestlé
+3041090063114,Cracotte,"België,Frankrijk,Luxemburg,Nederland,Zwitserland",LU
+3175681851856,Biscuit raisins,"France,Suisse",Gerblé
+5000157076410,Seriously Good Times Mayonnaise,"Ireland,United Kingdom",Heinz
+6111180003102,Mayfine,en:ma,
+7613287431943,Nesquik Cocoa,"Morocco,Saudi Arabia",Nestlé
+3229820794525,Nutri+ avoine chocolat,France,Bjorg
+3061990143365,Goût chocolat,"Belgium,France,Morocco,Switzerland",BN
+5025125000150,Everyday White Rolls,en:gb,Jason's
+5013665112235,Organic Chicken Stock Cubes 8 Pack,"France,Royaume-Uni",Kallø
+3045320094008,Strawberry Jam,"France, Switzerland, United Kingdom, en:ireland",Bonne Maman
+6111206000696,,"France,Morocco",DANONE
+5000168036755,digestives,"France,Germany,Ireland,United Kingdom",McVitie's
+5000108022152,Quaker Rolled Oats,"Espagne,Royaume-Uni",Quaker
+5411188110835,Mandelmilch mit Zucker,"Alemania,Polonia,Reino Unido,España",alpro
+3228857001231,Harrys brioche tressee nature au sucre perle sans additifs 500g,France,Harrys
+8720182556738,Maille Moutarde Fine de Dijon L'Originale Bocal 360g,"Belgium, France, Germany, en:switzerland",Maille
+5013665108801,Crunchy Peanut Butter,"France,United Kingdom",Whole earth
+6111246950845,,Maroc,Jibal
+8410076610737,Protein Cacahuetes🥜 & Chocolat🍫,"Belgium,France",Nature Valley
+3412290070101,Paysan Breton - Le Fromage Fouetté Madame Loïk - Nature au Sel de Guérande,Frankrijk,"Le Fromage Fouetté Madame Loïk, Paysan breton"
+6111162001201,Delicia double concentre de tomates,"Maroc,Maroc",Delicia
+6111250473453,Vip crema gold,en:Morocco,VIP
+5013665111610,Lightly Salted Low Fat Corn Cakes,"France, United Kingdom",Kallø
+6111251420272,Aïn Ifran Eau minérale naturelle,"France,Morocco,en:morocco",Ain ifrane
+3327272107259,Menguy's Beurre de cacahuètes creamy,"France, Switzerland, en:belgium",Menguy's
+5000159461122,Snickers,"Algeria,Belgium,Bulgaria,Cyprus,Denmark,France,Germany,Hungary,Luxembourg,Mexico,Morocco,Netherlands,Poland,Portugal,Romania,Saudi Arabia,Serbia,Singapore,Spain,Sweden,Switzerland,United Kingdom,United States",Snickers
+6111035001383,Eau minerale,Maroc,Sidi ali
+3228857000166,100% mie complet 500g,"Belgique,France,Luxembourg,Martinique,La Réunion,Suisse",Harry's
+5010044000701,Crumpets,"France,Espagne,Royaume-Uni",Warburtons
+7622201133337,Figolu,"France,Guadeloupe",LUMondelez
+5016084000374,Nutritional Yeast Flakes,"United Kingdom, en:ireland",Engevita
+8715035110106,Sojasauce,"Kroatië,Tsjechië,Denemarken,Finland,Frankrijk,Duitsland,Italië,Mexico,Nederland,Noorwegen,Spanje,Zwitserland,Verenigd Koninkrijk",Kikkoman
+8434165466333,Krit krititas galletas saladas,"Israel,Marruecos,España,Portugal","Cuétara, Krit"
+5053990155354,Sour Cream & Onion,"France,Germany,Italy,Martinique,Mauritius,Portugal,Réunion,Thailand",Pringles
+6111184000657,Star Mayonnaise,Morocco,Star
+8076800195057,SPAGHETTI N° 5,"Australija,Austrija,Belgija,Hrvatska,Francuska,Njemačka,Grčka,Irska,Italija,Lihtenštajn,Luksemburg,Meksiko,Rumunjska,Rusija,Srbija,Španjolska,Švedska,Švicarska,Tajland,Ujedinjeno Kraljevstvo,Sjedinjene Američke Države","BARILLA NORGE ASbarilla, Barilla, BARILLA NORGE AS"
+3229820787015,BjORG AMANDE ALMOND SANS SUGRES- NO SUGAR,"Belgium,Côte d'Ivoire,France,French Polynesia,Guadeloupe,Martinique,Morocco,New Caledonia,Réunion,Switzerland,United Kingdom",Bjorg
+6111162000723,Délicia - Confiture d'abricot,Maroc,Delicia
+3155251205302,Tartine doux,France,Primevère
+8719200012608,ProActiv Margarine Tartine,"France,Switzerland",ProActiv
+6111175000741,41022,"Marokko, Germany",
+6111180007339,,Maroc,
+6111242102019,flan caram jao dan,"France,Maroc",Jaouda
+3366321051983,Oméga 3® Doux,"France,La Réunion,Suisse","St Hubert, St hubert omega 3"
+6111032002925,Yaourt Nature,"France,Maroc",Danone
+8410076601131,Crunchy avoine et miel,France,Nature ValleyGeneral Mills
+5060337220415,kefir drink original,"France,Germany,Ireland,Netherlands,United Kingdom",Biotiful gut health
+6111242380219,,Maroc,حلال
+5025125000105,No. 6 Sourdough Majestic Malted,United Kingdom,Jason's
+3175680011534,Biscuit lait chocolat,"Belgium,France,Guadeloupe,Martinique,Morocco,Réunion,Senegal,Switzerland","Gerblé,Gerblé Vitalité,Nutrition & Santé"
+5411188119098,Natur mit Kokosnuss,"Andorre,Autriche,Belgique,Finlande,France,Allemagne,Italie,Portugal,Espagne,Suisse,Royaume-Uni",Alpro
+0680569854124,Fermented Coconut Yoghurt Alternative,"Finland, France, United Kingdom, en:ireland",The Coconut Collab
+3229820782560,"Muesli SuperFruits Raisins, cassis,cranberry, myrtille","Belgium,France,Martinique,Mexico,Morocco,Réunion,Spain,Switzerland",Bjorg
+4014400400007,Toffifee 15er,Deutschland,Storck
+5411188115366,Boisson à l’avoine,"Belgique,République tchèque,France,Allemagne,Hongrie,Italie,Royaume-Uni",Alpro
+6111028000980,Kiri carré 8p,Morocco,Kiri
+8410076601148,Crunchy Avoine & Chocolat Noir x 5 x 2 barres de 21 g,France,"General Mills,Nature Valley"
+4088600327587,Dark Rye Sourdough,United Kingdom,Specially Selected
+3504182960123,Tomates cerises allongées,France,Azura
+3175681105423,Cookie🍪 cacao pépites Sans Sucre,"Belgique,France,Polynésie française",Gerblé
+5060228323799,Ramona's Heavenly Houmous,en:gb,Ramona's
+6111266960336,Perly fromage,en:ma,perly
+5201054017418,Fage Total 0% Yogurt,"France, United Kingdom, en:ireland",Fage
+8720182460721,Amora Moutarde Forte Bocal 430g,"France, en:morocco",Amora
+5036589255598,Organic Natural Yoghurt,United Kingdom,Yeo Valley
+3159470000120,Corn Flakes,"France,Italy,Luxembourg,Martinique,Belgium,Spain,Réunion,Mexico,Switzerland,Germany,United Kingdom",Kellogg's
+5059697710001,Dark milk chocolate,en:united-kingdom,Tesco
+3175680011442,Biscuit soja orange,"France,Guadeloupe,Martinique,Réunion",Gerblé
+3392460480827,Biscottes 6 Céréales,"Belgium,France,Réunion,Switzerland",Heudebert
+5000168198491,Sablés Anglais L'Original,"France,Réunion,Switzerland,United Kingdom","McVitie's,United Biscuits"
+3229820021027,P'tit Nature Complet,"Belgium,France,French Polynesia,Luxembourg,Morocco,Switzerland",Bjorg
+6111099000247,Hule D'olive,Maroc,زيت الزيتون واد سوس
+7394376616501,Haferdrink Barista,"Austria, France, Germany, Netherlands, Poland, Switzerland, United Kingdom, en:belgium",Oatly
+3068320120256,Eau minérale naturelle,"Belgium,France,Luxembourg,Switzerland",Evian
+3017620421006,Pâte à tartiner Nutella noisettes et cacao - 750g,"Algérie,Belgique,France,Allemagne,Italie,Luxembourg,Maroc,Espagne,Suisse",Ferrero
+3046920010047,Excellence Noir Corsé 78% Cacao,"Australia,Czech Republic,France,Germany,Ireland,Italy,Netherlands,New Zealand,Spain,Switzerland",Lindt
+4006985906203,Cacao en Poudre Non Sucré,France,Van Houten
+3124480191182,PET 2L OASIS TROPICAL,"France,Belgique,La Réunion,Suisse","Oasis,Orangina Schweppes France"
+6111242107380,Press up,en:ma,
+5053990161669,Картофельные чипсы со вкусом парики,"Bulgaria,Francia,Lituania,Marruecos,Países Bajos,Polonia,Rumania,España,Ucrania",Pringles
+6111032006749,Danette chklat,"France,Maroc",Danette
+3228857001378,Brioche moins de sucre,France,Harrys
+6111252422008,AQUAFINA,en:Morocco,
+3664346312936,Pâte à tartiner,"Canada,France,Morocco",Poulain
+5057967395071,White Sourdough,United Kingdom,Tesco Finest
+6111032010135,double zéro Cerise,en:Morocco,Danone
+8715700407760,Tomato Ketchup BIO,"Belgium,France,Germany,Romania,Spain,Switzerland,United Kingdom,United States",Heinz
+5449000015105,Sprite,"Maroc, en:france",Sprite
+4056489141877,Huile d'olive vierge extra,"Belgium,Bulgaria,France,Netherlands,Romania,Switzerland",Primadonna
+6111250474191,vinaigre de table blanc,Marocco,efor
+3302740087059,Les tranches Végé - lentilles corail,France,Fleury Michon
+3760049794298,Pain de mie Bio grandes tranches céréales & graines 500g,France,La Boulangère
+8410111211202,Atun,"Spain, Francia, Marruecos, en:morocco",Isabel
+3017760542890,Pain grillé au blé complet,"France,Réunion,Switzerland",LU Pelletier
+3168930009078,Flocons d'avoine complète,"Belgique,France,La Réunion,Espagne,Suisse,Royaume-Uni",Quaker
+3272770098090,St Môret,Francia,St Môret
+6111180007650,Cacao,Maroc,Idéal
+3168930163480,Alvalle Gazpacho l'original,France,Alvalle
+6111184004716,Star moutarde,Morocco,Star moutarde de Dijon
+6111025120605,Chocolat monogram,en:ma,Macao
+5060198641251,Organic Piadina 4 Wholeblend Flatbreads with Extra Virgin Olive Oil,United Kingdom,Crosta & Mollica
+5013665115373,Lentil & Pea Veggie Cakes - Beetroot & Balsamic,United Kingdom,Kallø
+5053990167807,Pringles Original,"Belgium, France, Germany, Italy, Spain, United Kingdom, en:austria","Kellogg's, Pringles"
+3229820181950,Fourrés Chocolat au Lait,"France,Japon,Suisse",Bjorg
+5053990107339,Pringles,"Belgium,France,Germany,Morocco,Romania,Spain,Switzerland,United Kingdom",Pringles
+6111024002186,Houilor,Morocco,Huilor
+5010477348357,Country Crisp 4 noix,"Belgique,France,Polynésie française,Guadeloupe,Italie,Suisse",Jordans
+6111021026000,Double concentré de tomates,"France,Maroc",Aicha
+8410376026962,Digestive Avena Choco,"Portugal,España",Gullón
+8712100338694,Maizena Fleur de Maïs Sans Gluten 400g,"Belgique,Canada,France,Allemagne,Martinique,La Réunion,Suisse","Maïzena,Unilever"
+6111017007013,Caobel,Morocco,Aiguebelle
+4056489039518,Petit Pains Grillés Blé complet,France,Maître Jean Pierre
+7613035530799,NESQUIK Moins de Sucres,"Belgique,France,Hongrie,Italie,Espagne,Suisse","Nestlé,Nesquik"
+3083681095296,Ratatouille Cuisinée à la Provençal,"France,Allemagne",Cassegrain
+6111032004455,Dan up,Maroc,Danone
+4088600060880,Authentic Greek Yogurt,"Ireland,United Kingdom",Brooklea
+6111032006718,,Maroc,Danone
+6111162001164,Delicia,Maroc,Délicia
+5000165024014,Pure Irish Butter,United Kingdom,Kerrygold
+5014213711290,Crunchy Peanut Butter,"France, United Kingdom, en:ireland","Meridian, Meridian Foods"
+5060092690331,Real Mayonnaise,United Kingdom,Stokes
+5051399182506,Chickpeas In Water,"Ireland,United Kingdom",Tesco
+8410510012202,Chocolate Negro,en:Morocco,Dark Excelente
+3067140013120,Chicorée soluble nature,"France,Maroc,Espagne",Leroux
+6111184000701,Star moutarde 200 g,Maroc,Star
+6111243860376,ice,en:ma,ice
+3021769505602,POM'POTES Compotes Gourdes Pomme Nature 1x90g,"France, Switzerland, en:morocco","Materne, POM'POTES, Sans sucres ajoutés"
+6111162000181,Joly Thon Entier,"France,Morocco,en:morocco",Joly
+7613032655495,"Chicorée & Café, RICORÉ® L'Original, Boîte de 260g","France,Morocco,New Caledonia,Switzerland","Nestlé, Ricoré"
+6111021090056,Aicha Tomato Paste,"France,en:morocco",Aicha
+7622210995087,180G C OR NOIR NOISETTE,"Algérie,France,Guadeloupe,Maroc,Tunisie","Côte D’Or, Mondelez"
+5018357012497,simply nutty muesli,United Kingdom,dorset cereals
+6111266962576,,Morocco,COPAG
+3033710065783,Le Choco,"Belgium,France,Guadeloupe,Martinique,New Caledonia,Réunion","Nestlé, Le chocolat"
+5000111046244,HP Sauce Original imp,"France,Royaume-Uni",HP Foods
+5060198640261,Classic Torinesi Breadsticks,"France, en:united-kingdom",Crosta & Mollica
+3228857000852,Harrys pain de mie 100% mie nature sans croute 500g,"Belgique,France,Luxembourg,Martinique,La Réunion,Suisse",Harrys
+3760049790252,Pain de mie grandes tranches Toastiligne complet,France,la boulangère
+6111032010128,Danone (zéro sucre ajouté zéro matière grasse),en:Morocco,Danone
+6111032002208,Activia Céréales,"France,Morocco,Spain",Danone
+3366321051686,Oméga 3 Doux Tartine & Cuisson,"France,Suisse",St Hubert
+5010044000404,Wholemeal Sliced Wholemeal Bread,"Francia, Reino Unido, Spain",Warburtons
+7613287194374,Bitesize shredded wheat,"United Kingdom, en:ireland",Nestlé
+5018095011271,Puy Lentils & French green lentils,en:gb,Merchant Gourmet
+8000500023976,Coco specialty,"Bulgaria,Francia,Hungría,Portugal,Rumania,España","Confetteria Raffaello,Ferrero"
+3242274030056,Salade & Compagnie Manhattan Poulet Roti,France,Sodebo
+3329757002998,Poudre stevia,"Belgique, France, Suisse",Pure Via
+8000500082379,nutella,"Austria,Belgium,Bulgaria,Czech Republic,France,Germany,Hungary,Morocco,Romania,Spain,Sweden,Switzerland",Ferrero
+6111035002359,Sidi Ali Kids,en:Morocco,
+5000246728749,Anchor spreadable,en:United Kingdom,Anchor
+5060088707685,Barres de fruits secs & noix Myrtilles,"Belgium, Czech Republic, France, Netherlands, Spain, en:switzerland",nakd
+5000129341041,Hand finished seeded sourdough bread,en:united-kingdom,Coop
+6111031005033,Tagger,en:Morocco,Bimo
+3175681209282,Goûter 4S Saveur pommes,"France,Luxembourg,Réunion,Switzerland",Gerblé
+5449000135544,Ciel 50cl,Maroc,Ciel
+5070000126579,Super Seedy & Nutty Granola,"United Kingdom,Ireland",Bio & Me
+5000119117359,Wheat Biscuits,en:United Kingdom,Tesco
+5060088700112,Protein Cocoa Hazelnut Bars,"Belgium,France,Spain,United Kingdom",Nakd
+8719200269828,Vegan Spread,"United Kingdom, en:ireland",Flora
+3330720237361,Pâte à tartiner noisette du Lot et Garonne cacao,"France,La Réunion",Lucien Georgelin
+5000184321064,Majoneesi,"Åland,Australien,Danmark,Finland,Frankrig,Irland,Norge,Sverige,Storbritannien",Hellmann's
+7622210476296,Thé - Biscuits,"France,New Caledonia,Réunion,Switzerland",Lu
+3178530410105,Petites Madeleines,"France,Martinique,La Réunion,Suisse",St Michel
+3251490307002,Goûter pépites de chocolat,"Belgium,France,French Polynesia,Réunion,Switzerland",Gerblé
+5000157062673,Cream of Tomato Soup,"Denmark,Germany,Switzerland,United Kingdom,Scotland",Heinz
+6111128000217,Ain Saiss,Maroc,Eau Minérale
+3254380008430,"CRISTALINE Eau De Source Pétillante 1,5L","Belgique,France",Cristaline
+5060042641406,Sea salt & cider vinegar chips,"France, Germany, Switzerland, United Kingdom, en:netherlands",Tyrrells
+3176582033563,Coulommiers Doux et Crémeux,"Algeria,France","CF&R,Cœur de Lion,Savencia"
+6111018903185,Nescafe classic,"Algeria, en:morocco",Nescafé
+5000157143037,Heinz [Seriously] Good Mayonnaise,"Germany, Ireland, en:united-kingdom",Heinz
+3229820769165,Muesli avoine chocolat bio,"Belgium, France, Spain, Switzerland, en:morocco",Bjorg
+9111445000430,eau minérale,Maroc,Sidi Ali
+5285000396437,,"Morocco, en:tunisia",
+7613036249928,eau minerale,"Belgique,France,Luxembourg","Nestlé, Nestlé Waters, Vittel"
+5036589200970,Greek Style Yoghurt,"France,Royaume-Uni",Yeo Valley
+6410500090014,Finn Crisp Original,"Österreich,Belgien,Finnland,Deutschland,Rumänien,Russland,Spanien,Schweden,Schweiz,Vereinigtes Königreich","Finn Crisp,Lantmannen"
+7622210204424,Príncipe crema de chocolate,"Francia,Marruecos,España",LU
+7622210770714,Moelleux goût choco-noisette,France,LU
+5411188118121,"Fermentiertes Sojaprodukt, Ungesüßt","Austria,Bélgica,Finlandia,Francia,Alemania,Irlanda,Países Bajos,España,Suiza,Reino Unido",Alpro
+8410076470812,6 Wraps blé complet,"Francia,España",Old El Paso
+3033710065967,NESQUIK Cacao,"Algérie,Belgique,France,Guyane,Polynésie française,Allemagne,Guadeloupe,Italie,Luxembourg,Martinique,Nouvelle-Calédonie,La Réunion,Espagne,Suisse","Nestlé, Nesquik"
+3272770097642,Le Goût Primeur format familial,France,"Savencia, St Moret"
+5000436857112,Malt Wheats,"France,Irlande,Royaume-Uni",Tesco
+6111021090100,Double concentre de tomate,"France,Maroc",Aicha
+3161711001971,Caprice des dieux,"Belgique,Égypte,France,Allemagne,Maroc,Espagne,Suisse",caprice des dieux
+4056489028109,Shot de gingembre bio,"Bélgica,Bulgaria,Francia,Alemania,Hungría,Italia,Marruecos,España,Suiza,Reino Unido",Solevita
+5060283762199,PROPERCHIPS Sea Salt Lentil Chips,United Kingdom,Proper
+7622201809638,Napolitain l'Original,France,"LU, Mondelez, Mondelez International"
+3228021170039,PRESIDENT CAMEMBERT 250g,"Belgium, France, en:morocco","Lactalis, Président"
+6111101001361,Asta,"France,Maroc","Asta,Café"
+6111099000582,Lio huile de table,en:Morocco,lio
+5010029226188,Muesli,United Kingdom,Alpen
+5010029229035,Crispy minis imp,"United Kingdom, en:ireland",Weetabix
+8052575090292,Nocciolata - Pâte à tartiner au cacao et noisettes,France,RIGONI DI ASIAGO BIO
+3182180001477,Grilletine au froment sans sucres ajoutés,France,brioche pasquier
+5000436589457,Semi-Skimmed 1.8% Fat Milk,Royaume-Uni,Tesco
+5010044002552,Seeded Batch,"France,United Kingdom",Warburtons
+6111242070783,,"France,Maroc",سنطرال
+6923818881323,Petits fours financiers,"France, en:morocco",
+8445290133403,Nesquik,"Belgique,France,Gabon,Guadeloupe,Sénégal","Nestlé,Nesquik"
+3608580124108,Be Nuts! Pâte à tartiner Cacahuète,"France, en:reunion",Andros
+3175681066632,Biscuits pavot citron,"France,Réunion,Switzerland",Gerblé
+5000295008069,63% fat spread with buttermilk,United Kingdom,Clover
+5010265002836,The Original Crunchy Rye Breads,"United Kingdom, en:ireland",Ryvita
+5053990127726,Pringles Original,"Bélgica,Dinamarca,Francia,Alemania,Grecia,Irlanda,Italia,Marruecos,Países Bajos,Nigeria,Rumania,España,Reino Unido",PRINGLES
+5411188125808,Mango ohne Zuckerzusatz,"Áustria,Bélgica,Finlândia,França,Alemanha,Luxemburgo,Países Baixos,Portugal,Espanha",alpro
+5060088706534,Blueberry Muffin Myrtilles,"France,Germany,Ireland,Morocco,Poland,United Kingdom",Nakd
+5060337221085,Kefir,"United Kingdom, en:ireland",Biotiful
+5201054017531,5% Greek Yoghurt,en:gb,Fage
+5740900404540,Lurpak Lighter,en:United Kingdom,Lurpak
+3228857002344,Pain de mie american sandwich complet sans sucres ajoutés 600g,France,Harrys
+6111031005538,merendina big,en:Morocco,bimo
+3045320094084,Raspberry Conserve,"France,Royaume-Uni",Bonne Maman
+5449000008046,Coca-Cola slim 25cl,Maroc,Coca-Cola
+6111032002888,Velouté Fraise,Morocco,Danone
+7613036669146,NESTLE CHOCAPIC BIO Céréales 375g,"Belgique,France,Luxembourg,La Réunion","Nestlé,Chocapic"
+3608580065371,Pâte à tartiner noisettes et cacao,"France, en:reunion",Bonne Maman
+5010003000339,Tasty Wholemeal Medium,"France,Royaume-Uni,en:united-kingdom",Hovis
+6111005054081,Levure chimique en poudre,"France,Maroc",alsa
+3302740087042,Les Tranches Végé Pois chiches,France,Fleury Michon
+0612322000127,Super Seeded Oatcakes,"France, en:united-kingdom",Nairn&#039;s
+5010092093441,50/50 Medium Bread,"France,United Kingdom",Kingsmill
+5013683305589,Middle Eastern Plant-Based Falafels,"France,Spain,United Kingdom",Cauldron
+7622210713889,Belvita Original Petit-Déjeuner miel et pépites de chocolat,"Belgium,France,French Polynesia,Réunion,Switzerland",LU
+5060198642760,Piadina,"United Kingdom,ireland",Crosta & Mollica
+4088600072517,Baked Beans in a Rich Tomato Sauce,en:gb,Bramwells
+6111245370064,Levure,"Francia,España,en:morocco",Sboula
+7613034626844,Céréales Chocapic,"France,French Polynesia,Guadeloupe,Martinique,Morocco,New Caledonia,Réunion,Switzerland","Nestlé,Chocapic"
+7622210421968,Véritable Petit Écolier Chocolat au Lait,"Algeria,Belgium,Canada,France,Morocco,Switzerland","LU,Mondelez International"
+8410376009392,Galletas fibra zero azúcares,"Portugal,España",Gullón
+3182180002115,Grilletines blé complet,"France, en:morocco","Brioche Pasquier, Pasquier"
+5060043224561,Low Sugar Nuts & Seeds Granola imp,en:United Kingdom,Lizi’s
+3068320114453,Badoit 1 L PET,"France,Suisse",BADOIT
+3155250364772,Primevère Tartine & Cuisson,"Belgique,France,Guadeloupe,La Réunion",Primevère
+7622210713780,Belvita Petit Déjeuner Chocolat,"Belgique,France,Guadeloupe,Luxembourg,en:Belgique,en:La-reunion,en:Suisse","LU,Mondelez"
+5010044000251,Wholemeal Bread,"France,United Kingdom",Warburtons
+5060283760072,Proper Corn Sweet & Salty,"Belgium, France, United Kingdom, en:netherlands",Popper Corn
+8076809513746,Pesto alla Genovese,"Deutschland,Österreich",Barilla
+6111242100022,Leben JAOUDA,Morocco,Jaouda
+6111028001024,Kiri,Morocco,Kiri
+4056489216155,High Protein Pudding Vanilla,"Franciaország,Németország,Olaszország,Portugália,Spanyolország,Magyarország",Milbona
+8480000038524,Guacamole,"Rumania,España",Hacendado
+4056489471264,Edelbitter Mild 90%,"Belgium,France,Germany,Morocco,Netherlands,Switzerland",J.D. Gross
+3017760000062,Véritable Petit Beurre Pocket,"Belgium,France,Guadeloupe,Lebanon,Réunion,Switzerland",lu
+5000295142893,Mature Cheddar,"France,United Kingdom",Cathedral City
+5052909732600,Squeezy Honey,"France, United Kingdom, en:ireland",Tesco
+3228857001194,Harrys beau & bon pain de mie farine de ble cereales & graines 320g,France,Harrys
+6111262820245,Pâte a tartiner,en:ma,dulcetto
+5013665115571,Beurre de cacahuètes,France,Whole Earth
+6111265800497,Albane,en:ma,
+5000373704289,Vitalite Dairy Free Spread,United Kingdom,Vitalite- suitable for Vegan
+3336971805021,Chips de lentilles saveur fines herbes,France,Vico
+3154230809869,HERTA LE BON PARIS Jambon à l'étouffée sans nitrite x4-140g,France,"HERTA,Le Bon Paris"
+6111032009870,Raibi jamila,en:Morocco,central
+8719200269934,Flora Natural Ingredients Lighter,"Ireland,United Kingdom",Flora
+3017620420702,Nutella pâte à tartiner aux noisettes et au cacao,"France, Morocco, en:algeria","Ferrero, Nutella"
+6111024004746,Huile d'olive vierge de Maroc,"France,Maroc",ALHORRA
+9002490100070,Red Bull,"en:Deutschland, en:Spanien, Germany",Red Bull
+4088600060941,Authentic Greek Yogurt,"Greece,Ireland,United Kingdom",Brooklea
+6111032000624,Lait naturel,en:Morocco,Salim
+3251490320001,Biscuit complet au germe de blé,"France,Guadeloupe,Maroc,La Réunion,Suisse",Gerblé
+5010477348395,Country Crisp - Chocolat noir 70% cacao,"France,Réunion,Switzerland",Jordans
+7622210100917,Milka galette choco,"France, Germany, Morocco, Spain, en:belgium",LU
+8001060375109,Pesto Classic Basil,"Australia, France, United Kingdom, en:ireland",Saclà
+5050974505259,Ryvita Multigrain Crispbread,"France, United Kingdom, en:ireland",RYVITA
+4088600041445,Slightly Salted Spreadable Butter,"United Kingdom,en:united-kingdom",Nordpak
+6111037000506,Margarine patissière,en:Morocco,Ledda
+6111126005580,Chergui Lait,en:Morocco,Chergui
+3175681037854,Tartines craquantes sarrasin,France,Céréal Bio
+3523230028431,La bûche Sainte-Maure (Poitou-Charentes,France,Soignon
+6111021013208,Confiture De Fraises Aicha,Marruecos,"Aïcha,Extra"
+6111243002493,Samar Gusto Coffee 45g,Maroc,samar
+8715700423913,Tomato ketchup,"France,Suisse",Heinz
+6111024001530,Huile Lesieur 3 Graines,"Madagascar,Morocco",Lesieur
+4088600056135,Organic Porridge Oats,"España,Reino Unido",Kavanagh's
+5011321361058,,"Saudi Arabia, en:morocco",
+6111245342696,Original Doux & crémeux,en:ma,
+5060088701478,Cocoa Orange Fruit & Nut Bars,United Kingdom,Nakd
+6111126001988,Leben BELDI,"France, en:morocco",Chergui
+5060367181311,Crunchy Peanut Butter,en:gb,Pip & Nut
+6111242106666,Jutos,en:ma,Jaouda
+6111203005014,MARG VITAL OVAL PF 200G,"France,en:morocco,",vital
+5010029000504,weetabix,"France,Espagne,Royaume-Uni",Weetabix
+5010044005126,Crumpets,"France,Royaume-Uni",Warburtons
+6111099000254,Huile d'olive,"France,Morocco",oued souss
+8076809513722,Basilico 400g eu,"Austria, Belgium, Bulgaria, France, Germany, Italy, Luxembourg, Serbia, Spain, Switzerland, en:montenegro",Barilla
+8480000171320,Tomate frito,"Marruecos,Rumania,España",Hacendado
+5411188124702,"Alpro Haferdrink, Ungesüßt 1 L, FRESH","Germany, Netherlands, Spain, United Kingdom, en:ireland",alpro
+4056489361855,Miel crémeux français & responsable,France,Maribel
+6111260232095,El Mejor chef fromage 16p,en:Morocco,
+3046920027885,Excellence Noir à la Pointe de Fleur de Sel,"France,Suisse",Lindt
+5060088706022,NAKD Cacahuètes - 140g (4x1p),"Belgium, France, Spain, fr:Belgica, fr:Francia, en:luxembourg","Nakd., Lotus Bakeries"
+5410126116953,,"Australia,República Checa,Finlandia,Francia,Alemania,Italia,Marruecos,Nueva Zelanda,España,Suecia,Reino Unido",Lotus
+7394376123337,Organic oat drink,"Česko,Francie,Spojené království",Oatly
+8076802085738,Penne Rigate N°73,"Austrália,Áustria,Bélgica,Bulgária,República Checa,França,Alemanha,Itália,Japão,Portugal,Roménia,Espanha,Suíça",Barilla
+8076809545396,Pesto con Rucola,"Australien,Österreich,Frankreich,Deutschland,Italien,Liechtenstein,Réunion,Rumänien,Schweiz",Barilla
+5449000267412,COCA COLA PET 1.25L CT,"Bélgica,Francia,Alemania,España,Reino Unido",Coca-Cola
+5411188127697,Alpro Barista Avena / Hafer,"France, Germany, Italy, Netherlands, Switzerland, United Kingdom, en:ireland",Alpro
+6111032007661,Velouté,en:Morocco,DANONE
+8585002517968,,Morocco,
+3088540004440,Tartimiel® Lune de Miel® doseur 250 g,"France, Réunion, Switzerland, en:morocco",Lune de Miel
+5000137121994,Cream Crackers,"France,Suisse,Royaume-Uni",Jacob’s
+5010044000121,Toastie Thick Sliced Soft White Bread,"France,United Kingdom",Warburtons
+8410111000707,Atún con tomate,"Francia,Marruecos,España",Isabel
+8715700017006,Tomato Ketchup,"Frankreich,Deutschland,Marokko,Spanien,Schweiz",Heinz
+6111243640831,شاي النسمة,Morocco,JANAH FRERES
+0089686120110,Indomie Shrimp Noodles,"Algeria, France, Morocco, en:tunisia",Indomie
+4033634061020,Organic Crisp Bread,"France,Allemagne,Royaume-Uni",DR KARG'S
+7622201695521,Original Philadelphia,"United Kingdom, en:ireland",Philadelphia
+6111259093096,b,en:Morocco,gastro mixte
+8712566134144,Dijon Originale,"France, United Kingdom, en:ireland",Maille
+3228857001316,Brioche Tranchée Recette Classique,France,Harrys
+6111242106277,Jutos cocktail,en:ma,Jaouda
+6111251420142,AïnIfrane,"France,Maroc",
+7622210476104,Véritable Petit Beurre,"France,Suisse",Lu
+3240931548111,Gnocchi à poêler,France,"Lustucru,Lustucru selection"
+0037600106009,Peanut butter Creamy,"France,Pays-Bas",Skippy
+3248340054063,Lait uht 1/2 écrémé,France,C'est qui le patron
+5013665109389,Smooth Peanut butter,"France,Royaume-Uni",Whole Earth
+5018374285577,Italian Original Breadsticks,"France,Singapore,United Kingdom",Tesco
+5411188115472,Soyamilch,"Autriche,Belgique,France,Allemagne,Norvège,Roumanie,Suisse",ALPRO
+5449000000286,,"Albanija,Alžir,Austrija,Belgija,Bosna i Hercegovina,Bugarska,Hrvatska,Češka,Francuska,Gruzija,Njemačka,Mađarska,Mauricijus,Maroko,Poljska,Réunion,Rumunjska,Rusija,Srbija,Slovačka,Švicarska",Coca-Cola
+8410076610621,"Sweet & Salty Nut chocolat noir et mélange de noix, 5 barres de 30 g","Belgium,France","General Mills France,Nature valley"
+3415581101928,Vanilla Ice Cream,"France,Ireland,United Kingdom",Häagen-Dazs
+3088542506508,Sirop d'agave,"Belgique,France",Sunny Bio
+3412290070071,Paysan Breton - Le Fromage Fouetté Madame Loïk - Nature au Sel de Guérande,"Belgium,France","Le Fromage Fouetté Madame Loïk, Paysan breton"
+3664346305990,Grand Arôme 32% de Cacao,"Canada,France,Maroc",Poulain
+6111032002970,Assiri Panaché,Morocco,Danone
+6111035001710,Ain atlas 33cl,Maroc,Les Eaux Minérale D'Oulmès
+6111242102187,Ghani,"France,en:morocco",Jaouda
+7613036021388,La Panée Soja et Blé,France,Garden Gourmet
+6111242104556,Leben,"France,Maroc",Jaouda
+7311070032598,Krisprolls complets sans sucres ajoutés,France,KRISPROLLS
+4088600065991,White Sourdough Loaf,en:gb,Specially Selected
+8052575090346,Nocciolata Bianca,France,Rigoni di Asiago
+6111242926035,frut,Maroc,MARRAKECH
+7290104507045,Sabra Houmous Extra,"France,United Kingdom",Sabra
+5013665112259,Organic Beef Stock Cubes 8 Pack,"France,United Kingdom",Kallø
+6111271800016,,Maroc,
+5052910706706,Organic Baked Beans,United Kingdom,Tesco
+7613031473113,original shredded wheat,"France,Irlande,Espagne,Royaume-Uni","Nestlé, Nestlé UK Ltd"
+7613035833272,Perrier,"Belgique,Chine,France,Allemagne,La Réunion,Suisse","Nestlé, Nestlé Waters, Perrier"
+5060317350033,Pork Sausages,"France,United Kingdom",Heck!
+6111248360116,Eau,"France, en:morocco",Ain Soltane
+5013665114017,Protein packed lentil cakes,"France, en:united-kingdom",Kallo
+0061232201948,Cheese Oatcakes,"Francia,Reino Unido",nairn's
+3017760756198,Granola LU,France,LU
+3168930002987,Cuites au four nature,"Belgium,France,Réunion",Lay’s
+3168930010906,Cruesli Chocolat noir,"Bélgica,Francia,Polinesia Francesa,Italia,Nueva Caledonia,Reunión,España,Suiza",Quaker
+5010477348517,Country Crisp 4 Baies,"France,Suisse",Jordans
+5099801003339,Irish Organic Jumbo Oats,Royaume-Uni,Flahavan's
+6111242105638,Lait sans lactose,Morocco,Jaouda
+4000177158319,Multivitamin Capri-Sun,"France, Belgique, Suisse, en:belgium",Capri-Sun
+5449000036957,Poms 2,"France, en:morocco",
+5449000232250,PET 1.25L FUZE TEA PECHE,France,Fuze Tea
+6111250470254,Classic,Morocco,V.I.P
+5010292961182,Raw kimchi,en:gb,Vadasz
+5053990167845,Sour Cream & Onion®,"France, Germany, Spain, Switzerland, United Kingdom, en:austria","Pringles, Pringles - Kellogg"
+5014213711306,Smooth Peanut Butter,"France,Ireland,United Kingdom",meridian
+6111184001173,Confiture de fraises,"France, en:morocco",EL BARAKA
+7622210713926,Belvita Brut & 5 céréales complètes,"Belgique,France,Luxembourg,Nouvelle-Calédonie,Suisse",Lu
+8480000168832,Crema de cacahuetes 100%,"Portugal,España",Hacendado
+3155251205500,Beurre doux gastronomique,"France,Allemagne,La Réunion,Suisse",Président
+5000112611861,PET 1.75L COCA,"Belgium,France,Switzerland",Coca-Cola
+6111250472500,Sauce tomate Bol bol,"France, en:morocco",Tomato Frito
+6111184000244,El Baraka,"Maroc, en:france",vmm
+6111242100299,Jaouda Cremy Yaourt - Yougart With Strawberries,"ar:المغرب 🇲🇦, en:morocco",Jaouda
+7622201444327,,"Maroc,France",clorets
+6111259347434,Biscotti,en:Morocco,Excelo
+3251491787810,Goûter aux raisins,"Belgique,France,La Réunion,Suisse",Gerblé
+7613035866386,CONTREX eau minérale naturelle,"Belgique,France,Suisse,en:En",Contrex
+8076809529433,INTEGRALE PENNE RIGATE,"Belgium,France,Germany,Hungary,Italy,Slovenia,Spain,Switzerland",Barilla
+8715035110304,Salsa de Soja,"Belgium, France, Germany, Spain, United Kingdom, en:ireland",Kikkoman
+3073781131888,Kiri-Käse,"Belgique,France,Allemagne,Luxembourg,Suisse",Kiri
+3229820792132,Avoine - Boisson biologique,"France,Maurice,Maroc,La Réunion,Suisse",Bjorg
+5053990107384,Pringles sour cream,"Austria, Belgium, France, Germany, Morocco, Netherlands, Switzerland, United Kingdom, en:spain",Pringles
+6111162000402,Miettes de Maquereaux à la sauce tomate et aux épices,"France,Morocco",Joly
+6111242101203,Linea,"Morocco,en:morocco",Jaouda
+7622300689124,Granola L'original Gros éclats de chocolat,"France,Suisse","Granola,LU,Mondelez"
+6111243590433,Lait,en:MA,
+3329770073265,Skyr,France,Yoplait
+6111028001017,Kiri carré 36,Morocco,Kiri
+6111265930385,6111265930385&quot;,en:Morocco,
+4008713756661,Copos de avena,"Bulgaria,Francia,Rumania,España,Estados Unidos",Brüggen
+7614500010013,Toblerone,"Argelia,Australia,Bélgica,Bolivia,Bulgaria,Dinamarca,Finlandia,Francia,Alemania,Italia,Marruecos,Noruega,Polonia,Rumania,España,Suecia,Suiza,Tailandia,Ucrania,Reino Unido",Toblerone
+8002470023727,Huile d'olive vierge extra Bio Classico,France,Carapelli
+5060367180758,Crunchy peanut butter,"France,United Kingdom",Pip & Nut
+7622210580092,Organic Milk Chocolate,"United Kingdom, en:ireland",Green & Black's
+5000108280941,Oat so Simple,en:United Kingdom,"Quaker, Quaker Oats"
+5000129341034,Hand Finished White Sourdough,en:United Kingdom,Coop
+8420756010320,KÉFIR,Morocco,Reina
+3182180060320,Tartines de Pain Blé Complet,"France,Suisse",Brioche Pasquier
+3073781131925,Kiri® Crème 12 portions,"en:lu, en:belgium, France",Kiri
+5201054017517,Fage,"United Kingdom, en:ireland",Fage
+3387390123210,NESTLE CHOCAPIC Céréales 375g,"France,La Réunion","Nestlé, Chocapic"
+3664346305860,Noir Extra,"France,Maroc",Poulain
+6111126001711,Jnane nature sans sucre,"France,Maroc",Chergui
+5012121004336,4 Greek Style Flatbreads,United Kingdom,K Kitchen Deli
+8424893600321,Kéfir,"Spain, en:morocco",Reina
+3017760363990,Heudebert Fibre +,"Belgium,France,Réunion",Heudebert
+3228857000906,Pain AMS complet,"Belgien,Frankreich,Guadeloupe,Schweiz",Harrys
+3229820004334,Le cookie Chocolat Noisette,Frankreich,Bjorg
+5000127142190,All-Bran Original,"Ireland,Jersey,United Kingdom","Kellogg,Kellogg's"
+5011273014903,Organic Classic Canadian Maple Syrup,"Royaume-Uni,France",Buckwud
+6111031003756,Tonik,"France,Maroc,en:morocco,",Bimo
+5010067373417,Easy Bake Yeast,"United Kingdom,Scotland",Allinson's
+6111246722107,Frommage fondu,en:Morocco,REWE Beste Wahl
+3088545004001,Miel de Fleurs Liquide Doseur 500g,"France,Allemagne,La Réunion,Sénégal,Suède,Suisse",Lune de Miel
+3155251205319,Tartine & Cuisson 100% végétal,France,Primevère
+3760049796384,Tartines céréales 450g,France,La Boulangère
+6111246910023,Pain de mie complet,"France,en:morocco",Ekmek
+3362600017619,Spofy,"France,Maroc",henry's
+5000157079602,Tomato ketchup,"France, United Kingdom, en:ireland",Heinz
+7394376665035,Oat Drink Whole,"Spain,United Kingdom,Francia",Oatly!
+7311070032604,Krisprolls complets,France,Pågen
+8480000142139,Digestive Avena,"Portugal,España",Hacendado
+6111242106673,Jutos,"France, en:morocco",Jaouda
+4056489973010,Huile d’olive,FR,Primadonna
+3023470001015,Galettes St Michel au beurre 4X5 - 130g,"Belgien, Frankreich, Guadeloupe, Italien, Martinique, Marokko, Schweiz, Germany",St michel
+5018374350930,Baked Beans In Tomato Sauce,"Ireland, en:united-kingdom",Tesco
+6111259340060,Chocup,Maroc,Excelo
+7311070362664,Krisprolls,"Frankreich,Deutschland,Schweiz",Krisprolls
+7622210476241,Petit brun extra,France,"Brun,Mondelez"
+5057753158422,Bran Flakes Malty Crunch,"France,Irlande,Royaume-Uni",Tesco
+6221007032540,Cerelac,en:Morocco,Nestle
+3061990143594,"BN - Casse Croute Biscuits, 375g",France,BN
+6111128001115,Ghayt,en:ma,
+8445291061132,HEPAR,"France, en:belgium",hepar 75cl
+8712100751370,AMORA Ketchup Flacon Souple 550g,"France, Réunion, en:morocco",Amora
+5023762000113,Fruity Black Currants,en:gb,Rocks
+6111032009924,SALIM LBEN 440G,en:Morocco,
+3175681028098,Galettes boulghour & épeautre,France,Céréal Bio
+3251491787803,Goûter aux écorces confites,Francia,Gerblé
+5411188116592,Délicieuse & Tropical Coco,"Áustria,Bélgica,Bulgária,República Checa,França,Alemanha,Hungria,Itália,Luxemburgo,Países Baixos,Polónia,Portugal,Roménia,Eslováquia,Eslovénia,Suécia,Suíça",alpro
+8715035130104,Salsa di Soia,"Bulgarije,Frankrijk,Duitsland,Ierland,Italië,Nederland,Verenigd Koninkrijk",Kikkoman
+5740900402751,LURPAK® Spreadable Slightly Salted,United Kingdom,Lurpak
+5018357012411,Simply Delicious Muesli,"Netherlands, en:united-kingdom",Dorset Cereals
+6111028001222,la vache qui rit,en:Morocco,
+3045140118502,Milka Tablette Noisette,"Algeria, Austria, Czech Republic, France, Germany, Morocco, Switzerland, en:slovakia","Milka, Mondelez"
+3175681116832,Sablé saveur COCO,"Belgique,France,Thaïlande",Gerblé
+3760049795479,Pain de mie grandes tranches Toastiligne céréales & graines 500g,France,La Boulangère
+5000127062092,Bran Flakes,"France,Irlande,Royaume-Uni",Kellogg's
+9002515601018,Pago Ace - Orange - Carotte - Citron,France,pago
+5018357012534,Simply Fruity muesli,"United Kingdom,en:united-kingdom",Dorset cereals
+6111259346741,Suprême,en:Morocco,Be Biscuit
+3033710074525,NESCAFÉ SPECIAL FILTRE L'Original Flacon de 200g,"Belgique,France,Maroc,Suisse","Nestlé,Nescafe,Special filtre"
+3175681028111,Les Galettes Boulgour & Quinoa - Tomate & Paprika,France,Céréal Bio
+5013665103134,Very Low Salt Organic Vegetable 6 Stock Cubes,"France,Ireland,United Kingdom","Kallo foods Ltd,kallø"
+5013665108320,Crunchy Organic Peanut Butter,"France, United Kingdom",Whole Earth
+6111024001202,Huile de tournesol,"Maroc,République du Congo",Lesieur Cristal
+7622210444141,Moelleux chocolat,"Belgique,France,Maroc,La Réunion,Suisse","Belvita, LU, Mondelez International"
+6111249960964,Capri choco,en:ma,Excelo
+8000500273296,Ferrero Rocher,"France, Germany, Ireland, Morocco, en:algeria",Ferrero
+5013665115557,Beurre de cacahuètes crunchy,en:fr,Whole Earth
+7613287514325,Fitness Nature Céréales complètes,"Belgique,France,Sénégal",Nestle
+8480000156112,Avena crunchy,España,Hacendado
+7394376620157,Barista edition oat drink,"United States, en:united-kingdom",Oatly!
+3046920029681,Excellence Noir Délicat Doux 85% Cacao,"Austria,Czech Republic,France,Germany,Morocco",Lindt EXCELLENCE
+3033491588136,HIPRO Saveur Vanille,"Belgique,France","Hipro, Danone"
+3168930170549,Ice tea,en:fr,Lipton
+0089686120073,indoumi goût poulet,"Morocco,Tunisia,Qatar",Indomie
+3178530402728,La Madeleine Pur beurre,"France,Suisse",Bonne Maman
+5010003000131,Soft White Medium Bread,"France,United Kingdom,en:united-kingdom",Hovis
+6111128000026,Sidi Harazem,"France,Maroc",
+7613035937420,HERTA Knacki Veggie Saucisses végétales x6 -210g,France,Herta
+7622300315733,Philadelphia Original,"Österreich,Tschechien,Frankreich,Deutschland","Mondelez,Philadelphia"
+6111242102552,Dessert gourmand choco,"Maroc, en:france",Jaouda
+6111024001974,Huile de table équilibrée,Maroc,"Lesieur,Cristal"
+3182180001996,Biscottes Sans sucres ajoutés Blé complet,France,Pasquier
+6111031005095,,Maroc,Bimo
+6111271800030,Eau de source naturelle La Source,en:Morocco,Aïcha
+3229820787008,Bjorg amande,"France,Maroc,La Réunion,Suisse",Bjorg
+5060088705940,Blueberry Muffin raw fruit & nut bar,United Kingdom,nākd
+6111032002963,asiri fraise,"France,Morocco",Danon
+6111180005342,Préparation en poudre pour Crème pâtissière saveur vanille,"France,Morocco",Idéal
+7622300336738,Oreo Original,"Austria,Belgium,Finland,France,Germany,Greece,Italy,Netherlands,Norway,Sweden,Switzerland","Mondelez,Oreo"
+8886303210238,Lait de coco,"France,Suisse,Monde",Kara
+5010044007588,Protein Thin Bagels,United Kingdom,Warburtons
+3302740059193,Blanc de Poulet,France,Fleury Michon
+3034470003107,Benco Original,France,Benco
+3038354199603,Panzani - spf - sauce pesto vert 200g,"France,Roumanie,Suisse",Panzani
+8711200548002,mayonnaise de Dijon,"Belgique,France,Suisse",amora
+5000119095282,Wholemeal Pittas,"United Kingdom,Ireland",TESCO
+6111180010414,Chocao energie,Morocco,
+4025500287955,Kefir - Pur,DE,Müller
+3168930009795,Muesli Croustillant Noix de pécan & noix du Brésil,"Bélgica,Francia,Nueva Caledonia,España,Suiza",Quaker
+5010477347312,Granola,United Kingdom,Jordan’s
+5053990127740,Pringles,"Belgium,Germany,Ireland,Morocco,Spain,United Kingdom,en:netherlands",Pringles
+5601363006668,Pelotazos futebolas,"France,Morocco",Cheetos
+5060482840179,Apple & Raisin Oat Bars,"France, en:united-kingdom",deliciously ella
+6111242104617,crème cuisson,en:ma,Jaouda
+8410076801197,"Crunchy Oats and Dark chocolate, 2 Barres de 21 g","Belgium, France, Germany, Spain, United Kingdom, en:ireland",Nature Valley
+3033491704642,Skyr nature 0%,France,Danone
+8719200251700,Beurre planta,Frankrijk,Beurre planta
+6111259090415,Crempro,Maroc,gastro mixte
+3073781192186,La vache qui rit,Frankrijk,La vache qui rit
+6111056014522,,Morocco,
+3229820794532,Nutri+ avoine complet,France,Bjorg
+5034660021582,Hot Chocolate Powder,"France,Ireland,United Kingdom",Cadbury
+5036034406193,Mission Deli White Wraps,en:gb,Auto Extreme
+5057373489593,Greek Style Yogurt,"Ireland,United Kingdom",Tesco
+5000462416772,Greek Style Natural Yogurt,"France,Royaume-Uni",Tesco
+8852018101024,Chicken Flavour,"Tschechien,Dänemark,Frankreich,Deutschland,Niederlande",Yum Yum
+5060198820052,Peter's Yard Original Sourdough Crackers,"France,United States,Ireland,United Kingdom",Peter's Yard
+4088600247458,Malted Wheaties,"United Kingdom, en:ireland",Harvest Morn
+4056489235798,Pain de mie grandes tranches 7 cereales,France,Maître Jean Pierre
+6111017042403,,"France,Maroc",Aiguebelle
+8434165437418,Cuetara Digesta Light 200G Marie Cookies,"France,Maroc",Cuétara
+3366321053307,Oméga 3,France,St Hubert
+5000108022176,Scott's Porage Oats Original 1000g,"France,United Kingdom",Scott
+6111032002918,Yawmi velouté pistache,"France,Mauritanie,Maroc",danone
+5060055251548,No Artificial Additives 6 Pork Sausages,United Kingdom,Naked
+6111017046470,délice noir,en:ma,Aiguebelle
+4056489406679,High Protein Drink Cacao,"Cypr,Dania,Polska,Szwecja,Zjednoczone Królestwo",Milbona
+6111099000605,Lio produit,en:ma,
+8000500267035,Cacao,"Belgique,Bulgarie,France,Allemagne,Hongrie,Italie,Mexique,Maroc,Portugal,Roumanie,Espagne,Suisse",Kinder
+8964000577066,Hemani Coconut Oil Pure & Natural (400ML),"France, en:morocco, en:algeria",Hemani
+3168930159896,Ice Tea Pêche,"France,en:reunion",Lipton
+3302740047367,Le Supérieur - à l'Etouffée - Conservation sans Nitrite,France,Fleury Michon
+6111266962651,lait,en:Morocco,Jaouda
+5034467000223,"Organic Tofu, handmade and beechwood-smoked","United Kingdom, en:ireland",The Tofoo Co.
+6111032004448,Danup fraise,"France,Morocco",Danone
+8435185101112,Orangina et sa Pulpe !,"France, Maroc","Orangina, Orangina Schweppes, Schweppes"
+8712100724572,Levure Chimique Alsacienne,"France,Allemagne",Alsa
+3366321053284,St hubert omega 3 255 g doux,France,"Saint Hubert,St hubert omega 3"
+5059319029702,Rice Krispies,"United Kingdom, en:ireland",Kellogg’s
+3664346306027,chocolat en poudre,"Canada,France,French Polynesia",Poulain
+5411188118961,"Alpro Joghurtalternative auf Sojabasis, Natur mit Mandeln, 500 g, 31","Belgium,France,Germany,Ireland,Italy,Spain,Switzerland,United Kingdom",Alpro
+8076802085981,Fusilli 98,"Austrália,Áustria,Bélgica,Bulgária,Croácia,República Checa,França,Alemanha,Itália,Luxemburgo,Portugal,Singapura,Suíça",Barilla
+8410376009415,Chip Choco Zero Sin Azúcares,"Portugal,España",Gullón
+8423352861402,Bebida de Avena,"Portugal,Espanha",Alitey
+5070000126548,"Low Sugar, Naturally Gut-Loving Granola",en:gb,Bio & Me
+8720608632633,lipton yellow label tea x25,en:Morocco,Lipton
+5011835101690,Cocoa Powder,"France,United Kingdom",Green & Blacks
+5411188099154,Alpro Plain,"Belgium, Czech Republic, Estonia, Finland, Netherlands, Norway, Poland, Slovakia, United Kingdom, en:ireland","Alpro, Danone"
+5411188112778,"Alpro® Mandeldrink Ungesüßt, 1 L, FRESH","Alemanha,Países Baixos,Reino Unido",alpro
+5411188121213,,"Bélgica,Finlandia,Francia,Alemania,Países Bajos,España,Reino Unido",alpro
+6111242103696,Yaourt grec,"France,Maroc",Jaouda
+8410076472953,Wraps,"France,Spain,Switzerland",Old El Paso
+3175681257566,Gingembre saveur citron 🍋,"France,La Réunion",Gerblé
+6111029000293,enmer,"Maroc, en:morocco",كوسومار
+8710522922019,Ketchup 5 Ingrédients,France,Amora
+5060198645624,Piadina midi flatbread,en:gb,Piadina
+3272770094412,L'original tartare ail & fines herbes,"France,Suisse","Fromarsac, Savencia, Tartare"
+3560070614202,Oat flakes,"Belgique,France,Grèce,Guadeloupe,Italie,Madagascar,Maroc,Pologne,La Réunion,Roumanie,Espagne",Carrefour
+3760020508012,Tartines craquantes Sarrasin,"Belgique,France,Suisse",Jardin Bio étic
+7622210103314,Queso para untar Philadelphia,"France,Maroc,Espagne",Philadelphia
+5010338013714,Creamed Coconut Block,Royaume-Uni,Blue Dragon
+5056053305703,Classic Chicken,United Kingdom,New Covent Garden Soup Co
+6111260680452,Marhaba,en:ma,
+7613287152183,Shreddies,en:gb,Nestle
+6111062000175,Huile de grignon d’olive,"France,Maroc",
+4008400260921,Kinder Country,"Autriche,France,Allemagne,Italie,Suisse","Kinder, Ferrero"
+4008400402222,Nutella,"Deutschland,Marokko","Ferrero,Nutella"
+5060283760669,Sweet & Salty Popcorn,United Kingdom,Proper Corn
+6111242107366,Press Up moyen,en:ma,Jaouda
+6111203006646,la hollandaise,en:Morocco,la hollandaise
+3366321052003,St Hubert Omega 3 Sans Huile de Palme 500g Doux,France,"St Hubert, St hubert omega 3"
+5000442007594,Olive oil,"France, United Kingdom, en:ireland",Fry light
+6111035002052,Bul'tropicale,"Marruecos,España,en:Francia","Les Eaux Minérales d'Oulmès, Oulmès"
+8013355999143,Gocciole classiche pav 500 gr,"Belgium,France,Germany,Italy,Switzerland",Pavesi
+4088600003429,Houmous,"Ireland,United Kingdom","The Deli,aldi"
+8410076610744,Protein Caramel salé Cacahuètes,France,Nature Valley
+4088600132334,85% Cocoa - Dark Chocolate,"United Kingdom,Ireland",Moser Roth
+5018095011318,Tomatocy French Puy & Green Lentils,en:gb,Merchant Gourmet
+8410109121551,Cacao puro desgrasado en polvo,España,La Chocolatera
+4088600276267,6 Wholemeal Pittas,en:gb,Village Bakery
+5740900404496,Butter,en:United Kingdom,Lurpak
+0043647868039,Tiptree tomato ketchup,"France, Germany, Spain, en:united-kingdom",Wilkin & Sons
+0898999000503,Coconut Water The Original,"Belgium, France, United Kingdom, United States, World, en:germany",Vita Coco
+3292070005161,Houmous extra - Pois chiches français & graines de sésame,"France,Spain,Switzerland",L'atelier Blini
+3700214611548,Noir equitable 85% Pérou,"Belgium,France,Switzerland",Alter Eco
+3760020500658,Pâte à tartiner chocolat Noisette,"France,Polynésie française,Suisse","Jardin Bio, Léa Nature"
+4008400409627,Nutella,"Deutschland,Marokko","Ferrero,Nutella"
+5000184201199,Marmite Yeast Extract,"France, en:united-kingdom",Marmite
+5010029207880,Oatibix,"France, Spain, United Kingdom, en:ireland",Weetabix
+6111203005779,الهاندس,"France,Maroc,en:Maroc",La Hollandaise
+8000500269169,Kinder Cards,"Belgien,Bulgarien,Finnland,Frankreich,Deutschland,Ungarn,Italien,Luxemburg,Marokko,Rumänien,Spanien,Schweden,Schweiz","Ferrero,Kinder"
+8480000809421,Tortillas de trigo integrales,España,Hacendado
+8480000235794,Ketchup,España,Hacendado
+8402001015205,Avena Crunchy Cacao,"Portugal,España",Hacendado
+4058172309250,Magnesium,"Algeria,Germany,Morocco",Mivolis
+3124480186560,33CL CAN SLIM TROPICAL,"France,Belgique,Maroc,Suisse","Oasis,Oasis Tropical"
+3168930003632,Flocons d'avoine complète,"France,Suisse",Quaker Oats
+3178530410143,Petites Madeleines pépites chocolat,"France,Suisse",St Michel
+3284230011884,8 Pains au lait frais Bio 280g,France,"La Boulangère Bio, La boulangere"
+5020364010151,NYC BAGEL Sesame,"France, en:united-kingdom",NEW YORK BAKERY
+6111245470023,Afia,en:ma,AFIA
+4088600266008,Greek style natural yoghurt,"United Kingdom,en:united-kingdom",Brooklea
+5059319014814,Corn Flakes,"United Kingdom, en:ireland",Kellogg's
+5025125000198,Sourdough Wholemeal Ciabattin,United Kingdom,Jason's
+6111031005279,,Maroc,Bimo
+3033710003228,RICORÉ® aux céréales et à la chicorée solubles Boîte 250g,France,"Nestlé,Caro,Ricore"
+3178530407396,Petit Cookies Pépites de chocolat,"Belgium, France, Luxembourg, Switzerland, en:united-kingdom",Bonne Maman
+3329770051072,petit yoplait,"France,Switzerland","Petit yoplait std, Yoplait"
+3468570116601,ROZANA Eau Minérale Naturelle Pétillante 1.00 L,"France,Polynésie française,Nouvelle-Calédonie,La Réunion",Rozana
+5000157024886,Heinz Baked Beans,"France,Germany,United Kingdom",Heinz
+5410041010800,Petit écolier chocolat noir pur beurre de cacao,"France,Allemagne,Maroc,La Réunion,Espagne,Suisse,Canada","Lu, Mondelez France"
+5411188115496,"Alpro Sojadrink, Ungesüßt 1L","Belgique,France,Allemagne,Italie,Luxembourg,Pays-Bas,Norvège,Roumanie,Espagne,Suède,Suisse",alpro
+6111250474641,Moutarde,"France,en:morocco",
+5054775188321,Unsalted Butter,"An Fhraing,An Rìoghachd Aonaichte",Tesco
+5060283760812,Sweet & salty popcorn,United Kingdom,Proper Corn
+4056489102977,Extra Virgin Olive Oil,"Spain, United Kingdom, en:ireland",Primadonna
+5018095004341,Smoky Spanish-Style Grains & Rice,en:gb,Merchant Gourmet
+7613287195210,Cheerios Multigrain,"United Kingdom, en:ireland","Cheerios,Nestle"
+6111246721735,Fromage blanc nature,Maroc,MILKY FOOD
+8718836397110,Premium Omega-3,"Algeria, France, Germany, Morocco, en:italy",Ocean's Essentials
+3033710077274,"NESCAFÉ NES, Café Soluble, Boite de 200g","France,Polynésie française","Nestlé,Nes,Nescafe"
+3083680973939,Ratatouille Cuisinée à la Provençal,France,Cassegrain
+3155251204343,Tartine & cuisson doux à tartiner et à cuire,France,Primevere
+5000111041843,Lea and perrins,"France, Germany, Spain, United Kingdom, en:ireland",Lea & Perrins
+5055958701054,Protein Oat Boosts Cocoa Vanilla,"France,United Kingdom",Graze
+5060069170033,Agave Nectar,United Kingdom,the-groovy-food-company
+5449000131843,Coca-Cola Zero,"Belgium,Bulgaria,Croatia,France,Georgia,Germany,Romania,Spain,Ukraine,Sweden",Coca-Cola
+6111242105676,LADID,en:ma,Jaouda
+6111099000629,Huile de table,en:ma,Lio
+3272770015516,Tartare végétal ail & fines herbes,"France,Suisse","Savencia,Tartare"
+3770016162043,Merguez Végétal,France,HAPPYVORE
+5059319030517,Corn Flakes,"Ireland,United Kingdom",Kelloggs
+3760091721747,Beurre de cacahuètes du Nicaragua,France,Ethiquable
+5013665108344,Smooth Organic Peanut Butter,"France,United Kingdom",Whole Earth
+6111243860383,ice POMME 1.5l,"France, en:morocco",ice
+8412674005021,Megachok,"France,Morocco,New Caledonia",arluy
+8436547770137,Kéfir natural sabor suave,España,Hacendado
+5449000132277,fanta tops lemon 1.5l,"France, en:morocco",
+3175681257542,Cranberry saveur amande,"Frankrijk,Réunion",Gerblé
+3175681257535,"Biscuits 3 graines Kasha, Sésame, Pavot","France,La Réunion",Gerblé
+6111252421971,Aquafina,Maroc,Pepsi cola
+3182189999805,Biscottes sans sel et sans sucre ajoutés,France,Pasquier
+6191585701858,كريميو,en:Morocco,Cremio
+3228857002245,Pain de mie american sandwich rustique sans sucres ajoutés 500g,France,Harry's
+3124480184344,Orangina,"Belgien, Frankreich, Germany","Orangina, Orangina Schweppes France, Schweppes International Limited"
+3272770004725,"9 Minis St Moret (17,8% MG)","France,Luxembourg,Suisse","Savencia,St Moret"
+3451790988813,Le Beurre Tendre Demi-Sel Barquette,"Belgium,France,Switzerland","Elle & Vire, Savencia"
+3760091722508,Chocolat noir 85% Madagascar,"France,Spain",Ethiquable
+5000157078773,BEANZ In a rich tomato sauce NO ADDED SUGAR,"France,Royaume-Uni",HEINZ
+5449000044808,,"France,Allemagne,Maroc","Schweppes,Coca Cola"
+7622210988034,Véritable petit beurre,"France,Guadeloupe,La Réunion,Suisse","LU, Mondelez, Mondelez international"
+5060406080452,Barista Organic Oat M*lk,"Ireland,United Kingdom",Minor Figures
+4088600225425,Canadian Maple Syrup,"Ireland,United Kingdom",Specially Selected
+5053990161966,Pringles Texas BBQ,"Belgium,Bulgaria,Germany,Ireland,Morocco,Romania,United Kingdom,Libya","Pringles, Kellogg"
+6111259344501,Extrem,en:Morocco,Excelo
+5000168198514,Sablés chocolat,France,McVitie's
+5000184321071,Real Mayonnaise,"France,Irlande,Royaume-Uni",Hellmann's
+6111128000477,Eau minérale,"France, en:morocco",
+6111242101852,لينيا,"France, en:morocco",Jaouda
+7622210416681,Biscottes,France,"Heudebert,Lu,Mondelez"
+3029330069898,,France,Jacquet
+5060482840766,Peanut Butter Oat Bars,"Ireland,United Kingdom",Deliciously Ella
+6118000040361,Chargement…,en:Morocco,
+8721800402055,Leerdammer original 8 tranches 200g,France,Leerdammer
+5060088700105,NAKD PROTEIN - Cacao noisette - 45g (16x1p),"France, United Kingdom, en:switzerland",Nakd
+5000232902450,Baked Beans,"France,United Kingdom",Branston
+6111032006985,Danao Pèche-Abricot,"France,Morocco",Danone
+7622210416629,La Biscotte 96% de céréales,"France,Réunion",Heudebert
+8000500037560,Kinder Bueno,"Algérie,Belgique,Allemagne,Italie,Maroc,Espagne,Suisse,Tunisie,Royaume-Uni,États-Unis,France",Kinder
+8681480324484,,"France,Maroc",Bol Bol
+6111242102941,Yogurt Bnine BANANA,"France,Morocco",Jaouda
+6111245341019,,Maroc,Khayrat
+0039047011304,Shortbread Fingers,United Kingdom,Walker’s
+4056489608264,Huile d'olive bio,France,PRIMADONNA
+6111250475129,Mayonnaise,en:Morocco,Bol Bol
+6111126005696,Proteines Mangue,en:Morocco,Chergui
+3478820023184,Pâte à tartiner chocolat noisette,"Belgique,France,Guadeloupe,Luxembourg,Maroc,La Réunion,Suisse","Jardin bio,Léa Nature"
+3497917000907,Chips saveur fromage du Jura,"France, en:morocco",Brets
+5013665113133,Crunchy Peanut Butter,"France, United Kingdom",Whole Earth
+5411188110842,Rich and indulgent Hazelnut,"Belgium, Czech Republic, Finland, France, Germany, Italy, Sweden, Switzerland, United Kingdom, en:spain",Promise Gluten Free
+6130234001147,Lala kheddidja,"Algérie,France",cevital
+6111259341517,Top cookies,Morocco,Excelo
+5060198643156,Margherita Sourdough Pizza,en:gb,Crosta & Mollica
+4056489367260,Mon p'tit plaisir,France,Milbona
+5060482841565,Nutty Granola,"Ireland, United Kingdom, Germany",Deliciously Ella
+8719200252332,proactiv,"United Kingdom, en:ireland",Flora proactiv
+6111259346345,cooky original chocolate chips,Morocco,Be
+0061232202952,Fine Milled Oatcakes,"Frankrijk,Verenigd Koninkrijk",Nairn's
+3228857000883,Extra moelleux nature,"France,Suisse",HARRYS
+3229820794624,Galettes riz complet Bio,"France, Switzerland, en:morocco",Bjorg
+5000111047517,HP the Original Brown Sauce,"France,Royaume-Uni",HP Sauce
+6111005054098,sucre arôme vanille,"France,Morocco",Alsa
+8024884500403,COURMAYEUR Eau Minérale Naturelle 1.50 L,"France,Guadeloupe,Martinique",Courmayeur
+3336971805038,Chips de lentilles saveur tomate mozza,France,"Natu' & Bon,Vico"
+5010029226133,Alpenmüsli The Original Swiss Style,"United Kingdom,Ireland",Weetabix
+5052320269839,Tesco Finest Greek Yoghurt,"United Kingdom, en:ireland",Tesco
+4056489620938,Beurre de cacahuètes,"Francuska,Njemačka,Maroko,Španjolska,Hrvatska",Maribel
+5010477353115,Crunchy Oat Granola Raisin & Almond,"France,Royaume-Uni",Jordan
+7610313390076,Herbamare original,France,A.Vogel
+8076809513388,Arrabbiata,"Australia,Austria,Belgium,Bulgaria,Denmark,Finland,France,Germany,Italy,Morocco,Norway,Spain,Sweden,Switzerland",Barilla
+3029330071280,Pain complet,France,Jacquet
+8480000229663,Corn Flakes 0% azúcares añadidos,España,Hacendado
+5059319023762,Miel pops,France,KELLOG'S
+5000112611878,PET 1.75L COCA COLA® ZÈRO,"Belgium,France,Spain,Switzerland",Coca-Cola®
+5010029202410,Weetabix,"France, United Kingdom, en:ireland",Weetabix
+0612322000202,Fruit & Seed Oatcakes,"France,United Kingdom,United States,en:united-kingdom",Nairn's
+7622210834751,Milka oreo,"France,Morocco,Maroc",Milka Oreo
+4088600046648,Original Full Fat Soft Cheese,"España,Reino Unido",Emporium
+6111246721957,Le berger From blanc Nat,en:Morocco,
+6111028001246,la vache qui rit 24,en:Morocco,
+6118000090762,rinomicine,Morocco,Rinomicine
+3270190127765,Chocolate negro,"Belgium, France, French Polynesia, Italy, Spain, en:morocco","Carrefour BIO, Carrefour"
+3608580758686,Confiture extra de Fraises,"France,Switzerland",Bonne Maman
+5010477348630,"Muesli bio 36% fruits, noix & graines","Belgium,France,French Polynesia,Italy,Luxembourg,Spain,Switzerland,United Kingdom",Jordans
+5013665103028,Belgian Dark Chocolate Rice Cake Thins imp,"France,Royaume-Uni",Kallø
+5060088701447,Cocoa Orange,Royaume-Uni,Nakd
+5000436616443,Corn Flakes,"France, United Kingdom, en:ireland",Tesco
+5010171005006,Spreadable Tub,en:gb,Country Life
+3660140948258,Savane,France,Brossard
+6111265980229,Nutabella,Morocco,
+0022314010025,Crème de marrons de l'Ardèche,"France,Allemagne",Clement Faugier
+3159470001424,Céréales All Bran Kellogg's Fibre Plus,"Belgique,France,Allemagne,Guadeloupe,Italie,Luxembourg,Pays-Bas,Espagne,Suisse,Royaume-Uni",Kellogg's
+3176571983008,Viva lait 1/2 écrémé,"France,Guadeloupe",candia
+5031021164032,Italian Chopped Tomatoes,"Ireland,United Kingdom",Tesco
+5060120281975,Organic Oat Drink imp,"France,Netherlands,United Kingdom,Ireland",Rude health
+6194007510014,eau minérale naturelle,Tunisie,Sabrine
+5060719920001,Absolute black dark chocolate,"España,Reino Unido",Montezuma's
+3302740047404,Le Supérieur -25% de Sel - Conservation sans Nitrite,France,Fleury Michon
+6111259341654,eyoo,"France, en:morocco",Excelo
+6111255771196,Noisetta,"Germany, en:morocco",
+5056053308742,Vegetable and roast chicken soup,"United Kingdom,united kingdom",YORKSHIRE PROVENDER
+3183280000728,Sel Moulu de Méditerranée,"France,Allemagne,Suisse",la baleine
+3480341000704,Carré frais 0 pourcent ail et fines herbes,France,Elle & Vire
+3502110009357,Pepsi Max,"Belgium,France,Germany,United Kingdom","Pepsi zero, PepsiCo"
+3560070910366,Huile d'olive vierge extra,"Belgique,France,Pologne,Roumanie","Carrefour BIO,Carrefour"
+3760049798029,Tartines Bio quinoa & graines 450g,"France,Suisse","La Boulangère Bio,La boulangere"
+5011157888132,Tilda Steamed Brown Basmati Rice,"Australia, France, New Zealand, en:united-kingdom",Tilda
+6111199000017,Flash Wondermint Gum,"France, en:morocco",Flash
+8410376017113,Biscuits Mega Duo imp,"Francia,Marruecos,España,fr:Francia",Gullón
+6111242660373,Beurre badaouia,"France,Maroc",
+3229820798110,Granola Chocolat,"Belgium,France,Réunion,Switzerland",Bjorg
+8715700112596,"Ketchup zéro sel ajouré, 70% moins de sucres","Belgique,France,Allemagne,en:Belgique,en:Espagne",HEINZ
+6111032007968,Crème caramel,Morocco,Danone
+6111162001416,Delicia 200 g,en:Morocco,maroc
+7613287157201,Cheerios Multigrain,"Spain, United Kingdom, en:ireland",Cheerios Multigrain
+8052575090247,Nocciolata,en:fr,Rigoni di Asiago
+6111259346352,cooky,Morocco,be
+4056489997511,Bio Hafer,"Francja,Niemcy,Polska",Vemondo
+8000500426494,Nutella Plant-Based,"Czech Republic,France,Germany,Italy","Nutella, Ferrero"
+0061232202556,Dark Chocolate Chip Oat Biscuits,"France, New Zealand, United Kingdom, en:ireland",Nairn's
+3029330022411,Maxi Tranches Sans sucre ajouté Nature,France,Jacquet
+3252210390014,,France,Lactel
+3254550006013,Crème sous pression à la vanille 250g,France,Isigny Sainte-Mère
+5054775188239,Tesco British Salted Block Butter,"France,Royaume-Uni",Tesco
+5410221305085,Schweppes Agrum',"Belgique,France,Luxembourg,Suisse","Orangina Schweppes,Schweppes"
+7622210995063,180G LT NOISETTE COTE D OR,"Algeria, France, Luxembourg, en:morocco",Côte d'Or
+8410188012092,Corn Flakes,"Itália,Portugal,Roménia,Espanha",Kellogg's
+0884912005502,Grape-Nuts,"France,Royaume-Uni",Post
+4056489033042,Noisettes grillées,"France,Germany,Ireland,Netherlands,Poland,Romania,Spain,United Kingdom",Alesto
+3281780893915,Mon Taboulé Oriental,"Frankrijk,Nederland",Pierre Martinet
+6132500711040,El Mordjene Crème De Noisettes Grillées,"Algeria, France, en:tunisia",Cebon
+4056489491217,Skyr,"France,Royaume-Uni",Milbona
+6111266960343,Perly,Morocco,Perly
+3155251205524,beurre,"Belgique,France,Polynésie française,Roumanie,Suisse",Président
+3229820786605,Crousti' Avoine Chocolat,"France,Switzerland",Bjorg
+3608580823445,Confiture de fraise Intense,"France,Switzerland",Bonne Maman
+3664346306003,Grand Arôme 32% de Cacao,France,Poulain
+5000111041836,Worcestershire Sauce,"Frankreich,Deutschland,Vereinigtes Königreich",Lea & Perrins
+5449000232311,FuzeTea Thé glacé pêche intense,France,FUZE TEA
+8712100731822,Amora Spécialité à la moutarde de Dijon aux épices et aromates Savora Bocal 385g,"France, en:morocco","Amora, Unilever"
+6111032007128,Jibi,"France, en:morocco",بوني
+3182180002542,Grilletine Sans sucres ajoutés Blé complet,France,Pasquier
+6111259344129,Sergio,en:Morocco,excelo
+5059697684616,Dark Chocolate,en:united-kingdom,TESCO finest
+4005808173457,,"Morocco,Tunisia",
+3249760000654,Orangina,"Belgium,France,Switzerland",Orangina
+4014400901191,Merci Finest Selection Assorted Chocolates,"Austria, Belgium, Bulgaria, France, Germany, Hungary, Netherlands, North Macedonia, Poland, Romania, Sweden, Switzerland, en:morocco",Storck
+5000354908248,Custard powder,"France,Germany,United Kingdom",Bird's
+5410126806069,LOTUS BISCOFF Speculoos Original - 250g (2x125g),"Belgium, France, en:morocco","Lotus Bakeries, Lotus"
+7622400006753,Noir 70% Intense,"Belgique,France,Italie,Maroc","Côte d'Or,Mondelēz"
+4056489369134,Biscuits Germe de Blé et Pépites de Chocolat,France,"Lidl,Sondey"
+3083681148619,Carottes rapees citron dnp 320g,"Belgique,France,Luxembourg",Bonduelle
+5025125000174,Everyday Tiger Rolls with Sourdough,en:gb,Jason's
+3154230810131,HERTA LE BON PARIS Jambon sel réduit sans nitrite x4-140g,France,"HERTA, Le Bon Paris"
+3265474000018,Huile Isio 4,"France,Allemagne,Guadeloupe,La Réunion,Suisse",Lesieur
+3278693504076,Emprésuré au chocolat,France,Malo
+8002270116544,San Pellegrino,"Belgique,France","San Pellegrino, Nestlé"
+6111195016937,Creme a tartiner,"فرنسا,المغرب",Leka c
+7622210834713,Milka wholenut,"France,Maroc",Milka
+4056489406662,High Protein Drink Gusto Vaniglia,"Bélgica,Alemanha,Itália,Polónia,Espanha","Lidl, Milbona, Milbona (Lidl)"
+5060088700099,nakd peanut butter protein bar,"France, United Kingdom, en:belgium",Nakd
+4061459329834,Oat,"France,United Kingdom","Aldi,Acti Leaf"
+3664346306621,Fine & Gourmande Noir 70%,"France,Maroc","Fine gourmande,Poulain"
+8715700421353,Tomato ketchup,"Belgium,France,Italy,Switzerland",Heinz
+9002490205973,25 cl Red Bull - Energy Drink,"Bélgica,Francia,Alemania,España,Suiza","Red Bull, حلال"
+3073780918763,babybel,"Spain,United Kingdom,Francia",Babybel
+8410076901026,Barre céréales Protéines peanut& chocolat🍫,"Bélgica,Francia,España,Reino Unido",Nature Valley
+6111032009443,Activia ananas fraise,en:Morocco,"danone, سنطرال دانون"
+6111266960725,MUSCLY FROMAGE 24,en:ma,"Jaouda, Copag"
+6111245340487,Or Blanc,en:ma,Or Blanc
+5018357804764,Nutty Granola,en:United Kingdom,Dorset Cereals
+8718481351000,Aloe vera,"Belgium,France,Morocco",2025
+3229820019192,Pain complet 3 céréales,"France,Suisse",Bjorg
+3272770096942,Le goût primeur - Ligne & plaisir,France,"Savencia,St moret"
+5020364010144,NYC Bagels Cinnamon & Raisin,"France,United Kingdom",New York Bakery
+8076809529419,Pâtes spaghetti au blé complet integral 500g,"Österreich,Belgien,Brasilien,Bulgarien,Frankreich,Deutschland,Spanien,Schweiz,Vereinigtes Königreich",Barilla
+8410076600790,Nature Valley Crunchy Oats & Honey,"Francia,Grecia,Irlanda,España,Reino Unido",Nature Valley
+6111259341272,Genova - Double Creme,Morocco,Excelo
+4056489424918,Beurre de cacahuètes crunchy,"Chypre,France,Allemagne,Grèce,Hongrie,Italie",Maribel
+6111259344013,B'ono Wafer,en:Morocco,Excelo
+3272770016131,Chavroux Pur Chèvre,France,Chavroux
+5010044010144,Soft Pittas Easy to Fill Wholemeal,en:gb,warburtons
+8719200255333,ProActiv,"United Kingdom, en:ireland",ProActiv
+5018357804849,Oat Granola,en:United Kingdom,Dorset Cereals
+3041090061615,"Bâtonnets de céréales fourrés (47,5 %) au chocolat - Cracotte Chocolat","Belgique,France,La Réunion,Suisse","LU,Mondelez"
+3083680613576,Lentilles préparées 1/2,"Frankreich, Germany",Cassegrain
+3155250349793,La crème des chefs ferme et onctueuse gastronomique,"Brazil, France, Hong Kong, Switzerland, en:united-kingdom",President
+4006985902304,L'Original - Cacao en poudre non sucré,"Bélgica,França,Alemanha,Polónia,Reunião,Suíça",Van houten
+5000119118615,Italian Tomato Purée,"United Kingdom,en:united-kingdom",Tesco
+5021185201223,Geeta's Mango Chutney imp,"France, United States, en:united-kingdom",Geeta’s Foods Ltd
+8410076481597,Tortilla Nachips Original,"Áustria,Bélgica,Dinamarca,Finlândia,França,Alemanha,Grécia,Islândia,República da Irlanda,Itália,Países Baixos,Noruega,Polónia,Espanha,Suécia,Suíça,Reino Unido",Old El Paso
+5057545745946,Chopped Tomatoes,"Germany, United Kingdom, en:ireland",Tesco
+8719200031449,Fruit d'Or Oméga 3 Doux - Sans huile de palme - 450g,France,Fruit d'Or
+6111017046043,Tentation aiguebelle,Morocco,Aiguebelle
+5060362071709,Organic Gluten-Free Oat Drink,United Kingdom,Plenish
+5000342000398,Meat Free Tasty Sausages,en:gb,Richmond
+5059319029016,Special K,"United Kingdom, en:ireland",Kellogg's
+3387390326574,,"Bélgica,França,Portugal,Reunião,Espanha,Suíça","Cookie crisp,Nestlé"
+6111005210111,,"France,Maroc,en:Maroc",Unilever
+6111162001188,Délicia - confiture d'abricot,Maroc,Délicia
+8076809573252,Baiocchi nocciola 260g,"France,Germany,Italy,Spain,Switzerland",Barilla
+8711200547982,,France,Amora
+5010477356239,Muesli bio chocolat noir,"Belgien,Frankreich,Spanien,Schweiz",Jordans
+0011210697003,Sriracha Sauce,"Bélgica,Francia,Alemania,Marruecos,Rumania,España,Reino Unido",TABASCO
+5056053304706,Vegetarian Sausages,"Czech Republic,United Kingdom",Linda McCartney's
+6111271800023,العين,en:Morocco,la source
+3038359004544,Sauce Tomate concentrée cuisinée aux petits légumes,"France, Germany",Panzani
+3412290070385,Paysan Breton - Le Fromage Fouetté Madame Loïk - Nature au Sel de Guérande - Sel réduit -25%,"France, en:belgium","Le Fromage Fouetté Madame Loïk, Paysan breton"
+3502110009449,Orangensaft,"Belgien,Frankreich,Luxemburg,Réunion,Schweiz",Tropicana
+3564700005552,Lait demi-écrémé,France,DéLisse
+5000168001104,GALLETAS SALADAS,"France,Irlande,Royaume-Uni",Carr's
+5010338014339,Coconut milk,"España,Reino Unido",Blue Dragon
+5410126716016,Biscoff,"Armenien,Irland,Neuseeland,Spanien,Vereinigtes Königreich",Lotus
+6111242102361,Raib vani jaouda,"France,Maroc",Jaouda
+8000500227848,B-ready 6 pièces,"Bélgica,Francia,Alemania,Italia,Luxemburgo,Martinica,Mauricio,Marruecos,Nueva Caledonia,Reunión,España,Suiza,República de China,Tailandia,Reino Unido",Ferrero
+8480000095718,Copos de trigo espelta integral 0%,"Portugal,España",Hacendado
+4334035071848,Galettes de Maïs,"Francia,Portugal,España","Bio Organic,Lidl,Sondey"
+7613287366665,Nesquik Cereal,"Jordan, Morocco, en:tunisia",Nesquik
+5000246728800,Spreadable,en:United Kingdom,Yeo Valley Organic
+7622202025587,tuc,en:Morocco,Tuc
+3228021170053,La bûche fondante,"France, en:morocco","Lactalis, Président"
+3564700371107,Eau de source de montagne Laqueuille,"France, en:belgium","Marque Repère, Laqueuille"
+4001954161010,Butter Erwin,Deutschland,"Kerry, Kerrygold, Ornua Deutschland, 2"
+5010029219326,No Added Sugar Muesli imp,"France, Germany, United Kingdom, en:ireland","Alpen, Weetabix"
+5010044002378,Farmhouse Soft Bread,"France,United Kingdom",Warburtons
+5410041005707,Pim's Sinaasappel,"Belgique,France,Pays-Bas,Espagne,Suisse",LU
+6111162001102,Thon Joly,Maroc,"Joly,Doha"
+6130758000022,Guedila,Algérie,Guedila
+8008698007389,"Maestro Cereale avec du Levain, Millet et Quinoa","França,Itália,Países Baixos,Portugal,Espanha,Suíça,Reino Unido",Schär
+8410300349051,Caldo casero de pollo,"México,España",Gallina Blanca
+8480000340245,Nuez natural pelada,"Rumania,España",FACENDADO
+8710445020878,Tosta PAN FIBRA & SÉSAMO,España,Hacendado
+8480000808585,Hummus de garbanzos receta clásica,"Spain, en:romania",Hacendado
+3228857001101,Beau & bon pain de mie complet lin tournesol 320g,France,Harrys
+4058172309519,Multivitamin,"France, Germany, Morocco, en:algeria","Mivolis, dm"
+4056489143833,Крема сирене,"Bulgaria, en:romania",Milbona
+5000159535267,Dark Chocolate Nuts & Sea Salt Bars,en:gb,KIND
+3046920021043,Noir intense dessert 70%,"France,Maroc,Royaume-Uni",Lindt
+5060362071594,Organic Almond milk,"France, en:united-kingdom",plenish
+5060198645617,Durum wheat flatbreads,en:gb,crosta & mollica
+5036829756328,Mediterranean Falafel,"United Kingdom, en:ireland",Gosh!
+3175681851863,Biscuits Soja Figue,"Belgique,France,Maroc,La Réunion,Suisse",Gerblé
+3183280001800,sel,"France,Suisse",baleine
+3187570015447,Café moulu pur arabica des petits producteurs,France,Malongo
+6111242101982,Ghilal,Maroc,Jaouda
+6111252420059,Pepsi 2L,"France, en:morocco",Pepsi
+8410376047578,Digestive Avena Naranja,"Bulgária,França,Hungria,Itália,Marrocos,Espanha",Gullón
+6111162001195,Double concentré de tomates,"França,Marrocos",Délicia
+5701977000097,Organic Vegan Block,"Denmark,France,Germany,Switzerland,United Kingdom",Naturli'
+5057545916049,CREAM CRACKERS,"France, Ireland, en:united-kingdom",Tesco
+6111243570169,Matina,en:ma,
+6111032007043,beurre central 1kg,en:ma,Centrale
+4056489195917,Jemné ovesné vločky,"Bugarska,Hrvatska,Češka,Finska,Mađarska,Rumunjska,Srbija,Slovačka,Slovenija","Crownfield,Lidl"
+5411188134985,Alpro Not Milk,"Austria, Belgium, Czech Republic, Germany, Hungary, Netherlands, Switzerland, en:france",ALPRO
+3175681280502,Le petit Gerblé nature,en:fr,gerblé
+3760324300015,2 Steaks végétaux et gourmands,France,Happyvore
+5000246728725,Anchor Butter,United Kingdom,Anchor
+6111246722039,fromage herbes milky food,en:Morocco,milky foof
+0013764027053,Organic Bread 21 Whole Grains and Seeds,United States,Dave's Killer Bread
+3056440070896,Bastogne,"France,en:belgium,en:reunion, en:new-caledonia, en:french-polynesia","LU, Mondelez"
+3178050000749,Huile d'olive,"France,Polynésie française,Allemagne,Martinique,La Réunion,Suisse",Puget
+6111184001180,Confiture de fraise,"France, en:morocco",El Baraka
+8480000808592,10 Tortillas Trigo,"Portugal,Espanha",Hacendado
+3760049798869,Pain de mie Bio grandes tranches complet sans sucres ajoutés 500g,France,La Boulangère
+3760049798845,Pain de mie grandes tranches Avoine & Graines 500g,France,La BOULANGÈRE
+8000500359488,Milk Chocolate,"Belgium,Bulgaria,France,Germany,Morocco,Romania,United Kingdom,Italy",Ferrero Rocher
+5900951311505,Snickers,"Bulgaria,República Checa,Francia,Alemania,Marruecos,Polonia,España",Snickers
+3017760819121,Chamonix,France,LU-Mondelez
+3229820762692,Tofu nature,"France,Allemagne,en:Suisse",Bjorg
+3259011799893,Galettes Boulgour & Sarrasin à l'Emmental,France,Céréal
+3428273980046,Lait 100 % français Matin Léger® Demi-Écrémé,"France,Suisse",Lactel
+3700278400881,Banania Original - Cacao Céréales Touche De Banane & Miel,"France, Germany, en:morocco",Banania
+5000119117342,Wheat Biscuits malty & crispy,"France,Royaume-Uni",Tesco
+5000159459228,Twix Twin,"Belgium, Bulgaria, France, Germany, Hungary, Italy, Morocco, Romania, United Kingdom, en:saudi-arabia",Mars Wrigley
+5000426171518,AFTER EIGHT Coffret 300g,"Belgium, France, Ireland, Spain, United Kingdom, en:morocco","After Eight, Nestlé"
+5010578008020,Yorkshire Cottage Cheese Natural,"France,United Kingdom",Longley Farm
+5053827110983,Céréales Miel Pops,"Belgium,France,Switzerland",Kellogg's
+7622300441937,Philadelphia Original,"Belgien,Frankreich,Deutschland,Italien,Japan,Mexiko,Marokko,Spanien,Schweiz",Mondelez International
+8480000205599,Yogur griego natural,Spain,Hacendado
+3083681093926,Aubergines cuisinées à la Provençal,France,Cassegrain
+8480000094919,Muesli Frutas,"Portugal,Espanha","Hacendado, Mercadona"
+5099077004306,Sourdough bagels,en:gb,Fitzgeralds Sourdough Bagels
+3182180002436,Pain Grillé l'Original,France,BRIOCHE PASQUIER
+3165433724019,Cassonade pure canne,en:fr,Daddy
+3329770076471,Calin Extra,France,"Calin, Yoplait"
+3154230600183,HERTA TARTE EN OR Pâte Feuilletée 230g,France,"HERTA, Tarte en or"
+8480000864673,Pan de molde natural trigo espelta 100% integral,España,Hacendado
+6118000041566,DoliGrippe,en:Morocco,
+3175681290297,Cookie Chocolat saveur noisette Sans sucres,France,Gerblé
+6111031005194,,Morocco,Oreo
+6111017045329,NAPOLITAIN,Morocco,Aiguebelle
+3021690201123,Lentilles Cuisinées à l'Auvergnate,"France,Suisse",Raynal & Roquelaure
+3068320080000,Evian,"Belgium, France, Luxembourg, Switzerland, en:united-kingdom",Evian
+3175460000017,Boursin garlic & herbs,"Belgique,France,Allemagne,Suisse,Royaume-Uni",Boursin
+3175681077324,Biscuit chocolat saveur amande,"Francia,Reunión",Gerblé
+3175681116863,sablé sésame saveur vanille - Gerblé sans sucres,France,Gerblé
+3175681134935,"Gerblé - Sablés sans sucres saveur citron et Yuzu, 132g (4.7oz)","Belgique,France,Suisse",Gerblé
+3229820019604,Soja nature sans sucre ajouté bio,France,Bjorg
+3229820794648,Galette de mais,"France,Morocco",Bjorg
+3254381025887,CRISTALINE Eau De Source 1L,"Belgique,France,Italie",Cristaline
+4008400163826,Ferrero Rocher,"Danemark,France,Allemagne,Maroc,Suisse",Ferrero
+5740900805309,Lurpak Spreadable Slightly Salted,"Francia,España,Reino Unido",Lurpak
+5900617002983,Granola Sante Czekoladowa,"Armenia,Białoruś,Francja,Włochy,Maroko,Polska",nutrition-sante
+6111242040991,Fakiat Barbeque,"France,Morocco",leader food
+8410261643014,Simon life,"France,Spain,Morocco",Don Simón
+3027030011810,Sticks et bretzels d'Alsace,France,"Dr. Oetker, ANCEL"
+8480000095367,"Muesli con quinoa, chía y chocolate negro",Spain,Hacendado
+5057545928769,Farmhouse Super Seeded Loaf,United Kingdom,Tesco
+5053827199568,Tresor - Choco Nut,"Austria,Belgium,France,Germany,Morocco",Kellogg's
+8005110517006,Pastasaus m/Basilikum,"Belgium, France, Germany, Netherlands, en:united-kingdom","Mutti, Oluf lorentzen as"
+5017764128128,Sea Salt & Balsamic Vinegar Crisps,"Ireland, en:united-kingdom",Kettle
+5060367181274,Smooth Peanut Butter,United Kingdom,Pip & Nut
+3608580088486,Hazelnut Chocolate Spread,en:gb,Bonne Maman
+8720182592446,Real Mayonnaise,United Kingdom,Hellmann's
+0037600106412,Beurre de Cacahuètes Extra-Crunchy,"Österreich,Frankreich,Französisch-Polynesien,Deutschland,Niederlande,Schweiz","Hormel Foods Corporation, Skippy"
+3046920022705,Excellence Noir Orange Intense,"Canada,France",Lindt
+3175681026766,Crousti'Son Miel 🍯🐝Sésame,"Francia,en:La Réunion,en:Suisse",Gerblé
+3175681110106,Germe de blé,"France,La Réunion",Gerblé
+5053990101542,pringles hot & spicy,"Croatie,France,Allemagne,Maroc,Roumanie",pringles
+6111021022002,Aicha Double Concentré De Tomates 140 G,"France,Morocco",Aicha
+7311071330815,Krisprolls - Wholegrain Complets,"United Kingdom, Francia, Suiza, en:morocco",Pågen
+8008698005576,Maestro Classic,"Belgique,France,Allemagne,Pays-Bas,Portugal,Espagne,Suisse,Royaume-Uni",Schär
+6111029000040,,en:MA,نلزه
+5016451062110,Seabrook sea salt,United Kingdom,Seabrook
+5060337222143,Kefir yogurt,en:gb,Biotiful
+3240931548135,Lustucru gnocchi a poêler format xxl 720g,en:fr,"Lustucru, Lustucru selection"
+6111018908999,nido,Morocco,Nestlé
+6111203007360,hollandis class 16p,en:Morocco,talberjt
+8000500267103,Delice,"France,Germany,Italy,Morocco","Kinder,Ferrero"
+3228021170060,CHAUSSEE AUX MOINES 340g,France,"Lactalis, chaussée aux moines"
+3229820783673,Fourrés chocolat lait noisettes,France,Bjorg
+7622300685782,Philadelphia nature 300g,"Belgium, France, Switzerland, en:morocco","Kraft, Kraft Foods, Mondelèz International, Philadelphia"
+6111203003430,Cheesy fromage,Maroc,Margafrique
+4388860015324,Süßstoff,"Germany,Morocco","Rewe, ja!"
+7394376665028,Semi Oat Drink,"Spain,United Kingdom",Oatly
+4056489159506,Low Sugar Granola Original,"Ireland,United Kingdom",Crownfield
+0016843697000,Yankee,en:ma,
+3159470005071,Céréales Extra Pépites Chocolat Noisettes,"Belgium,France,Italy,Luxembourg,Réunion,Spain,Switzerland",Kellogg's
+3380380047749,Tartines craquantes au sarrasin,"Belgique,France,Espagne,Suisse","Ekibio, Le pain des fleurs"
+4006985755863,Cacao non sucré Le Bio,France,Van Houten
+8002210112445,Classic pesto,"France,Serbie,Royaume-Uni",Filippo Berio
+8410179009391,Huile d'olive vierge extra,France,Tramier
+7613037792935,Nan optipro,en:ma,Nestlé
+6223000495971,Hohos,en:ma,
+5055958705427,Lemon Blueberry Oat Boosts,en:gb,graze
+6111270030018,Pikota,en:ma,
+3560071507480,Pâte à tartiner,"France, Morocco, en:belgium","Carrefour BIO, Carrefour"
+6111031005293,Bimo,Morocco,Merendina
+6111031005385,Oreo original,en:Morocco,Mondelez
+5054563100108,,Morocco,
+3228021170022,President emmental coeur de meule 250g,France,"Lactalis, Président"
+3229820796857,Flocons d'avoine,France,Bjorg
+3451790563256,Beurre à teneur réduite en M.G. (60%) doux,"France,Germany,Réunion","Montfleuri, Savencia"
+5010043000917,Malt Loaf,"France,United Kingdom",Soreen
+5449000025272,Haway tropical,"France,Morocco",Hawai
+5449000060068,Schweppes citron,"France,Morocco",Coca-Cola
+8718114734484,Maille Mayonnaise,"France, Germany, en:morocco",Maille
+8853662056012,Sriracha Hot Chilli Sauce,"Austria,Belgium,France,Germany,New Zealand,Poland,Switzerland,United Kingdom","Flying Goose Brand, Exotic Food"
+6111024004753,Hille,"France, en:morocco",
+6194039501011,Eau minérale naturelle,Tunisie,Hayet
+8410066131334,Mayonesa sabor tradicional,"Morocco,Spain",Kraft
+3033491482953,Hipro Myrtille,"France, en:belgium","Hipro, Danone"
+3664346315371,Grand Arôme moins de sucre,France,Poulain
+6111250471565,La delicieuse,en:ma,
+5022824240061,White Bread wraps,en:gb,dina
+7613287170989,shredded wheat,en:gb,Nestlé
+5285000397465,Indomie,"Morocco, en:tunisia",beldi
+5036589254836,Kefir Natural,en:gb,Yeo Valley
+3073781192254,03.06.2024 DEU101H 0?:14 4,France,La vache qui rit
+6111259093102,cheeslé blanc nature,en:Morocco,afs
+8076800376999,Lasagne all'uovo,"Bélgica,Canadá,Croacia,Francia,Alemania,Grecia,Hungría,Italia,Luxemburgo,Montenegro,Rumania,Serbia,Eslovenia,España,Suiza,Reino Unido,Uruguay",Barilla
+3183280012875,Sel de mer,"Belgique,France,Allemagne,La Réunion",La baleine
+3228021170046,Emmental râpé,"France, Japon, Germany","Lactalis, Président"
+3366321051549,ST HUBERT OMEGA 3 doux 255G,France,"St Hubert, St hubert omega 3"
+3392460481114,Biscottes Pleine vie Sans sel ajouté,"France,Polynésie française,La Réunion,Suisse","Heudebert, Lu, Mondelez"
+3661344288690,Crèmeuh chocolat,France,Les 2 vaches
+4056489007166,Pain de mie extra-moelleux nature,"Belgium,France,Germany,Switzerland,Czech Republic",Maitre Jean Pierre
+5010477354051,Muesli Bio Superfruits,"France,Suisse",Jordans
+6111248360123,Ain soltane 50cl,"France,Maroc",
+8410376040425,Cuor di Cereale,"Bulgaria, France, Italy, Morocco, en:romania",Galletas Gullon
+8715700423951,Tomato ketchup 50% less sugar and salt,"France,United Kingdom",Heinz
+3760035570370,Abricotines,"France,Suisse",
+3033491454080,SKYR,"France,Allemagne",Danone
+3770008009653,La pâte à tartiner cacao noisette,France,Funkie
+5055940101145,Buttery Taste,Reino Unido,Benecol
+8717677339914,Milk Chocolate,"United Kingdom,en:united-kingdom",Tony's Chocolonely
+8001665714372,Tortellini ricotta & épinards,France,"Giovanni Rana, Rana"
+5055958706288,Smoky Barbecue Crunch,United Kingdom,graze
+3175681134904,Sablé Nature sans sucres,"France,Suisse,États-Unis",Gerblé
+3183280017337,Sel Fin,"France,Luxembourg",La baleine
+3228850000262,Pain AMS 7 céréales,"Belgique,France,Suisse",Harrys
+3263670162219,Plain Sardines,France,Connétable
+3487400000392,Blé tendre cuisson 10 min Ebly 500 g,"Belgique,France,Luxembourg,Maroc,Suisse",Ebly
+5000108030904,Jumbo Rolled Oats,United Kingdom,Quaker
+7622400013935,Noir 86% Extra intense,"França,Portugal,Itália","Côte d'Or, Mondelēz"
+3229820797861,Croustillant 3 noix,France,Bjorg
+5060362071051,Organic Oat drink,en:gb,Plenish
+5034467000650,Tofoo Naked Xl,United Kingdom,The Tofoo Co.
+6111024001288,Oleor,en:Morocco,
+6111032009146,Actimel,Morocco,Danone
+3092718637064,TSR GRENADINE 60 CL,France,Teisseire
+5410093179616,540093179616,en:Morocco,gonga
+3302740087103,Les Tranches Végé Haricots Blancs,France,FLEURY MICHON
+3045320008401,Confiture fraise -30% de sucres,"France, en:morocco",andros
+5000295145054,Mature Cheddar,United Kingdom,Cathedral City
+5022019010202,belvoir farm elderflower cordial,"Australia,France,United Kingdom",Belvoir
+5052003786561,Tesco No Added Sugar or Salt Swiss Style Muesli,"France, United Kingdom, en:ireland",Tesco
+6111203005021,Tartine et cuison,"France, Maroc, en:morocco",Vital
+6291003203527,Break Chocolate Fingers,"Lebanon, en:morocco","Break,Tiffany"
+7311070346916,Gifflar Cannelle,"Francia,Alemania,Italia,Países Bajos,España,Reino Unido","Pågen,Gifflar"
+5020580016999,Sriracha Hot Chilli Sauce,United Kingdom,
+4056489239956,High Protein Granola Honey & Seed,"Irlande,Royaume-Uni",Crownfield
+6111242105348,beurre jaouda 100g,en:Morocco,Jaouda
+3770016162098,Chipos végétales aux herbes de Provence,France,HappyVore
+5060228323980,Jalapeño Ramona's Heavenly Houmous,en:gb,Ramona's
+6111266680098,campo verde,"France,Morocco",Landor
+3168930171058,Ice tea,en:fr,Lipton
+8000500415573,Nutella 950g,"Germany,Italy,Morocco",Ferrero
+3023290634578,Yaos le yaourt à la Grecque,"Belgique,France,Suisse","Nestlé, Yaos"
+3229820791081,Gaufres Miel,"Croatia,France,Morocco,New Caledonia,Réunion,Switzerland",Bjorg
+5054775467549,Butterpak Spreadable,United Kingdom,Tesco
+5056051802419,Veg crisps,"France,Switzerland,UK",TYRRELL'S
+6111242380295,Tchicolata,"Maroc, en:morocco",
+6194001800111,Safia,"Algérie,France,Tunisie","Safia,Sfbt,صافية"
+5000237127261,Original Salted Peanuts,United Kingdom,KP
+6111259341494,top cookies original,Morocco,Excelo
+4088600354965,Flaxseed,en:gb,The Foodie Market
+3302740058660,Blanc de poulet 100% filet,"France,Russie",Fleury Michon
+4056489695363,Soya Unsweetened plant based,"Ireland, United Kingdom, en:netherlands",Lidl
+7622201695323,Halls,en:Morocco,Mondelez
+3088540502663,Miel de Montagne,"Belgique,France,Suisse","Bernard Michaud, L'Apiculteur"
+3095757697105,Blanc de Poulet - 25% de Sel*,France,Fleury Michon
+3229820794112,Tofu fumé,"France,Switzerland",Bjorg
+3265474573000,Fleur de Colza,"France,Guadeloupe,Martinique,Suisse",Lesieur
+3412290071801,Paysan Breton - Le Fromage Fouetté Madame Loïk - Ail et fines herbes de nos régions françaises,"Belgium,France",Paysan Breton
+3560070669981,80% cacao noir,"France,Italie,Maroc,Espagne",Carrefour
+5013635312160,Chick Peas in Salted Water,United Kingdom,KTC
+5014213001049,Crunchy Peanut Butter,"United Kingdom, en:ireland",Meridian
+5060088705230,Peanut Delight,Royaume-Uni,nākd
+6111126001872,Chergui creme fruit de bois,"France,Maroc",Chergui
+8000300264388,,"Bélgica,França,Espanha,Suíça,Portugal,Países Baixos",Nestlé
+8008698011065,Gluten free,"Bélgica,Francia,Alemania,Países Bajos,España,Suiza",Schar
+5411188128311,Coco Sans Sucres,"Bélgica,Croácia,França,Alemanha,Hungria,Itália,Portugal,Roménia,Eslovénia,Espanha,Suíça,Reino Unido",alpro
+3033491485756,Fraise Framboise,"Belgium, France, en:luxembourg","Hipro, Hipro drinks, Danone"
+4088600305592,Original Breadsticks,United Kingdom,Savour Bakes
+4056489300786,Knusper Müsli Schoko,"Belgija,Francuska,Njemačka,Mađarska,Italija,Srbija,Litva,Hrvatska,Grčka,Cipar","Crownfield, Lidl"
+6111259344426,Excelo nougat,ma,Excelo
+8000500391228,Kinderini,"France,Allemagne,Italie,Suisse",Ferrero
+6111126005719,Sport,Maroc,Chergui
+0078895126396,Premium Soy Sauce,"Australia,Czech Republic,France,Germany,Ireland,New Zealand,United Kingdom,United States",Lee Kum Kee
+3174660084513,Cassonade,"France,Allemagne,Suisse","Béghin Say,La Perruche,Tereos"
+3175681170872,"Lentilles cuisinées, riz & soja","Belgique,France",Céréal Bio
+3252378001319,Sel fin iodé,"Frankrijk,Réunion,Zwitserland",Cerebos
+6111184001098,confiture,"France, en:morocco",el baraka
+7622210416667,Pain grillé Pelletier,France,"LU, Pelletier"
+8000500003787,,"Australia,Austria,Belgium,France,Morocco,Spain,Switzerland,United Kingdom,United States",Ferrero Rocher
+3176582033327,Camembert,France,Le Rustique
+4056489238072,Aceto Balsamico Di Modena,"Francia,Alemania,Rumania,Reino Unido,España",Acentino
+6111250472708,Jben AKNAZ,Morocco,Aknaz
+5010003063457,Seeded,en:gb,Hovis
+5060198820847,Rosemary & Sea Salt Sourdough Crackers,en:gb,Peter’s Yard
+3073781192339,Fromage Produit laitiers,France,LA VACHE QUI RIT
+6111265980243,,Morocco,
+5000354800931,Ambrosia Rice pudding,"United Kingdom, United States, en:australia",Ambrosia
+8005510001525,Huile d'olive vierge extra GranFruttato,"France,Suisse",Monini
+8410179012230,huile d’olive vierge extra,"フランス,レユニオン",tramier
+8715700421957,Mayonnaise American Style,"France,Allemagne,Maroc",Heinz
+8722700113348,Amora,"France, Switzerland, en:morocco",Ketchup
+8411859551445,Buscalios,"Francia,España, en:morocco",Risi
+3083681094459,Courgettes à la Provençale 1/2,France,Cassegrain
+6111242105669,Ladid fraise,"France, en:morocco",Jaouda
+4056489091936,Organic virgin coconut oil,"Grécia,Portugal,Espanha,Reino Unido",Vita d'or
+6111242600553,,Maroc,Reda Food
+5411188130055,"Alpro Sojadrink, Schokoladen-Geschmack, Protein 1L","Belgium,Czech Republic,Denmark,Finland,France,Germany,Ireland,Italy,Norway,Poland,Romania,Sweden,Switzerland,United Kingdom",alpro
+5060337220149,Biotiful Dairy Morello Cherry Kefir,en:gb,Biotiful
+4088600247571,Green lentils in water,United Kingdom,Four seasons
+3770016162036,Nuggets Végétaux et Gourmands,France,HappyVore
+5023762000137,Juicy Oranges Whole Fruit Squash,United Kingdom,Rocks
+4056489438564,"Granola Coconut, Cashew & Almond","United Kingdom, en:ireland",Crownfield
+6111260265291,Kalos,en:Morocco,Kalos
+3023470020016,Roudor,France,St Michel
+3168930010890,Quaker Cruesli Chocolat au lait,"France,La Réunion,Espagne",Quaker
+3228857000838,American Sandwich Nature,France,Harrys
+3448781100002,Wattwiller,France,Wattwiller
+3760020508388,Tartined Craquantes Châtaigne,France,"Jardin bio, Léa Nature"
+5449000133335,,"Österreich,Belgien,Bulgarien,Frankreich,Deutschland,Griechenland,Italien,Luxemburg,Polen,Serbien,Slowenien,Spanien,Schweden,Schweiz",Coca-Cola
+6111126001841,Crème Yaourt Brassé 🍋,Morocco,Chergui
+6111243860352,ice cola strong,"فرنسا,Morocco",ice
+3341430510019,TAM thon entier a l'huile,en:MA,tam
+5057967342044,White Tortilla Wraps,"Spain,United Kingdom",Tesco
+8480000239266,Bebida de almendra 0% azúcares,"Portugal,España",Hacendado
+5900617012197,Masło orzechowe,"Germany,Morocco,Poland,Spain",Sante
+5057967395132,Soft cheese,"United Kingdom,Ireland",Tesco
+4088600169866,Harvest Morn Granola Raisin & Almond,"España,Reino Unido","Aldi,Harvest Morn"
+6111184008356,Sauce algerienne star,Maroc,ok
+6111242101111,ghani sfr,en:Morocco,jaouda
+8480000057105,Pechuga de Pavo Cocida 92%,en:spain,Hacendado
+0898999010007,Coconut Water The Original,"Canada,France,United Kingdom,United States, World",Vita Coco
+3254691586054,le bio pour toute la famille multifruit,"France,La Réunion",pressade
+3272770096850,Le goût primeur,France,Saint moret
+5051790270581,Green Lentils In Water,"France,Royaume-Uni",Tesco
+5099801003315,Organic Porridge Oats,"France,United Kingdom",Flahavan's
+8715035110502,Sojasauce,"Kroatien,Dänemark,Frankreich,Deutschland,Schweiz,Vereinigtes Königreich",Kikkoman
+4088600161686,The Honey Soaked Seeded Bloomer,United Kingdom,Village Bakery
+6294003539054,Kitkat,en:ma,Nestlé
+6111259344211,Crunchy,Maroc,Be
+3168930168133,Chips Recette Paysanne Nature,France,Lays
+7622201693954,Light Philadelphia,"United Kingdom, en:ireland",Philadelphia
+6111252422169,,"France, en:morocco",
+4056489844242,Sirop d'Agave,"França,Espanha",Maribel
+6111045006729,مونادة لاسيگون,en:Morocco,لاسيگون
+0061232200545,Fine milled oatcakes,United Kingdom,Nairn's
+3057640186158,Wasser Volvic naturelle,"Deutschland,Frankreich",Volvic
+3664346306126,Super Poulain,"France,Maroc,Nouvelle-Calédonie",Poulain
+5000157075154,Salad Cream Original,"France,Royaume-Uni",Heinz
+5010029000856,Weetabix 72S 1362G,"France,Ireland,United Kingdom",Weetabix
+5050974000822,Thins Multi-Seed Flatbreads,United Kingdom,Ryvita
+6111184006413,Sauce pizza star 350 g,Morocco,Star
+7613032779566,chocapic,"France,Suisse","Nestlé, Chocapic"
+7613034947611,NESTLE CHOCAPIC Céréales 750g,"France,Espagne,Suisse",Nestlé
+8712566479665,Vegetable Stock Pot 8 x imp,"France, en:united-kingdom","Knorr, Morrisons"
+5449000203823,Pulpy pècne,"Czech Republic, France, Morocco, en:bulgaria","Cappy, Coca-Cola"
+6111250472265,Assaisonnement aromatise au citron,en:Morocco,efor
+6923815199025,Dtink happy ana,en:Morocco,
+6111126005221,JBEN CHERGUI,en:ma,Chergui
+6111017046548,Aiguebelle,en:ma,Aiguebelle
+3083681148640,Celeri fromage blanc dnp 320g,"France, Belgique, Luxembourg",Bonduelle
+7612100914199,Ovomaltine Céréal Energy,"Belgique,France",Ovomaltine
+0612322000387,Original Oatcakes,"France,United Kingdom",Nairn’s
+3034450001123,Viandox 160ml,"France,Espagne",Konrad
+3124480185266,BLE 70CL ORANGE CITRON PULCO,France,Pulco
+3184670001080,faisselle,France,RIANS
+3322680010290,Crêpes de Landerneau,France,Le Ster
+3700214614266,Chocolat noir Pérou 90%,France,Alter Eco
+5000112611762,PET 1.25L C.COLA ZERO,"Belgique,France,Allemagne,Suisse",Coke ZÉRO®
+7622210449313,Prince Multicéréales Goût Chocolat Au Blé Complet,"France,Réunion",LU
+6111029000415,Cosumar Sucre Granule - Granulated Sugar,"France,Maroc",
+3100881040809,ST YORRE Eau Minérale Naturelle Naturellement Gazeuse 1.15 L,France,"St yorre,VichyST Yorre"
+5050974505297,Simply Sesame,"France, en:united-kingdom",Ryvita
+5018357012350,Dorset cereals nutty muesli,"France, en:united-kingdom",Dorset cereals
+8000500310397,Nutella biscuits fergulf,"France, Italy, Morocco, United Kingdom, en:germany","Ferrero, Nutella"
+5053990161607,Pringles Paprika,"Franța,Germania,Maroc",Pringles
+5036589255550,Yoghurt,"United States, en:united-kingdom",Yeo Valley
+3229820116716,Muesli aux fruits,"France,Spain",Bjorg
+5000354800870,Devon Custard,United Kingdom,Ambrosia
+5010029219494,Super smooth porridge imp,"France, United Kingdom, United States, en:ireland","Ready break, Weetabix"
+5054402006486,Rice Snaps,"France,Royaume-Uni",Tesco
+5060201621805,FUEL10K Protein Boosted Chunky Chocolate Granola imp,"France,Royaume-Uni",Fuel
+8010721001509,Parmigiano Reggiano Revet Fersk Parmesan DOP 60g,"Belgique,France,Allemagne,Italie,Luxembourg,Suisse",OLUF LORENTZEN AS
+8480000674166,Crema Al Cacao,"Spain, en:morocco",Hacendado
+5000128981330,Chocolate For Change Single Origin 85% Cocoa Dark Chocolate,United Kingdom,Coop
+3033491451652,"Le petit suisse gervais nature 9,5 % 60 g x 12","Belgium,France","DANONE, Gervais, Gervais suisse nature 145165"
+3760049798890,Pain au lait bio x12 420g,France,la boulangère
+5000354919527,Bisto Gravy Granules,United Kingdom,Bisto
+6223000496022,Hohos,en:ma,
+8410076901033,Protein Salted Caramel Nut,"France, Germany, United Kingdom, Frankreich, en:belgium",Nature Valley
+6111032009412,Danone max red fruit,Morocco,Danone
+6111271800054,العين,en:Morocco,idna
+3023260030928,Salakis 100% Brebis,"België,Frankrijk,Japan,Zwitserland","Lactalis, Salakis"
+3165958350014,Filets de Maquereaux au Vin Blanc,"France, Switzerland, Germany",Saupiquet
+3228857000913,Pain de mie nature,"France,Allemagne,Suisse",Harrys
+3392460510050,LU - Grany pommes,France,LU
+5000108030553,GOLDEN SYRUP FLAVOUR MICROWAVEABLE OATS,"France,United Kingdom",QUAKER OAT SO SIMPLE
+5000184161165,Vegetable Stock cubes 8 x imp,"France,United Kingdom,Ireland",Knorr
+5000354168550,Tomato & Basil Sauce,United Kingdom,Loyd Grossman
+5013665113157,Peanut Butter,"France,United Kingdom",Whole Earth
+5036589201687,Family Farm Greek Style Natural,"France, en:united-kingdom",Yeo Valley
+5050974503712,PUMPKIN SEED & OAT CRISPBREAD,"France,Royaume-Uni",RYVITA
+5057545744765,Porridge Oats,"France, Germany, en:united-kingdom",Tesco - The Grower's Harvest
+5410041040807,Pim's - Framboise,"Belgique,France,Maroc,Espagne,Suisse",Lu
+7613035694958,Carré gourmand Tomates et mozzarella,France,Garden Gourmet
+8410376002201,Galleta ligera sin sal y sin azúcar,"Francia,Marruecos,España",Gullón
+4088600054513,Pesto alla genovese,"United Kingdom, en:ireland",Specially Selected
+4056489254157,bio organic oat flakes,"Bulgaria, France, Greece, Latvia, Romania, Serbia, en:hungary",Crownfield
+3166352967211,Petites gambas compotée de tomates Tagliatelles au pesto,France,Marie
+3229820784939,Lait de coco fluide,"France,Morocco",Bjorg
+3608580890898,Gourmand & Végétal au lait de coco,"France,Suisse",Andros
+5000436589341,Whole milk,Royaume-Uni,Tesco
+5449000004840,Fanta Orange,"Bulgaria,República Checa,Francia,Alemania,Rumania,España,Reino Unido",Fanta
+6111206000788,Jebli original,"France,Maroc",Centrale Danone
+3228857001118,Pain 100% mie nature sans sucre ajouté,"France, en:belgium",Harrys
+6111243860413,Ice Pulpe Orange 1.5cl,"France, en:morocco",
+4088600206721,Good Grains Spanish Style Grains,"Ireland,United Kingdom","Worldwide Foods, Aldi, Aldi Worldwide Foods"
+8480000142429,Galletas de trigo espelta 0% azúcares añadidos,España,Hacendado
+5060495113291,Chocolate,United Kingdom,Huel
+3366321053345,St Hubert Omega 3 doux,"France,en:france","St Hubert, St hubert omega 3"
+6191496000026,Eau minérale naturelle,Tunisie,délice
+8480000808950,Tortilla con cebolla,en:spain,Hacendado
+6111092000343,tomakas,en:Morocco,
+8437019482329,Aqua sierra nevada,Maroc,
+9111445002175,Perly orange,"Ireland, en:morocco",Perly
+4056489682677,Pecan Nuts natural,"Germany,Hungary,Poland",Alesto
+5060198644177,Pizza,United Kingdom,Crosta&Mollica
+0041500007229,Mostassa groga clàssica,"France,Royaume-Uni",French's
+3011360030498,Mayonnaise Classique à l'huile de colza,France,Lesieur
+3023291122005,Yaos Yaourt à la Grecque Nature 4 x 150g,"France,Suisse",Nestlé
+3033710071005,"RICORE au Lait, Café & Chicorée, Boîte 400g","France,La Réunion,Suisse","Nestlé, Ricore"
+3165950211726,Filet de maquereaux au naturel,France,Saupiquet
+3229820181424,Boisson Noisette,France,Bjorg
+3270190113508,Eau de source de montagne d'auvergne,"France,Guadeloupe",Carrefour
+3330720237378,Pâte à tartiner bio noisette cacao,France,Lucien Georgelin
+3760091726667,Chocolat noir 80% Équateur intense et floral,"France,Espagne,Suisse",Ethiquable
+5060092030977,High Protein Granola Nuts & Seeds,"Frankreich,Deutschland,Rumänien,Spanien,Vereinigtes Königreich",Lizi's
+5411188122661,"Alpro Mandeldrink Weiß Ungesüßt, Ungeröstet 1 LT","Belgique,France,Allemagne,Italie,Pays-Bas,en:Allemagne,en:Belgique,en:Suisse",Alpro
+5018095196596,Glorious grains,United Kingdom,merchant gourmet
+5057967342082,Wholemeal tortilla wraps,United Kingdom,Tesco
+8480000607225,Chocolate negro 85% cacao,España,Hacendado
+6111242109544,jaouda p'tit dej honey,en:Morocco,Jaouda
+4061459332896,Almond No Sugars,"Ireland,United Kingdom,United States",Acti leaf
+3229820791074,Biscuits fourrés aux framboises,"France,Morocco,Switzerland",Bjorg
+3451790011245,Le Beurre Doux Leger 41%MG Barquette,"France,Réunion,Switzerland","Elle & Vire, Savencia"
+3560070879762,Le pain au Seigle,"France, en:belgium",Carrefour
+3608580823452,Confiture Abricot INTENSE,"France, Suisse, en:us",Bonne Maman
+4008400401829,Nutella,"Kroatien,Deutschland,Marokko,Tunesien","Ferrero,Nutella"
+5000159492737,M&M's peanut,"Belgium,France,Germany,Italy,Switzerland",Mars Wrigley
+5050083296079,Cereales special K original,"Belgique,France,Luxembourg",Kellogg's
+5060362070474,Organic & unsweetened Almond,"France,United Kingdom",Plenish
+5411188114536,Soja à la fraise,"Belgique,France,Allemagne,Irlande,Pays-Bas,Royaume-Uni",Alpro
+7622300784751,Cake & Chock,"奥地利,比利时,爱沙尼亚,法国,德国,意大利,拉脫維亞,立陶宛,荷蘭,波兰,葡萄牙,匈牙利","Milka,Mondelēz"
+8005110630408,Passata di Pomodoro,"Australie,France,Allemagne,Italie,Nouvelle-Zélande,Espagne,Suisse,Royaume-Uni",Mutti
+8024884600301,MONT BLANC Eau Minérale Naturelle 1.50 L,France,Mont blanc
+8711200584383,Vinaigrette Légère Huile de Sésame & Sauce Soja Graines de Sésame Torréfiées 36 cl,"France,Germany","Maille,Unilever"
+8719200031524,"Fruit D’or Riche En Oméga 3 (sans Huile De Palme, 100% Végétal)",France,"Upfield, Fruit d'Or"
+6111024001226,HuilOr - RICHE EN Vitamine E Oméga 3 et 6,en:ma,
+5060198640643,Oregano Crostini Italian Bread Bites,"France, en:united-kingdom",Crosta & Mollica
+3272770014656,Tartare Ail & Fines herbes,"France,Allemagne","Savencia, Tartare"
+0061232201047,Stem ginger oat biscuits,"New Zealand, United States, en:united-kingdom",Nairn's
+4056489440628,Freeze Dried Instant Coffee,"Belgien, Finnland, Frankreich, Italien, Marokko, Niederlande, Vereinigtes Königreich, Germany",Bellarom
+5060043224486,Original Nuts & Seeds imp,en:United Kingdom,Lizi's
+3019081239640,Thon entier au naturel Albacore,"France,Japon,La Réunion",Petit Navire
+3046920029674,Excellence À la Pointe de Fleur de Sel Noir,"Bélgica,Dinamarca,França,Alemanha,Itália,Países Baixos,Portugal,Espanha,Suíça,Reino Unido",Lindt & Sprüngli
+3175681135895,Moelleux chocolat noix,"France,La Réunion",Gerblé
+3250541920139,MAILLE Mayonnaise Fins Gourmets Bocal 320g,"France,Luxembourg",MailleUnilever
+3387390019995,NESTLE LION céréales 400g​,"Belgium,France","Nestlé, Lion"
+5000157024855,Beanz in a rich tomato sauce,"France,Germany,United Kingdom",Heinz
+5000157072023,5 rodzajów fasoli w sosie pomidorowym,"Polska,Wielka Brytania",Heinz
+5000232844217,Chickpeas in water,"France,United Kingdom",Napolina
+5052004706292,Green Pesto,"France, United Kingdom, en:ireland",Tesco
+5060088702000,Berry Delight Raw Fruit & Nut Bar,Royaume-Uni,Nakd
+7612100018477,Ovomaltine crunchy,"Belgium,France,Switzerland",Ovo maltine
+7622210869616,Chocolat Bio noir 85%,"Belgique,France,La Réunion",Côte d'Or
+8002270015328,Eau minérale naturelle gazeuse 50cl PET,"Belgique,France,Suisse","Nestlé, Nestlé Waters, San Pellegrino"
+8410076600837,Crunchy oats and honey,"France, United Kingdom, en:ireland",Nature Valley
+8722700479451,Light mayonnaise,"France, United Kingdom, en:ireland",Hellmann's
+6111017030073,Sweeties Mini,Morocco,aiguebelle
+5013665112372,Marmite Rice Cakes,"France, en:united-kingdom",Marmite
+6111245470047,Hala,"France, en:morocco",
+3248830000150,Pâte à tarte feuilletée - Pur beurre,"France,Suisse",Marie
+6111017045404,Mejora,en:ma,
+4056489296805,Bio Knusper Müsli Früchte,"Belgija,Francuska,Njemačka,Italija,Hrvatska,Latvija,Mađarska,Grčka,Cipar","Crownfield,Lidl"
+6111032009429,Danone max,Morocco,Danone
+3487400006929,Riz à la Méditerranéenne,France,Ben's Original
+4056489801771,Choco Pudding,"France,Germany,Netherlands,Spain",Milbona
+3021690201116,Lentilles cuisinées à l'Auvergnate,"France,Guadeloupe",Raynal et Roquelaure
+3029330004240,Fines Tartines farine de Seigle,France,Jacquet
+3073780828628,Mini Babybel Original,"France, Ireland, en:united-kingdom",Bel
+3165950216011,Filets de maquereaux grillés natures,"France,Polynésie française",Saupiquet
+3165957058010,Filets de Maquereaux à la moutarde,France,Saupiquet
+3664320011510,Eau minérale gazeuse,"Belgique,France,Allemagne",Quézac
+5011273024650,Honey,United Kingdom,Rowse
+5027952012573,Baker Street Seeded Rye Bread,"France,United Kingdom",Baker Street
+6111126001865,Chergui creme 🥭 mangue,"France,Maroc",Chergui
+6111246950876,uht jibal 1/2L,Maroc,Jibal
+6194043001019,Lait demi-écrémé UHT,تونس,Délice
+7300400117975,,"Italy, en:romania",Wasa
+5060490400242,"Love, Corn (Sea Salt)",en:gb,Love Corn
+3281780893892,Mon Taboulé oriental,France,Pierre Martinet
+5034467000872,Tempeh,"United Kingdom, en:ireland",The Tofoo Company
+5060198640247,Pane Pugliese,en:United Kingdom,Crosta & Mollica
+8411414014385,,"Marruecos,España",Florbú
+4056489466598,Plant soya pot plain,"Germany,Ireland,Netherlands","Vemondo,Lidl"
+4088600072500,Baked Beans,en:United Kingdom,Corale
+4056489263951,Light greek yogurt,United Kingdom,Milbona
+4056489594543,Crunchy Peanut Butter,United Kingdom,Maribel
+4056489724070,Mousse Chocolate,"Bugarska,Češka,Njemačka,Italija,Rumunjska,Španjolska,Ujedinjeno Kraljevstvo,Hrvatska,Slovenija,Srbija",Milbona
+8402001013140,Digestive 0%,España,Hacendado
+3660603004774,Sauce Béarnaise,France,Benedicta
+5011157888101,Pure Basmati Rice,"Australia,Belgium,Germany,United Kingdom,New Zealand",Tilda
+6130433000019,حليب كونديا 1 لتر,Algeria,Candia
+5060139434386,Multigrain Alpha Bites,"Spain,United Kingdom",Bear
+6111243380027,Miel d'eucalyptus,"Maroc,en:morocco",miel el Aâssal
+5011157992662,Wholegrain Basmati & Wild Rice,"New Zealand,United Kingdom",Tilda
+4088600184197,Malted Bloomer,United Kingdom,Village Bakery
+6111259341234,Genova - Double Creme,Morocco,Excelo
+8410076480637,12 Crunchy Taco Shells,United Kingdom,Old El Paso
+7613287136053,Shreddies,Royaume-Uni,Nestle
+4056489424925,Smooth Peanut Butter,"Bulgaria, France, Germany, Hungary, Italy, en:morocco",Maribel
+8052575090322,Nocciolata crunchy,en:fr,Rigoni di Asiago
+4056489891130,Pâte à tartiner cacao noisettes bio,"Bulgaria,France",LIDL
+3608580142966,Pâte à tartiner cacahuètes et cacao,France,Bonne Maman
+3240931548128,Lustucru gnocchi a poêler 520g,en:fr,"Lustucru, Lustucru selection"
+3017760771894,Biscotte gout brioche heudebert,France,LU
+3061990141101,Mini BN Chocolat,"Belgique,France,Maroc,La Réunion,Suisse",BN
+3175681039599,Biscuit fondant choco 🍫noir (sans sucres ajoutés),Francia,Gerblé
+3478820005654,Pâte à tartiner Noir cacaopasta imp,"Belgium, France, Réunion, en:morocco","Jardin bio, Jardin biologique, Léa Nature"
+3760049790818,4 Baguettes viennoises 340g,France,La Boulangère
+5410041435702,TUC Original,"Bulgaria,France,Hungary,Romania,Serbia","Mondelez,Tuc"
+5449000011527,fanta Orange 330ml,"Bénin,Bulgarie,République démocratique du Congo,France,Allemagne,Sénégal,Espagne,Royaume-Uni","Fanta,Fanta - The Coca Cola Company"
+7622210422026,Véritable Petit écolier Pocket Chocolat au Lait,"France,Switzerland",LU
+8715035110809,Sauce soja,"Frankreich,Deutschland,Italien,Niederlande,Polen,Spanien,Schweiz,Vereinigtes Königreich","Kikkoman,Kikkoman - Kikkoman K.K."
+5035251000191,Natural Bio Yogurt,United Kingdom,Lancashire Farm
+5036034406186,mission wraps,en:gb,mission
+4058172310232,,"France,Germany,Morocco","DM,mivolis (dm)"
+3661344688339,Les 2 Vaches Vanille Bio de Madagascar 4 x 115 g,France,Les 2 Vaches
+3302740057502,Filet de poulet 🐔 rôti,France,Fleury Michon
+6111184006031,Algérien sauce,en:Morocco,Star
+0072417196379,Shortbread Fingers,"Spain, en:united-kingdom",Paterson’s
+5036829756342,Moroccan Spiced Falafel,"Ireland, en:united-kingdom",Gosh
+7394376620713,Whole Oat Drink,United Kingdom,Oatly
+6111259344051,سيرجيو صغيرة,en:morocco,
+5000354924712,Medium Egg Noodles imp,en:united-kingdom,"Sharwood's,Premier Foods"
+3083680901024,Ratatouille Cuisinée à la Provençal,France,Cassegrain
+3228020215090,Краве масло 82%,"Франция,Мароко,Реюнион,България,Белгия,Швейцария",Président
+3229820794556,Muesli Protéines,France,bjorg
+5013683305442,Authentic Tofu,"France, United Kingdom, en:ireland",Cauldron
+5021812000656,Bottle of Green Cordial (Handpicked Elderflower),"France, United Kingdom, en:australia",Bottlegreen Drinks
+5060042641420,Chips sel de mer et poivre noir imp,"Frankrijk,Duitsland,Verenigd Koninkrijk",Tyrrell’s
+6111184000190,Konfitura Morelowa 240g*EL Baraka*,"France,en:morocco",el baraka
+7613035040700,NESTLÉ DESSERT Noir 205g,France,"Nestlé, NESTLE DESSERT, Tablettes"
+9322969000015,Corn Thins Original,"Australia,France,New Zealand,United Kingdom",Real Foods
+6111180003843,Flan,"France,Morocco",Idéal
+8719200012516,ProActiv Margarine Tartine Sans Huile de Palme 450g,France,"Fruit d'Or ProActiv,ProActiv,ProActiv Expert,pro activ"
+5051399183664,Butterbeans in water,"Germany, United Kingdom, en:ireland",Tesco
+4088600157962,Classic Wholegrain Rice,"United Kingdom,en:united-kingdom",Worldwide Foods
+4056489210016,Muesli 4 nuts,"Belgium,France,Italy,Spain,Slovenia",Crownfield
+4088600313030,Honey,United Kingdom,Grandessa
+5055958704161,Graze Marmite Crunch,"France,United Kingdom",Graze
+5017764003395,Chipotle & lime,en:gb,Manomasa
+8720182557315,Maille mout fin gour 320g,"France, en:belgium",Maille
+4061464727830,Crunchy Peanut Butter,"Ireland,United Kingdom",Grandessa
+3165440008935,Céréales Méditerranéennes,"France,Suisse",Tipiak
+3600900011037,Quinoa Gourmand,"France,Martinique,Suisse",Tipiak
+5000137159614,HIGH FIBRE CREAM CRACKERS,"Royaume-Uni, en:france","Jacob's, Jacobs"
+5000137487908,The Original Cracker,"United Kingdom, United States",Ritz Bakery
+6111126004538,Daya Ananas Coco,"France, en:morocco",Chergui
+8595229900504,Müsli oat biscuits,"France,Morocco,Czech Republic",Emco
+5013683305466,Marinated Tofu,"France,Irlande,Royaume-Uni",Cauldron
+6191475200010,eau minérale naturelle,Tunisie,TIJEN WATER
+5010477356277,Granola Amandes Noisettes & Graines,France,Jordans
+7622210584717,Ginger 60% Cocoa Bar,"Spain, en:united-kingdom",Green & Black's
+4056489135623,Rapsöl,"Finlande,France,Allemagne,Suède,Suisse,Royaume-Uni","Vita D'or,Vita dor,VitaD'or"
+5060283762212,Barbecue,"United Kingdom,Netherlands",Proper
+5060235980589,Seeded Sourdough,United Kingdom,Bertinet Bakery
+4088600272696,Whole Chia Seeds,"Reino Unido,Irlanda",The Foodie Market
+5025878004887,Buttery Taste Dairy Free,United Kingdom,Pure
+3564706604360,Muesli pépites croustillantes chocolat-noissette réduit en sucre,France,"Marque Repère, Grainéa"
+8723300710784,,"Belgium,France,Morocco",Innovit (Action)
+5411188137993,Danone ALPRO® Joghurt Soja Heidelbeere 400g,"Andorra,Francia,Alemania,España,Suiza",Alpro
+5449000318428,Hawai Tropical,"France, en:morocco",HAWAI
+3024720026895,Rillettes de poulet rôti,France,Bordeau chesnel
+3038359007224,Riz basmati du Penjab,France,Taureau Ailé
+3073781077025,Le Bloc,"France,Maroc",La vache qui rit
+3228020215106,Beurre gastronomique demi-sel,"Belgique,France,Polynésie française,Martinique,Maroc",Président
+3273220012123,petit billy,France,petit billy
+3392460511200,"LU - Grany Chocolate 5 Cereals Bar x6, 125g (4.5oz)","France,Guadeloupe",Lu
+3560070308316,Biscottes Complètes bio,"France,French Polynesia,Spain,Kenya",Carrefour
+3587222521508,Brioche tranchée à la crème fraîche,France,La Fournée Dorée
+3760091720207,Sucre complet de canne,"France,Sénégal",Ethiquable
+4005500310105,Maggi,"Österreich, Luxemburg, en:Deutschland, en:Frankreich, Germany",MAGGI
+5000112546415,"Coca-Cola Original 1,25 Liter",Deutschland,"Coca-Cola,Coca-Cola Company"
+5010477300508,Country Crisp with Sun-Ripe Strawberries imp,"Switzerland,United Kingdom,en:united-kingdom",Jordans
+5013665107538,Very Low Salt Organic Chicken Stock Cubes,"France, en:united-kingdom",kallø
+7622210444127,Melloeux Fruit Rouges,"Belgique,France,Portugal,La Réunion,Suisse","BelVita, LU, Mondelēz"
+8480000180025,Atún claro en aceite de oliva,España,Hacendado
+8886303210207,Natural Coconut Cream,"France,Hungary, World",Kara
+6111184003283,Assaisonnement au citron,en:MA,Star
+6111245470030,Afia huile de table,"France,en:morocco",AFIA
+5057545928899,Multiseed Batch,"France,United Kingdom",Tesco
+4088600202433,Multi-Grain Hoops,"United Kingdom, en:ireland","Harvest Morn, Aldi"
+5060055251234,unsmoked back bacon rashers,en:United Kingdom,naked bacon
+5701977550554,Vegan Spreadable,"United Kingdom, en:romania",Naturli
+4088600072029,2 Stonebaked Baguettes,en:United Kingdom,Aldi
+4088600269634,Mighty Yeast Extract with added vitamins,Royaume-Uni,Grandessa
+1200101017825,PET 1L OCEAN SPRAY CLASS,France,Ocean Spray
+5060482841992,"Hazelnut, Pecan & Maple Oat Bars",United Kingdom,deliciously ella
+6111266680135,fondiz,en:Morocco,land'or Maroc industries
+8445291209039,Solis,en:Morocco,Nestle nutrition
+5025125000075,Sliced Sourdough Seeded with Protein Bread,en:United Kingdom,"Jason's Sourdough, Jason's"
+3155250001523,Crème légère fouettée 20% Mat Gr,"France,Suisse",Bridélice
+3166353931402,Cabillaud sauce Citron riz aux petits légumes,"France,Suisse",Marie
+3178530405736,"Bonne Maman - Quatre Quarts, 500g (17.6oz)",Francia,Bonne Maman
+3270190008262,Huile d\'olive,"France, Guadeloupe, Romania, en:belgium",Carrefour
+3497911105127,Chips saveur Sel & Vinaigre,"Croatie,France",Brets
+3502110006790,"Tropicana 100% oranges pressées sans pulpe format familial 1,5 L","France,Switzerland",Tropicana
+5014067133804,Natural Proper Organic Bio Live Yeogurt,United Kingdom,Yeo Valley
+5019503018974,Mince,"France,Spain,United Kingdom",Quorn
+5449000232304,PET 1.25L FUZETEA PECHE HIB,"Belgique,France, en:luxembourg",FUZE TEA
+6111021013109,Confiture D'abricots extra aïcha,"Democratic Republic of the Congo,Morocco","Aïcha,Extra"
+6130093010069,,Algérie,ifri
+7613035833302,Perrier fines bulles,France,"Nestlé, Nestlé Waters, Perrier"
+7622200002290,Chocolat Mignonnette noir de noir,"Belgium,China,France","Côte d'or,Kraft Foods,Mondelez International"
+7622210422163,La Paille d'Or aux framboises,"France,Suisse, en:belgium","Lu, Mondelez International"
+7622300292508,Choco Wafer,"Bélgica,França,Itália,Marrocos,Portugal,Espanha","Milka, Mondelēz"
+8480000348654,Almendra natural,"Francia,Rumania,España",Hacendado
+8595229901075,Musli Oat biscuits (Blueberry),"France, en:morocco",Emco
+6111250474276,Lait UHT Entier,en:Morocco,Dost
+4056489517511,Oat unsweetened,"United Kingdom, en:ireland",venmondo
+5411188136347,"Alpro Fermentiertes Sojaprodukt, rote Früchte mit Datteln, ohne Zuckerzusatz 400g","Francia,Alemania,España",Alpro
+6111242109537,Omar,en:ma,Jaouda
+3154230809302,HERTA LE BON PARIS Jambon à l'étouffée x4 -170g,France,"HERTA, Le Bon Paris"
+5017764003142,Lightly Salted Potato chips,en:gb,Kettle
+4088600550848,Tomato Passata,United Kingdom,Cucina
+6111245591049,dalaa,en:Morocco,
+6111028001239,,Maroc,La vache qui rit
+3017760030106,Palmito L'original,"Belgique,France,Guadeloupe,Nouvelle-Calédonie,La Réunion,Luxembourg","Lu, Mondelez"
+3033490004521,Danone le nature 125 g x 4,"Belgique,France,Maroc,Espagne","Danone, Danone set plain"
+3123930650026,Comté,"Belgium,France,Switzerland",Entremont
+3155250321799,BRIDELIGHT LE BON MOELLEUX ALLEGE 5%MG 350g,France,Bridelight
+3176582033334,Camembert,France,Cœur de Lion
+3229820783338,Épeautre noisette bjorg,France,Bjorg
+3254691586115,Nectar de pommes - Doux - Bio,France,Pressade
+3336970711064,Curly cacahuète l'original,"Canada,France","Curly, Intersnack, Vico"
+3760049794373,PAIN MIE SANDWICH BIO* COMPLET Sans sucres ajoutés 500G,France,Bien
+4012200032947,Röstzwiebeln,"France, en:germany",Kühne
+5000111044202,Dark soy sauce,"Francia,España,Reino Unido",Amoy
+5050974503736,CRISP BREAD Blackpepper,"France, en:united-kingdom",RYVITA
+5060139434362,Cocoa Alpha Bites,United Kingdom,BEAR
+7622210713902,Belvita original - Biscuits petit déjeuner miel & pépites de chocolat,"France,La Réunion,Suisse","Belvita, Lu, Mondelez"
+7622210724519,Chocolat noir Bio 70%,"Belgique,France,La Réunion","Côte d'Or,Mondelez International"
+5000116107810,10 potato waffles,"United Kingdom, en:ireland",Birdseye
+5012262004011,Traditional Dairy Ice Cream,United Kingdom,Mackie's of Scotland
+3182180002092,Grilletine froment,France,"Brioche Pasquier,Pasquier"
+3341504005540,Saint Agur,France,"Saint Agur, Savencia"
+5057373749130,Ready Salted Crisps,"United Kingdom,Czech Republic",Tesco Finest
+4088600206714,French Inspired Lentils,"Ireland,United Kingdom",Worldwide Foods
+3487400004437,L'original,France,Ebly
+5012818160154,Chopped Garlic,United Kingdom,Very Lazy
+4088600326252,Bran Flakes,United Kingdom,Harvest Morn
+3154230800965,HERTA Blanc Poulet Nature conservation sans nitrite x4 -140g,France,Herta
+6118000191032,Rhumix,en:Morocco,
+8719200230989,ProActiv Original,"Portugal,Espagne",Becel
+6111266751149,Pâte à tartiner noisettes,Maroc,Revey Tchico
+5059512738814,All butter shortbread fingers,en:gb,Tesco
+3124480186850,schweppes Indian tonic,"Belgium,France",Schweppes
+3161711000622,Caprice des Dieux,"Belgique,France,Luxembourg,États-Unis","Caprice Des Dieux, Savencia"
+3178530410112,Petites Madeleines,"France, en:reunion",St Michel
+3250546610271,Moutarde Fine et Forte Flacon Souple,"Belgien, Frankreich, Marokko, Schweiz, Germany",Amora
+3272770095334,St Moret ligne et plaisir,France,"Fromarsac, Savencia, St Moret"
+3273220541012,Fromage blanc au lait de brebis,France,Vrai
+3451790439506,Elle & vire creme fraiche epaisse legere 12%mg poche 328g,France,Elle & vire
+5410126006049,The Original Speculoos,"Francia,Alemania,Marruecos,Polonia,España",Lotus
+6111242042599,Fakiat,"France, en:morocco",Leaderfood
+6130760003349,جبن طازج,الجزائر,Soummam
+6194043001668,Lait demi écrémé UHT,Tunisie,délice
+8715035150300,Kikkoman Soyasaus glutenfrei,"Croacia,Dinamarca,Francia,Alemania,Irlanda,Marruecos,Países Bajos,España,Suiza,Reino Unido",KIKKOMAN
+4056489009979,Goody cao,"Belgien, Frankreich, Marokko, Germany",Bellarom
+3608580942764,Mousse au chocolat vegetal au lait de coco,France,"Andros,Andros Gourmand & Végétal"
+5000119560445,Italian Tomato Passata,"France, United Kingdom",Tesco
+3023290030547,Skyr framboise,"France,Allemagne",Siggi's
+4088600132341,Dark chocolate,en:gb,Moser Roth
+0813636021932,Oat Milk,"United Kingdom, en:ireland",Califia Farms
+5000169567418,Milk Single Origin Chocolate,United Kingdom,Waitrose
+8480000505460,Havarti light,España,HACENDADO
+5449000036919,HAWAI ANANAS 1l,Maroc,
+3174061039105,Confiture 70% de fraise,France,Léonce Blanc
+3770018078038,Rostlinná slanina,France,La Vie
+5000157146298,Sundried Cherry Tomato & Basil,en:gb,Heinz
+8719200251649,Beurre planta fin,France,Planta Fin
+6111259344464,,Morocco,Excelo
+5018357804863,Honey Granola,en:United Kingdom,Dorset Cereals
+6111126005702,Chergui proteine,Maroc,Chergui
+3080216043807,Tourtel Twist,France,"TOURTEL,Tourtel Twist,Tourtel Twist Citron"
+3245550078681,Snack poppé T&H,Frankrijk,Too GoodFrance
+3700214614259,Chocolat noir 75% Pérou,France,Alter Eco
+4002359006715,Lait de coco,"France,Italie,Suisse",Suzi Wan
+5010265000801,ORIGINAL RYVITA CRACKERBREAD,"France, United Kingdom, en:ireland",RYVITA
+5021554987710,Organic tofu imp,"Francia,Países Bajos,Reino Unido",Clearspring
+5036589203896,Greek style Honey,"France,Royaume-Uni",Yeo Valley
+6111021012201,Confiture de Fraise,Morocco,Extra
+7613034579102,PERRIER eau minérale naturelle gazeuse,France,PerrierNestlé WatersNestlé
+7613035648463,HERTA Pâte à Pizza Fine et Rectangulaire 390g,"France,Luxembourg",Herta
+8001060000261,Sun-dried Tomato Pesto,"France,United Kingdom",Saclà
+8076800105056,Pâtes spaghetti n°5 1kg,"Austria,Croatia,France,Germany,Italy,Poland,Switzerland",Barilla
+8076809517751,Pesto alla Calabrese 190g,Germany,Barilla
+8712566479368,Chicken Stock Pot 8 x,"France, Ireland, en:united-kingdom",Knorr
+6111245460345,Pain de mie complet,"France,Maroc",joyfood
+7613036891530,MAGGI KUB OR L'Original - 128g,France,"Kub or,Maggi,Maggi Kub or"
+6111180000194,Chocao,en:Morocco,
+8480000125866,Chocolate negro 99% cacao,España,HACENDADO
+4056489041160,Carres graines pepites de chocolat,Frankrijk,"Lidl, Sondey"
+3329757004442,Sucre Pure Via SpecialPatisserie,France,pure via
+6111032008446,Danino,en:ma,
+6221007032526,Cerelac,en:Morocco,nestle
+7622201515492,Milka aux noisettes,"France, en:morocco","Milka, Mondelez"
+3336972109104,Chips de lentilles saveur oignons caramélisés,France,Vico
+3073781180848,Boursin ail et fines herbes,France,"Boursin,Boursin atartiner/core cheese"
+8720182557452,Moutarde à l’ancienne,"France,Allemagne",Maille
+6111128001092,Ghayt,en:ma,
+3330720244017,Confiture fraise sans sucre ajoutes,en:fr,Lucien georgelin
+5059319024165,rice crispies,"Ireland, en:united-kingdom",Kellogg’s
+3033710074518,,"France,Polynésie française,Maroc,Suisse","Nestlé,Nescafé,Special filtre"
+3046920022507,Excellence Noir Caramel à la pointe de sel,France,Lindt
+3179730115821,CONTREX eau minérale naturelle 1L,"Belgique,France",Contrex
+3229820019208,Pain complet seigle,France,Bjorg
+3248832940539,Poulet🐔 au Curry et Noix de Coco 🥥,France,"WW,Weight Watchers"
+4008400290829,Kinder Pinguin,"France,Allemagne,Italie,Roumanie",Kinder
+5010029208610,Weetabix Oatiflakes,"France,Spain,United Kingdom",Weetabix
+5010044004679,Warburtons 6 Brown Sandwich Thins,"France,United Kingdom",Warburtons
+5010092736614,Classic Medium Sliced Wholemeal Bread,"France,United Kingdom",Allinson's
+5410221305108,Schweppes Agrumes Zero,"Belgium,France",Schweppes
+5449000214805,BTE 33CL SLIM FANTA ORANGE,"Franciaország,Magyarország",Fanta
+7613035694989,Boulettes aux Légumes,France,"Nestlé,Garden gourmet"
+8000500009673,Ferrero rocher,"Bulgaria, France, Morocco, Spain, United Kingdom, en:romania",Ferrero
+8480000171511,Tomate frito,España,Hacendado
+8711299021004,Chia seeds,"Belgien, Frankreich, Marokko, Germany",natural happiness
+6111005120144,Knorr Beef Flavored Buillon Cubes - 8 Cubes,"France,Maroc",knoor
+3083681094923,Haricots Verts extra-fins 1/2,"France,Suisse",Cassegrain
+8480000511102,MOZZARELLA PIZZA-ROMA,España,HACENDADO
+5024530005293,Classic Margherita Mozzarella & Tomato Pizza,en:gb,Pizza Express
+5000116111947,Cod Fish Fingers,United Kingdom,Birds Eye
+3175681261372,Gerblé cacao céréales,Francia,Gerblé
+3564706624467,Flocons d'avoine,France,"Marque Repère, Grainéa"
+6111242106789,Délicimo : Stracciatella,en:ma,Jaouda
+0049733000215,Cholula Hot Sauce,"United Kingdom, en:ireland",Cholula
+8004172000501,halta cucina,en:ma,Halta
+6111259341159,Crakes choc,en:ma,excelo
+5010029227062,Oreo O's,"France,Germany,Norway,Spain,Switzerland",OREO
+8480000228369,Crema de cacahuete 100% crunchy,España,Hacendado
+4056489559795,Green pesto,en:gb,"Lidl, Baresa"
+3175681290440,Petit déjeuner fruits rouges,France,Gerblé
+3302740039362,Rôti de Poulet - 100% filet,France,Fleury Michon
+6111031005217,Oreo chocolate,en:Morocco,Unknown
+6111037000643,MARG FAMILIA 400G,en:Morocco,
+3067140037898,Chicoree soluble nature bio 100g,"France,Suisse",Leroux
+3175681132467,Les galettes orge et boulgour au chèvre miel,"France,Nouvelle-Calédonie",Céréal Bio
+3236240070405,Paysan Breton - Le Fromage Fouetté Madame Loïk - Echalote Ciboulette,"Belgium,France",Madame Loïk
+3560070157198,Queso rallado parmesano,"Belgique,France,Italie,Maroc,Espagne",Extra Sapori d'Italia
+3564700596968,Pain de mie grandes tranches complet,France,"Marque Repère, Epi d'Or, Scamark (Filiale E. Leclerc)"
+5449000009067,Coca-Cola,"Francia,Italia,Sudáfrica,España,Ucrania",Coca-Cola
+6111017042427,Chocolat Tentation Noir Gourmand Amandes,"France,Maroc,en:morocco",Aiguebelle
+6111179003847,Nectar Orange,Morocco,Al Boustane
+6111242103443,Perly façon tarte aux fraises,"France, en:morocco",Jaouda
+6191509900855,Organic Extra Virgin Olive Oil,"France,Switzerland, World",Terra Delyssa
+7622210995100,Noir amandes entières,"France,Morocco","Côte d'or,Mondelez"
+8410076472946,8 Tortillas - Blé nature,"France,Espagne","General Mills, Old el Paso"
+5013635301454,Pure Creamed Coconut,"France, en:united-kingdom",KTC
+6111242105287,Ghilal Panaché,Morocco,Jaouda Copag
+8717677339938,Milk Caramel Sea Salt Chocolate,United Kingdom,Tony's Chocolonely
+4088600140872,Mixed Beans,United Kingdom,Four Seasons
+6111203003263,Fromage,en:ma,
+8410014478733,Cola Cao El Original,"France, Spain, en:morocco",ColaCao
+8000500359556,Raffaello - Confetteria - Kokos & Mandelcreme,"Bulgaria,Francia,Alemania,Marruecos,Rumania,Reino Unido",Ferrero
+3154230600121,HERTA TARTE EN OR Pâte Brisée 230g,France,"Tarte en or, Herta"
+3124480195319,PET 1.2L MAYTEA PECHE,France,May Tea
+3302740067969,Le moelleux,France,Fleury Michon
+4088600526065,Multigrain Rice Cakes,United Kingdom,Savour Bakes
+0078742040370,Purified Drinking Water,United States,"Great Value,Wal-Mart Stores Inc."
+0612322030087,Chocolate Chip Oat Biscuit Breaks,"Portugal,United Kingdom,Czech Republic",Nairn’s
+3046920028370,Lindt Excellence Dark Orange Intense,"Austria,Bélgica,Bolivia,República Checa,Dinamarca,Estonia,Francia,Hungría,Italia,Marruecos,Países Bajos,Polonia,España,Suiza,Tailandia,Reino Unido",Lindt
+3155250001554,Crème fraîche épaisse,France,Bridélice
+3341430490380,Thon a lhuile,Maroc,
+3564707101349,sirop d'agave,France,"Bio Village, Marque Repère"
+4008100151611,Chucrut al estilo bávaro,"Bélgica,Alemania,España,Reino Unido",Hengstenberg
+5000157140227,Salad Cream Original,"France, en:united-kingdom","Heinz, Nature’s pick"
+5060042641413,Sweet Chilli & Red Pepper,"France,Germany,Switzerland,United Kingdom,Netherlands",Tyrrell’s
+5411188106814,"Alpro Sojadrink, Ungesüßt fresh","France,Allemagne,Royaume-Uni",Alpro
+5449000051981,Original Taste,"França,Paquistão,Portugal,Sérvia","Coca Cola,Coke"
+7613036021265,GARDEN GOURMET Nuggets Soja 200g,France,Garden gourmet
+8480000823021,Pan de molde con 52% centeno,Spain,Hacendado
+6111126003333,Raibi grenadine,"Maroc, en:france",Chergui
+5010044006529,Old English Medium Sliced White Bread,"United States,United Kingdom",Warburtons
+4088600052922,Unsweetened UHT Soya Drink,"United Kingdom,en:united-kingdom",Actileaf
+4056489009191,Tortelloni Ricotta et épinards,"Dänemark, Frankreich, Schweiz, Vereinigtes Königreich, Germany","Baresa, Lidl, Ospelt food AG"
+5060087943947,Super Seeds Salad Topper,en:gb,Good 4U
+4088600074948,Pesto Basil,"Ireland, en:united-kingdom",Aldi
+3228857001323,Brioche tranchée nature ss additif,France,Harrys
+5057753893958,"Wholemeal, Seeds and Grains Loaf",en:gb,Tesco Finest
+3664346326872,Poulain Grand Arôme intense 70% de cacao,France,Poulain
+0813636022953,Oat Barista Blend,en:gb,Califia Farms
+5053990162703,Pringles,Frankrijk,Pringles
+5056215600103,Quinoa red & white,"France, en:united-kingdom",Merchant Gourmet
+5059319023533,Rice Krispies,"Belgique,France",Kellogg's
+5059697729072,Tortilla chips,"Isle of Man, en:united-kingdom",Tesco
+3124480167170,Citronnade,France,Pulco
+3256540001008,Pains au chocolat,France,Pasquier
+3497917000518,Chips saveur Chèvre piment d'Espelette,"France, en:morocco",Brets
+4008400183022,Raffaello,"Austria, Belgium, Bulgaria, France, Germany, Hungary, Poland, Romania, Switzerland, United Kingdom, en:latvia",Ferrero
+5010044003955,Soft Tiger Bloomer,"France,United Kingdom",Warburtons
+5050083516313,Céréales Extra Kellogg's Pépites Chocolat au lait,"Belgique,France,Luxembourg,La Réunion,Suisse",Kellogg's
+5060042641437,Mature Cheddar & Chive,"France, Germany, Réunion, en:united-kingdom",Tyrell's
+5060088705179,Peanut Delight,Royaume-Uni,Nakd
+5060336505209,Small chunk pickle,United Kingdom,Branston
+5391528180073,Oven Baked Sweet Potato Fries,"France, en:united-kingdom",Strong Roots
+5410041143508,Gout Bacon,"Áustria,Dinamarca,Finlândia,França,Alemanha,Itália,Noruega,Portugal,Espanha,Suécia,Suíça","Tuc,LU,Mondelēz"
+5411188511137,Organic Soya Unsweetened U.H.T.,United Kingdom,Alpro
+5449000028921,Coca Cola 1.25ltr,"Francia,Moldavia,Macedonia del Norte,Rumania,Senegal,España,Suiza,Ucrania,Reino Unido",Coca-Cola
+6111094000013,Couscous Moyen,"Belgique,France,Maroc",Dari
+7613035859098,NESTLÉ DESSERT 70% Absolu 170g,"France,La Réunion","Nestlé,Nestlé Dessert,Tablettes"
+8410261775098,Mélanges de fruits,"France,en:morocco",Rostoy Selección
+8434165483965,Tosta Rica,"France,Morocco,Spain",Cuétara
+8715035210301,Teriyakisauce,"Dinamarca,Francia,Alemania,Polonia,España,Suiza,Reino Unido","Kikkoman, Kikkoman - Kikkoman K.K."
+6111248360109,Ain Soltan,"France,Maroc",
+5013635330010,Coconut Milk,"France, en:united-kingdom",ktc
+3073781131963,Kiri® Crème 24 portions,"Frankreich,Deutschland,Schweiz",Kiri
+8410076801203,Crunchy canadian maple syrup,"Francia,España,Reino Unido",Nature Valley
+7613287171009,Shredded Wheat,en:gb,Nestlé
+5060367181281,SMOOTH ALMOND BUTTER,en:gb,pip & nut
+4056489546092,Bio crackers,Frankrijk,Lidl
+4000405004968,Veganer Schinken Spicker Mortadella,Deutschland,Rügenwalder Mühle
+5059697736582,Growers Harvest Tomato Purée,en:gb,
+4056489620860,Crunchy Peanut Butter,"Ireland,United Kingdom",Maribel
+6111242109391,Crème cuisson,en:ma,Jaouda
+6111265980250,,en:ma,
+0013764027138,THIN-SLICED ORGANIC BREAD 21 WHOLE GRAINS AND SEEDS,"France,United States,World",Dave's Killer Bread
+3033491147067,Activia bifidus nature 125g x 4,France,"Activia, Activia yoghurt nature, Danone"
+3036811363147,PurSoup' Velouté de 10 légumes,"Belgium,France,Switzerland",liebig
+3045320517101,Compote de pomme allégée,France,Andros
+3155251205388,Crème légère semi épaisse 18%,"France,Suisse",Bridélice
+5000127163096,SPECIAL K The Original,"France,Irlande,Royaume-Uni",Kellogg's
+5000168001210,McVities Rich Tea Biscuits,"United Kingdom, en:ireland",McVitie's
+5060336505247,Branston Pickle Small Chunk,"France, en:united-kingdom","Cross & Blackwell, King British"
+5449000058560,Bebida isotónica limón,"Francia,España","Coca-Cola,Aquarius"
+6111021014205,Confiture de fraise,"France, en:morocco",
+7613034916891,,"Frankreich, Guadeloupe, Martinique, Neukaledonien, Réunion, Senegal, Schweiz, Germany","Nestlé, Nesquik"
+7613035239562,Nesquik,"France, en:morocco",Nestlé
+8076809517706,Baiocchi nocciola snack mb,"France,Italie","Barilla, Mulino Bianco"
+8711200548033,Amora Mayonnaise De Dijon Flacon Souple 235g,"France,Suisse","Amora, Unilever"
+5060406080223,Oat M*lk,"France,Ireland,United Kingdom",minor figures
+5060202390359,White tiger bloomer,"Netherlands, en:united-kingdom",Black Sheep Craft Bakery
+4056489232872,Cacau em pó,"Belgium,Bulgaria,France,Germany,Ireland,Italy,United Kingdom","Belbake Lidl, Belbake"
+0016843697017,Peanut butter,en:ma,
+4056489018636,,"Austrija,Bugarska,Hrvatska,Češka,Mađarska,Litva,Poljska,Rumunjska,Srbija,Slovačka,Slovenija",Snack Day
+6111259344181,Crunchy original,en:ma,Be
+5060853640124,Super Berry Granola,United Kingdom,Bio & Me
+4056489710592,Soft Pitted Dates,en:gb,Alesto
+5060337222174,biotiful gut health kefir protues,gb,Biotiful
+6111029000491,النمر,en:Morocco,
+5010003052949,Best of Both Bread,United Kingdom,Hovis
+5000246728787,Yeo Valley Salted Butter,en:United Kingdom,Yeo Valley
+8402001009648,María 100% Integral,"Portugal,Espanha","Hacendado, Siro"
+3036810201280,Dijon-Senf,"Deutschland,Spanien",Maille
+3067140036303,Chicoree liquide 250 ml,France,Leroux
+3123349011227,1L PUR JUS ORANGE JOKER NEW,France,Joker
+3175681037885,Tartines Craquantes Multi-Céréales,"France,Switzerland",Céréal bio
+3178050000725,Huile d'Olive Vierge Extra,"France,Martinique,La Réunion,Suisse",Puget
+3265479432005,Huile d'olive vierge extra - Bio,France,Puget
+3523230029681,Sainte-Maure,France,Soignon
+3600900021050,Tipiak Graine Parfumé,France,Tipiak
+5000232901422,Batchelors : Mushy Original,"Frankreich, Schweiz, Vereinigtes Königreich, Germany",Batchelors
+5014067153833,Strawberry Bio Live Yoghurt,"France, United Kingdom",Yeo Valley
+5411188115533,soya Vanille,"Autriche,Belgique,Finlande,France,Allemagne,Roumanie,Suède,Suisse",Alpro
+6130760003769,L'ben,Algérie,Soummam
+7613035272903,Ricoré Original Café & Chicorée,France,Nestlé
+8480000094742,Granola baja en azúcares,España,Hacendado
+8480000205124,Yogur estilo griego natural,España,Hacendado
+9352042000298,Vegemite,"France, United Kingdom, en:ireland","Sainsbury's, Sainsburys Taste the Difference Taste the difference"
+8480000125248,Chocolate negro 0% azúcares añadidos 85% cacao,Spain,Hacendado
+3327272107266,Menguy's Beurre de cacahuètes crunchy,France,Menguy's
+8480000512239,Queso de untar light,España,Hacendado
+5060198640360,Pizza Base with Tomato Sauce,en:gb,Crosta & mollica
+5050974504139,Rosemary & Sea Salt Thins,en:gb,Ryvita
+5018297002008,Wholemeal Bagels,United Kingdom,New York Bakery Co.
+5057373748423,Black Beans in Water,"United Kingdom,Ireland",Tesco
+8711327373105,Ванилов сладолед с парчета бисквити с шоколадов чипс и шоколадови парчета,"Austria,Belgium,Bulgaria,Finland,France,Germany,Spain,United Kingdom,Lithuania",Ben & Jerry's
+3497917002451,Chips de Sarrasin au Sel de Guerande,France,Brets
+4088600179131,Coconut milk,"United Kingdom, en:ireland","Aldi, Asia Specialities"
+5000354909924,bisto,"Ireland, en:united-kingdom",Bisto
+3061990143372,"BN - Strawberry Cookies, 285g (10oz)","Bélgica,Francia",BN
+4088600003610,CIABATTA ROLLS,"Germany, en:united-kingdom",Aldi
+3124480195326,PET 1.2L MAYTEA MENTHE,France,May Tea
+5000328015927,Baked Sea Salt,"United Kingdom, Germany",Walkers
+5000328024240,Snack a Jacks Zingy Salt & Vinegar 117g,United Kingdom,SnackaJacks
+8719200265455,Natural Ingredients Buttery,en:United Kingdom,Flora
+4056489000563,Ketchup,en:united-kingdom,Batts
+3014680009175,Bonbon à la Sève de Pin,"Belgium,Brazil,Canada,France,Switzerland","La Vosgienne, Mondelez"
+3017760038331,La Barquette (chocolat),"Francia,Reunión,España",LU
+3046920042932,Création Rocher Noir,"France,Allemagne,Maroc",Lindt
+3068320118420,Bulles de fruits Pamplemousse Touche de citron,France,Badoit
+3124480186676,Oasis tropical,"France,Maroc,Suisse","Oasis,Oasis Tropical"
+3228857000869,100% mie,"Belgique,France,Suisse",Harrys
+3571492210019,BRANDADE DE MORUE,France,Briau
+4000339035229,Philadelphia 200g,"Germany, Italy, Switzerland, en:romania","Mondelez, Mondelēz International, Philadelphia, Philadelphia - Mondelēz International"
+5011476102223,Shredded Wheat,"France,Royaume-Uni",Nestlé
+5050083535079,Céréales Trésor Kellogg's Chocolat Noisettes - 1kg,"Belgique,France",Kellogg's
+5411188079996,Soya Wholebean Unsweetened Drink U.H.T.,"France, en:united-kingdom",Alpro
+7613036092487,Le Classique Soja et Blé,"Belgium,France","Nestlé, Garden gourmet"
+8002210500204,Filippo Berio Extra Virgin Olive Oil imp,"France, en:united-kingdom",Filippo Berio
+8410376026979,Digestive Muesli,"França,Itália,Espanha,Tunísia",Gullón
+8712566133987,Wholegrain Mustard,Royaume-Uni,Maille
+8722700125174,Amora Sauce Burger 260g,"France,Maroc",Amora
+6413300018042,Protein strawberry,"Greece, Spain, United Kingdom, fr:Francia, en:france",Arla
+4088600107806,Scottish Rough Oatcakes,"United Kingdom, en:ireland",Savour Bakes
+6111242071995,yogo banan,المغرب,Extralait
+8410109115543,100% cacao puro natural,"Spain, en:morocco",VALOR
+5000169199183,Duchy Organic Mayonnaise,en:gb,Waitrose & Partners
+6111259341692,itri choco,Morocco,Excelo
+3760049798876,10 Pains au lait frais sans sucres ajoutés 350g,France,la boulangère
+3168930167983,Pomme de terre nature,en:fr,"Lay's, Lays"
+5010044009650,Wholemeal Loaf,United Kingdom,Warburtons
+8715700123691,Seriously good vegan mayo,United Kingdom,Heinz
+3608580118886,Bonne Maman Hazelnut Chocolate Spread,United Kingdom,Bonne Maman
+6111260231548,slice burger viva,en:Morocco,
+5449000318473,coca-cola,en:Morocco,Coca-Cola
+6111242926806,FRUT MAX,en:Morocco,MARRAKECH
+6111263000202,filets de maquereaux à l'huile végétale,Morocco,delfy
+3124480186584,Oasis Pomme Cassis Framboise,"Belgium, France, en:morocco",Oasis
+3165950049015,Filets de Sardines Citron Basilic,"France, Switzerland, en:morocco",Saupiquet
+3336971209133,Curly cacahuete,France,"Curly, Vico"
+3700214610480,Sucre Cmplet Muscovado,France,Alter Eco
+4012359113108,Räuchertofu Mandel-Sesam,"Belgium,France,Germany,Netherlands,Spain,United Kingdom",taifun
+5000159492966,M&M's Cacahuètes - Pack familial,France,"M&M's, Mars"
+5010171000018,Salted Butter,Reino Unido,Country Life
+5022019090204,Belvoir Farm Ginger Cordial,"Australia,France,Germany,United Kingdom",Ginger Cordial
+7613035898646,NESTLÉ DESSERT Corsé 200g,"France,Allemagne,Martinique,La Réunion","Nestlé, Nestlé Dessert, Tablettes"
+8410076600448,Crunchy Avoine & Fruits Rouge 5 x 42 g,"France,Émirats arabes unis",Nature Valley
+8410376023831,Digestive zero sin azúcares,"Andorra,Francia,Marruecos,Portugal,Senegal,España,en:Francia",Gullón
+8480000141583,Tortitas de maíz,"Romania,Spain",Hacendado
+8001665705073,Rana spinach and ricotta fresh tortelloni,"France,United Kingdom",Rana
+5036589252597,"Kefir, Mango and Passion Fruit","France,Royaume-Uni",Yeo Valley
+3229820797946,Muesli,France,Bjorg
+4088600111209,TORTILLA WRAPS WHOLEMEAL,"Ireland,United Kingdom",VILLAGE BAKERY
+8410014478764,Original,"Spain, en:morocco",ColaCao
+6111250471862,Thon à l'huile végétale,en:ma,
+4056489462828,Simply porridge oats,en:gb,Lidl
+1230000097048,Hazelnut Butter Dark Chocolate,"Spain, en:united-kingdom",Hu
+3168930171737,Chips nature,en:fr,"Lay's, Lays"
+3124480196262,"PET 1,5L SCHWEPPES AGRUMES",France,Schweppes
+5711953176609,Nordic Oat Drink,en:United Kingdom,Arla
+6221048407796,signal,en:Morocco,
+7613032568436,,"France,Martinique,Réunion,Switzerland",Nescafe
+3038352875066,Tomacouli,France,Panzani
+3046920010603,Excellence Raspberry,"Australie,Autriche,Brésil,France,Nouvelle-Zélande,Royaume-Uni",Lindt&Sprüngli
+3056440032696,Petits coeurs chocolat,"France, en:belgium","Kraft Foods, LU, Mondelez"
+3472860001058,Le Sablé pur beurre,"France,Maroc",La Mère Poulard
+3502490099177,Amandes grillées sans sel,France,maître prunille
+3608580789758,Compote Pomme Nature,"France, en:luxembourg",Andros
+5011835101065,Crunchy Peanut Butter,"France, en:united-kingdom","Alcafé, Whole Earth"
+5060120282019,RUDE Almond Organic Drink imp,"España,Reino Unido,fr:Francia",Rude health
+5413548283128,Schokobons,"Autriche,Belgique,France,Allemagne,Espagne",Kinder
+6111035001734,Bahia,"France, en:morocco",
+6111162000464,Joly,Morocco,Les Conserveries Marocaines Doha
+8410076421449,Sauce apéritif Guacamole,"France,Suisse",Old el paso
+8422174010029,Gazpacho Original,"Andorra, Belgium, China, France, Spain, Switzerland, en:united-kingdom","Alvalle, PepsiCo"
+8480000094926,,"Espanha,Portugal","Hacendado, Mercadona"
+8711200459926,Amora Sauce Crudites Nature,France,Amora
+3023290030608,Skyr vanille,France,Siggi's
+7311070032581,Krisprolls,France,Pagen
+5010115900596,Golden syrup,"United Kingdom, en:france",Lyle's
+4088600236377,Superseed Farmhouse,United Kingdom,Specially Selected
+4056489254683,Thunfisch Filets in eigenem Saft,Germany,Nixe
+4088600272689,Mixed Nuts,United Kingdom,The Foodie Market
+8480000135025,María dorada 0%,"Portugal,España",Hacendado
+8480000156044,Gazpacho Tradicional,"Spain, en:romania",Hacendado
+6111017046029,Tentation,en:ma,Aiguebelle
+3599741006305,Croustibat,France,Findus
+8480000861672,Bebida de Avena Calcio y Vitaminas,España,Hacendado
+7394376620720,Oatly Semi Oat Drink imp,en:United Kingdom,Oatly
+4056489851387,6 Wholemeal Pitta Breads,en:United Kingdom,Rowan Hill Bakery
+3770018078144,La Vie Jambon Végétal,France,LA VIE
+0667803000707,Mustard powder imp,"Frankreich,Deutschland,Neuseeland,Vereinigtes Königreich","Colman's,Unilever"
+3017760472890,BelVita Original Petit Déjeuner pépites de chocolat,"Belgique,France,Luxembourg,Suisse","LU, belVita"
+3124480185235,BLE 70CL PULCO CITRON VERT,"Frankreich, Schweiz, Germany",Pulco
+3155251205395,Bridélice Crème légère fluide 12%Mat. Gr.,France,Bridelice
+3166290200197,Cannelle moulue,"Belgique,France,Espagne",Ducros
+3229820789149,Biscuits nappés de chocolat noir,France,Bjorg
+3421557910203,Flocons d'avoine complets,"France,La Réunion",Terres & Céréales BIO
+3560070740338,Sirop d'agave,"France,Kenya","Carrefour BIO,Carrefour"
+3600900005067,Meli mélo gourmand,"France, Suisse, Germany",Tipiak
+3608580823476,Framboise Intense,France,Bonne Maman
+5000157026231,"Beanz In a Rich Tomato Sauce, Organic","France,United Kingdom",Heinz
+5000328376677,Walkers Ready Salted Crisps 6pk,United Kingdom,Walkers
+5060088705148,Berry Delight Bars,"Belgium,Czech Republic,France,Netherlands",Nakd
+8076809545440,Spaghetti Senza Glutine,"Belgium, Bulgaria, Denmark, France, Germany, Italy, Netherlands, Norway, Sweden, Switzerland, en:united-kingdom",Barilla
+8410261775142,Frutas Mezcladas,"France, Spain, en:morocco",Rostoy
+8480000209962,Yogur Proteínas Fresa 0%,España,Hacendado
+5010003000353,Tasty Wholemeal Thick,"France,Royaume-Uni",Hovis
+5054269746884,Coconut Milk,"France,United Kingdom",Tesco
+5000237132296,POM-BEAR Potato snacks,United Kingdom,KP Snacks
+6111184002958,Ketchup stat 330g,en:ma,Star
+4088600169934,Muesli Swiss Style,en:United Kingdom,Harvest Morn
+4056489209980,Crunchy Muesli Multi Fruit,"Bélgica,França,Alemanha,Itália,Eslovénia,Espanha",CROWNFIELD
+6111017040843,Aiguebelle Mini Chocolate,"France, en:morocco",Aiguebelle
+5057545878798,SOFT CHEESE,"France, en:united-kingdom",Creamfields
+3182180002474,Pain grillé,France,Brioche Pasquier
+4056489258353,Protein Raspberry-Pomegranate,"Bulgaria,Germany",Milbona
+4088600284897,Greek Style Natural Yogurt,United Kingdom,Brooklea
+6111032009153,Actimel,Morocco,"Danone,Actimel"
+1200101017955,PET 1L OCEAN SPRAY SANS SUCRE,France,Ocean Spray
+8480000136824,Bebida de Soja,"Portugal,Espanha",Hacendado
+8480000233592,Pan de molde blanco natural rústico,"Portugal,Espanha",Hacendado
+3092718637927,Zéro Grenadine,"France, United Kingdom, en:belgium",Teisseire
+8445290728791,KitKat Cereal,"Autriche,Belgique,France,Allemagne,Italie,Maroc,Espagne,Suisse",Nestlé
+0769503575445,Sardine à l’huile végétale,"Switzerland, en:morocco",Marsa
+6111266962583,Luncheon splendida,en:Morocco,Copag
+3046920010283,Excellence Lait Extra Fondant,France,Lindt
+3175681123014,Fourré Cacao sans sucres,"Francia,Polinesia Francesa",Gerblé
+3242274002053,Salade & Compagnie - Antibes,France,sodebo
+3248832940522,Couscous Oriental légumes cuisinés et poulet émincé,France,"WW, Weight Watchers"
+3387390339505,,"Belgique,France,Portugal,La Réunion,Espagne,Suisse","Golden grahams,Nestlé"
+3564700007433,"Fromage blanc au lait demi-écrémé, 3% de Mat. Gr.",France,"Délisse, Marque Repère"
+4008400828121,Kinder Maxi,"Belgium,France,Germany,Spain","Ferrero, Kinder, Mixte"
+5026489483054,Lentil Chips - Sea Salt Flavour,United Kingdom,Eat Real
+5900617003454,,"Poland, en:morocco",Sante
+6111021021005,Aicha Tomate,Maroc,Aicha
+6111251752748,Jus d'orange,"France,Maroc,en:morocco",Valencia
+6921804700269,Crispy Chili oil,"Australia, France, Germany, Netherlands, New Zealand, en:united-kingdom",LAOGANMA
+8480000823281,Pan de Molde 100% Integral,"Portugal,España",Hacendado
+5000157076427,Light Mayonnaise,"France, en:united-kingdom",Heinz
+3220035229000,Pack Cassonade Saint Louis 650g,"France, en:morocco",Saint louis
+6111126005085,Douceur fromage frais,en:ma,Chergui
+4088600391977,Puglian Extra Virgin Oil,"Ireland, en:united-kingdom",Aldi
+4056489530091,Vegetable chips,"Czech Republic, Italy, United Kingdom, en:bulgaria",Deluxe
+6111259343993,Bono,en:ma,Excelo
+6111259341661,Eyoo choc,Morocco,Excelo
+6111262384945,Tobigo,"en:ma,",
+8000500408162,Mon Cherie,"Austria, Germany, Switzerland, en:france",Ferrero
+4014500520049,Protein Drink PLUS,en:morocco,Zott
+6111035503115,vitalya,en:Morocco,vitalya
+6111260232101,Viva,en:Morocco,Fromage
+6111259347113,Top Original,en:Morocco,Be
+3088540255279,Miel de Fleurs BIO liquide Doseur 500g,"France,Sweden",Lune de miel
+3119783007483,Desperados Original aguardiente,"Belgique,France,La Réunion,Suisse","DESPERADOS, HEINEKEN"
+3421557501722,Muesli croustillant tradition,France,Terres et Céréales
+3497911101129,Chips saveur Poulet Braisé,"France, en:morocco",Brets
+3600900006972,tendres perles,"Frankreich, Luxemburg, Germany",Tipiak
+5060088701980,Cocoa Delight,"Ireland,United Kingdom",Nakd
+5449000053879,Diet Coke,"France,United Kingdom",Coca-Cola
+5449000214843,Coca-Cola saveur cerise,France,Coca-Cola
+7622210713803,Petit Déjeuner Chocolat,"Belgique,France,La Réunion,Suisse","Belvita,LU,Mondelez"
+7622210941480,Heudebert Blé complet,"France,Nouvelle-Calédonie",Heudebert
+8000500037874,The golden experience,"France,Allemagne,Martinique,Maroc,Suisse",FERRERO ROCHER
+8000500223369,Biscuits Nutella B-ready x15 gaufrettes fourrées,France,"Ferrero, Nutella B-ready"
+5060198641183,Parmigiano Reggiano & Poppyseed Torinesi Breadsticks,"France, en:united-kingdom",Crosta & Mollica
+6111242071940,yogo fraise,en:ma,extra lait
+4088600169859,Really Nutty Granola,en:gb,Specially Selected
+5059319002811,Raisin Wheats,"Belgium, en:united-kingdom",Kellogg's
+3487400004413,L'original,France,Ebly
+4056489192923,Grana Padano,"França,Alemanha,Portugal,Espanha",Milbona
+6111242106932,Jutos,en:ma,Jaouda تبارك وتعالى
+8480000134073,Mayonesa,"Portugal,Espanha",Hacendado
+3116430216342,Delichoc Milk Chocolate Cookies,Francia,Delacre y
+6291003087158,Breaksta,"Qatar, Saudi Arabia, en:morocco",Tiffany
+5055958705342,Cherry Bakewell Oat Boosts,en:gb,Graze
+3560071472719,Maxi tranches complet,"Belgique,France","Carrefour, Carrefour-classic"
+4056489511182,Cream Crackers,"United Kingdom, en:ireland",Rivercote
+8076809581868,Pesto basilico e pistacchio,"France,Germany,Italy",Barilla
+6111184009650,sauce soja,en:Morocco,Star
+3041090063152,cracotte,"Belgium,France,Réunion",lu
+3155250361825,President spreadable lightly salted,"Belgium, France, en:united-kingdom","Lactalis, Président"
+3165957822017,Filet de sardine,France,Saupiquet
+3228023170068,Coulommiers 21%,France,Président
+3229820787985,Crème de coco légère,France,BJORG
+3329770057234,Câlin,"France,Suisse","Calin 0%, Yoplait"
+5000127049307,Crunchy Nut,"France,Espagne,Émirats arabes unis,Royaume-Uni",Kellogg's
+5053827101424,Smacks,"Bélgica,França,Alemanha,Grécia,Países Baixos,Espanha,Suíça,Reino Unido","Kellogg's, Smacks"
+6111184004259,Hot sauce,"France, en:morocco",Star
+8000500242612,Schoko-Bons,France,"Kinder, Ferrero"
+8002470023147,Huile d'olive vierge extra Vivace,France,Carapelli
+8435185100955,Orangina 50cl,"Morocco, en:cote-d-ivoire",Orangina
+8480000510716,Queso fresco batido desnatado,España,Hacendado
+6111242102934,Yaourt banin,Morocco,Jaouda
+3023290030585,Skyr myrtille,France,Siggi's
+5038862130929,FA-BU-BLEU,"Francia,Svizzera",Innocent
+6111035002113,Oulmes virgin mojito,en:ma,
+4056489027768,Compote pommes allégée en sucres,France,Freshona
+6111259341098,Crak's,en:ma,Excelo
+5000116111978,10 Fish Fingers Omega 3,United Kingdom,Birds Eye
+5060146372756,Oat barista edition unsweetened,United Kingdom,Moma
+0850004207390,Beyond Burger,United Kingdom,Beyond Meat
+3019081241216,Maquereaux vin blanc et aromates,Frankrijk,Petit Navire
+8410679234514,Chocolate Extrafino 80% NOIR 0% azúcares añadidos,"Spain, en:morocco",trapa
+3228857001347,Harrys brioche tranchee pepites de chocolat sans additif 485g,France,Harry's
+6111017045961,Pâte à tartiner aux noisettes,Morocco,Mejora
+8718836396465,Pure collagen,"France, en:belgium",ACTION
+4056489472261,Hazelnut Flavour Pudding,"Bulgarien,Deutschland,Rumänien,Österreich",Milbona (Lidl)
+4056489528005,Coconut Milk,"France, en:united-kingdom","Freshona, Lidl"
+8402001009266,Confitura de Fresa 0%,"Alemania,Marruecos,Portugal,España",Hacendado
+7394376620867,No Sugars Oat Drink,United Kingdom,Oatly
+6111203007353,la hollandaisr 8 p classique,en:Morocco,
+0769503575261,Filets De Maquereaux À L’huile Végétale,en:Morocco,Marsa
+3011360002884,Secret d'arômes plein sud,France,Knorr
+3175681797420,Biscuit Chocolat Céréales,France,gerlinea
+3254381016922,"CRISTALINE Eau de Source Pétillante 0,5L","Belgique,France,Suisse",Cristaline
+3421557501975,Muesli croustillant duo pépites,"France,La Réunion",Terres et céréales bio
+3664346305983,Poulain,"France, Galmudug, en:morocco",Poulain
+5000119082985,White Pittas tesco,Royaume-Uni,Tesco
+5000119684257,FRUIT & FIBRE FRUITY CRUNCH,United Kingdom,TESCO
+5010477338679,Jordans Natural Muesli,"France, en:united-kingdom",Jordans
+5410081200445,Chocolat Noir - l'Original,"France, en:morocco",Côte d'Or
+5410126726947,Biscoff Crunchy Pâte À Tartiner,"Alemania,Marruecos,España,Suiza,Reino Unido",Lotus
+6111180000934,Cube De Bouillon - Boeuf (beef) - 8 Cubes,"France,Maroc",Ideal
+6130760000102,Nature,"Algérie,France",Soummam
+7300400118101,Original,"Bosnia and Herzegovina, Croatia, Czech Republic, France, Germany, Greece, Hungary, Italy, Montenegro, Poland, Serbia, Spain, Sweden, Turkey, United Kingdom, en:romania",wasa
+7622210450098,Prince goût tout Choco au blé complet,"France,en:La Réunion,en:États-Unis",LU
+8020141800002,Acqua minerale naturale Sant'Anna,"France,Italy,Spain",Sant'Anna
+8480000592569,Jamón cocido lonchas,España,Hacendado
+8585002484093,MAGGI Bouillon KUB BIO Légumes 80g,France,Maggi
+3027030011766,Sticks Bretzels d'Alsace L'original,France,Dr. Oetker
+3302740025136,ZERO NITRITE - LE SUPERIEUR,France,Fleury Michon
+5010092736812,Allinson's Scandalous Seeds Wholemeal,"France, en:united-kingdom",Allinson's
+7613036077514,GOLD BLEND Instant Coffee,"United Kingdom,Ireland",Nescafé
+7622210590473,Филаделфия,"Bulgaria, France, Romania, en:latvia","Mondelèz International, Philadelphia"
+4088600021102,Porridge Oat,United Kingdom,"Everyday essentials,Aldi"
+3175681261365,Biscuits Abricot Pistache,France,Gerblé
+4056489301370,Fromage a tartiner,France,Milbona
+5025840005430,Kefir Yogurt,en:gb,Graham’s
+8719200234857,Margarina flora 400 g,España,Flora
+5060088700082,Protein Peanut Butter Bar,"France, United Kingdom, en:switzerland",N?kd
+4014500520032,Protein drink plus,"France, en:morocco",Zott
+3088541002476,Miel de France,France,Famille Michaud
+3228022000298,Beurre Léger Doux 40% MG,"Bulgária,França,Portugal,Roménia,Sérvia,Espanha",Président
+3229820027005,Superlevure,"France,Switzerland",Gayelord Hauser
+3329770051096,Petit Yoplait,France,"Petit yoplait std, Yoplait"
+3451790988042,La Crème Entière De Normandie 30%MG,"Frankreich, Germany",Elle & Vire
+3456300002508,Pur jus de citron,France,"Jardin bio, Léa Nature"
+3564700005835,Lait demi-écrémé,"France,Suisse","Délisse, Marque Repère, Scamark (Filiale E. Leclerc)"
+3760020505936,Bouillon cube Légumes sans sel sans gluten,"France, en:morocco","Jardin Bio, Jardin biologique, Léa Nature"
+5010029201246,Swiss Style Muesli,"Bélgica,França,Alemanha,Itália,Luxemburgo,Portugal,Espanha,Suíça,Reino Unido",Alpen
+5010044000039,Medium Sliced Soft White Bread,United Kingdom,Warburtons
+5010044000305,Danish Lighter White Bread,"France,United Kingdom",Warburtons
+5016084235516,Organic Swiss Vegetable Vegan Bouillon Powder,United Kingdom,Marigold
+6111170000029,"Duval, Sirop De Grenadine 75CL","France,Maroc,en:Maroc",Duval
+7613031370641,Lion cereal with caramel and chocolate,"Algérie,Égypte,France,Maroc,Tunisie",Nestlé
+8076809523509,Pâtes linguine collezione 500g,"Belgien,Frankreich,Deutschland,Vereinigte Staaten von Amerika",Barilla
+5060317350040,Chicken Italia 10 Chipolatas,"France, en:gb",HECK
+5053827199667,Céréales trésor - chocolat au lait,"Belgique,France,Allemagne",Kellogg's
+8480000512031,Queso crema suave,"Portugal,España","Entrepinares,Hacendado"
+5056142400029,mutigrain brown,"France,United Kingdom",jacksons
+5010115900718,Golden Syrup,United Kingdom,Lyle’s
+8480000505453,Havarti,España,Hacendado
+8002470030923,Huile d'olive vierge extra Classico,France,Carapelli
+5411188131380,"Alpro Fermentiertes Kokosnussprodukt, Natur, Absolutely 350g","Germany, Spain, en:belgium",alpro
+5059319004051,Kelloggs Fruit & Fibre 700g,United Kingdom,Kellogg's
+3019081241193,Maquereaux moutarde a l'ancienne,"France,Suisse",Petit Navire
+4088600169842,Very Berry Granola,en:gb,Specially Selected
+8710522920725,AMORA Mayonnaise 5 Ingrédients 400g,France,Amora
+4088600251806,Ancient Grains Farmhouse Bread,en:gb,"Aldi,Specially Selected"
+8480000156624,Kéfir natural,Spain,Hacendado
+3103220048658,300G DRAGIBUS SOFT HARIBO,France,Haribo
+7622201148782,Dairy Milk,United Kingdom,Cadbury
+3599741006312,Epinards hachés à la crème fraîche,France,Findus
+8445290384874,Shreddies,"France,Royaume-Uni",Nestlé
+5013665116738,Sea Salt & Cider Vinegar Veggie Cakes,en:gb,Kallø
+3341430551449,TAM THON,en:ma,
+8480000867865,,España,Hacendado
+5055958706721,chilli and lime protein nut crunch,United Kingdom,graze
+3155251204350,Primevère doux sans huile de palme,France,Primevère
+3168930009030,Chips paysannes,"France,Germany",Lay's
+3178530405743,Gâteau marbré au chocolat,France,bonne maman
+3270190136873,Vinaigre de cidre bio,"France, Morocco, Netherlands, en:belgium",Carrefour BioCarrefour
+3560070720859,Chocolate negro,"France, Italy, Spain, en:morocco","Carrefour, Carrefour Sélection"
+3560071010058,Le pain aux Céréales,France,Carrefour
+3564700014660,Emmental râpé,"France,Suisse","Marque Repère, Les Croisés, Scamark (Filiale E. Leclerc)"
+3760091724632,Pérou grand cru Amazonas 70% note de fruits rouges,France,ETHIQUABLE
+4012359144003,Filets de tofu à la japonaise,"Belgium, France, Germany, Greece, Netherlands, Spain, Switzerland, en:united-kingdom",Taifun
+5000119092502,Scottish Oats,"France,United Kingdom",Tesco
+5000168085593,Melts Cheese,"France,United Kingdom",Carr's
+5010029204247,"Weetabix, Crunchy Bran","France,Royaume-Uni",Weetabix
+5014213001063,Smooth peanut butter,"United Kingdom, en:ireland",Meridian
+5050083197840,Rice crispies multigrain shapes,"France,Irlande,Royaume-Uni",Kellogg's
+6111126001605,Juice,"France,Morocco",Chergui
+6111242100800,Zahra Bayane,"France,Maroc",linea
+6111246720790,Petit frais,"France, en:morocco",
+8000430138719,mozzarella,"Frankrijk,Duitsland,Italië,Japan,Spanje,Zwitserland,Verenigd Koninkrijk",Galbani
+8010265640202,Corn Flakes,"Greece, Italy, Spain, en:france",Kellogg's
+8410199013545,Cheetos Sticks Palitos,"France, en:morocco",Cheetos
+8410261657424,Limonada natural,"Morocco, Spain, en:france",Don Simón
+8480000180186,Atún claro al natural,"Alemania,Rumania,España",Hacendado
+5053827193368,Bran Flakes,"France,United Kingdom",Kellogg's
+8727200500209,REFRIED BEANS,"Spain, en:gb",Old El Paso
+6111017040881,Napolitain noir,"France,Morocco",Aiguebelle
+3073781115345,KIRI CREME - 8 portions,"France,Maroc,Suisse,Frankreich",Kiri
+7311070032574,"Golden Wheat Swedish Krisprolls, 7.9oz (225g)",Francia,Pagen
+3045320094015,Bonne Maman Strawberry And Wild Strawberry 370G,"France, en:united-kingdom",Bonne Maman
+3302740030932,"Parmentier de saumon, sauce ricotta épinards",France,Fleury Michon
+5010029013047,Ready brek original,United Kingdom,Ready brek
+5036589253532,Super Thick Kerned Yogurt,en:gb,Yeo Valley
+7613287176561,NESTLE DESSERT Pâte à tartiner 340g,France,"Nestlé, NESTLE DESSERT"
+3229820801087,Avoine sans sucres,France,Bjorg
+3154230802280,HERTA Lardons fumés conservation sans nitrite - 2x75g,France,Herta
+4056489546108,Cracker épeautre et 3 graines,France,MAÎTRE JEAN PIERRE
+4056489687337,Muesli Crunchy,France,"Crownfield, Lidl"
+5060526430601,superloaf,en:United Kingdom,modern baker
+4061459290349,Oat Milk,"United Kingdom, en:ireland",Actileaf
+5449000318947,Schweppes citron 45cl,"France, en:morocco",Schweppes
+8445290204417,Nescafé Gold,"الجزائر,المغرب","Nestlé,nescafe"
+8000500425183,Nutella-Eis,"Österreich,Frankreich,Deutschland,Italien",Nutella
+3017760656092,Duo Fourré Goût Chocolat 🍫 Noisette 🥜,"Belgique,France",Belvita
+3038352880305,Le Ravioli pur boeuf,"Belgique,France,Allemagne,Suisse",Panzani
+3045320001570,Confiture Framboises,"Belgique,France,Suisse",Bonne Maman
+3048431001958,VITTEL eau minerale naturel 50cl,"Belgique,France",Vittel
+3123930711703,Emmental Français Sans additif,France,Entremont
+3163937010003,Pastis de Marseille,"Belgique,France,Suisse",Ricard
+3229820784946,Amande chocolat,"Francia,Martinica,Marruecos,España",Bjorg
+3245413451804,Avoine,"Belgique,France,Guadeloupe,Italie,Maroc,Pologne,Roumanie,Espagne",Carrefour BIO
+3259426021053,Le Moelleux,France,Ker Cadélac
+5000181024043,Semi-Skimmed Milk 4pts,United Kingdom,"Cravendale, Duracell, Tesco"
+5010003000292,granary wholemeal bread,"France,United Kingdom",Hovis
+5010029221701,PROTEIN,"France,United Kingdom",Weetabix
+5010061001613,Chopped Tomatoes,"France,United Kingdom",Napolina
+5011038135126,Softer Butter,"France, en:united-kingdom",Kerrygold
+5013683305527,Lincolnshire sausages,United Kingdom,Cauldron
+5740900805408,Lurpak Spreadable Slightly Salted,"France, United Kingdom",Lurpak
+8005110060007,Geschälte Italienische Tomaten,"Australien,Danmark,Frankrig,Tyskland,Italien,Storbritannien",Mutti
+8410376013191,Mini mix,"Algérie,France,Espagne, en:belgium, en:morocco",Gullón
+8410376042498,Galletas Desayuno Zero Sin Azúcares,"Bolivia,Francia,Alemania,Rumania,España,Túnez",Gullón
+8480000094889,Copos de trigo integral y arroz 0% azúcares añadidos,"Portugal,España","Hacendado,Mercadona"
+8712566246496,L’original,"Belgien,Frankreich,Deutschland,Japan,Schweiz",Maille
+8801043150620,"Shin Ramyun Instant Noodles, Hot & Spicy","Croatia,France,Germany,South Korea,Switzerland,United Kingdom,Lithuania",NONGSHIM
+6111101001446,Asta black,Morocco,
+5013803001070,"Low Sugar Granola, Wholegrain Oats, Almonds & Seeds","France,United Kingdom,en:united-kingdom",Eat Natural
+4056489041320,Bio napitak od zobi,"Bugarska,Hrvatska,Češka,Francuska,Njemačka,Mađarska,Litva,Rumunjska,Slovačka,Slovenija",Vemondo
+8719200038059,Lätta Original,"Allemagne,Suisse","Lätta, Upfield"
+3330720238191,Pâte à tartiner 40% noisettes du Lot-et-Garonne et cacao,France,Lucien Georgelin
+4056489108375,Краве масло 82%,"Bulgaria, Croatia, Germany, Romania, Serbia, en:hungary",Pilos
+6111242040823,Chips chili,en:ma,
+5056053305802,Vegetable soup,en:gb,New Covent Garden
+4056489346364,Coconut And Rice Milk,"Bulgaria,France,Italy,Switzerland,United Kingdom",Vemondo
+5000169603550,Baked beans in tomato sauce,en:gb,Waitrose
+4088600475851,Chunky chopped tomatoes,United Kingdom,Aldi
+8076809582209,"Gran Cereale classico, Fiocchi d avena, farrone orzo","Italia,Svizzera","Barilla, Gran Cereale, Mulino Bianco"
+5017764003111,Lightly Salted Potato Chips,United Kingdom,Kettle
+5036589255710,Fruity favourites,en:gb,Yeo Valley
+6111242882164,Douceur de fromage,en:Morocco,Rafii
+5059319025711,Special K Chocolat noir,"Belgique,France",Kellogg's
+3760381260819,Mousline Nature,France,Mousline
+4061464727755,Smooth Peanut Butter No Added Palm Oil,"United Kingdom, en:ireland",The Foodie Market
+8719200265806,Margarina Tulipán,España,Tulipan
+6111024001295,زيت المائدة المختارة,en:Morocco,Oléor
+3228857002351,Pain de mie american sandwich complet sans sucres ajoutés maxi 900g,France,Harrys
+3175681170841,"Ravioli au tofu, tomates, basilic",France,Céréal Bio
+3177500000742,Unleavened Breads,France,Biscuiterie d'Agen
+3178530402988,Tartelettes citron,"Belgium, France, Germany, Switzerland, en:united-kingdom",Bonne Maman
+3229820181899,Quinoa Tomates Olives,"France,Switzerland",Bjorg
+3259011799909,Galettes millet et boulghour aux champignons,France,Céréal bio
+3392460481671,Grany Noisettes 5 céréales,"Belgium,France,Switzerland",LU
+3760056260076,Parmigiano Reggiano,"Belgique,France","Casa azzurra,Granarolo"
+5000157026071,Baked Beans,"Vereinigtes Königreich, Germany",Heinz
+5010084103677,Ready Rolled Puff Pastry Sheet,"France,United Kingdom",Jus Rol
+5014008002237,2 Vegetarian Mozzarella Burgers,"France,Ireland,United Kingdom",Linda McCartney
+5050974000556,Fruit Crunch Crisp,"France,United Kingdom",Ryvita
+5053990107292,Pringles Hot & Spicy,"France, en:morocco",PRINGLES
+6111251752762,Abtal,"France,en:morocco",Valencia
+8000500217078,Nutella B-ready,"Autriche,Belgique,France,Allemagne,Italie,La Réunion,Roumanie,Suisse","Ferrero,Nutella b-ready"
+8410376037784,Sandwich Zero Sin Azúcares,"Portugal,Espanha",Gullón
+8712566246526,Maille Cornichons Extra-Fins L'Original Bocal 380g,"France, Suisse, Germany",Maille®
+5057545807132,Spinach and Ricotta Tortelloni,"France, Ireland, en:united-kingdom",Tesco
+3080216052885,1664,France,"1664 Blonde, Kronenbourg"
+5053827209205,Corn Flakes Cereal,"France, United Kingdom, en:ireland",Kellogg's
+4056489135524,Sunflower Oil,"Belgien,Tjeckien,Frankrike,Tyskland,Irland,Nederländerna,Storbritannien,Sverige","Vita d'Or, VitaD'or"
+5060198640407,Piadina,Reino Unido,Crosta & Mollica
+3165433864012,Profil pack pure canne bio kraft daddy 750g,France,Daddy
+8480000209085,Yogur Proteínas Natural 0%,"Portugal,España",Mercadona
+3564706612792,Muesli 4 Noix,France,"Marque Repère, Grainéa"
+8480000838865,Integral familiar 100%,España,Hacendado
+5057753941246,Greek Style Natural Yogurt,en:United Kingdom,Creamfields
+8410014488183,Nocilla original,"Spain, en:morocco",Nocilla
+0643435040823,Chocolat noir pâtissier,"Finland, en:france",Nestlé
+5000157146342,"Tomato, Grana Padano & Mascarpone","Ireland, en:united-kingdom",Heinz
+6111028000997,Kiri carré 12p,en:ma,Kiri
+3124480196248,"SCHWEPPES AGRUMES ZERO 1,5L",France,s.a schweppes international
+4056489791799,Bio Mango-Lime,"Belgium,Czech Republic,France",Lidl
+6111266750753,Tchico peanuts,Morocco,Révey
+3168930010869,,"France,Italie,Suisse",QUAKER
+3178530410136,Madeleines aux œufs de poules élevées en plein air,France,St Michel
+3228857000180,Pain AMS complet,"Frankreich,Schweiz",Harrys
+3280640653010,Saint Agur Crème,"Frankreich, en:de","Saint Agur, Savencia"
+3392460460409,Crackers heudebert,"France,Polynésie française,La Réunion","Heudebert,LU,Mondelez"
+3445850024023,Sel moulu de Guérande,France,Le Guérandais
+3523230030793,Beurre demi sel aux crisraux de sel de Mer de Noirmoutier,"Frankreich, Schweiz, Germany",Grand Fermage
+4001954165018,Kerrygold Extra Butter & Rapsöl - ungesalzen,Deutschland,"Kerrygold,Ornua Deutschland"
+5010029204209,Weetabix organic imp,"France, en:united-kingdom",Weetabix
+5010115902941,Lyle's Golden Syrup,"Francia,Sudán,Reino Unido",Abram Lyle & Sons
+5013803991982,Crunchy Nut Bars with Peanuts & Chocolate,"België,Frankrijk,Nederland,Verenigd Koninkrijk",Eat Natural
+5038862234115,Super Smoothie Antioxydant,France,Innocent
+5060238480765,naturya organic cacao powder,"France,United Kingdom",Naturya
+5060336500020,Sarsons Malt Vinegar imp,"France,United Kingdom",Sarson's
+5201037709774,Yaourt grec,France,Delta
+5410081200551,200G CHOC LAIT COTE D OR,"Belgium, France, Switzerland, en:morocco","Côte d’or, Mondelez"
+7613035781627,MAGGI Bouillon KUB Légumes,"Frankreich, Germany",Maggi
+7622210998095,Monaco,"Belgique,France,La Réunion,Suisse","Belin, Mondelez"
+8002210125070,Balsamic vinegar of Modena,"France,United Kingdom","Filippo Berio,Trevi"
+8076800195033,Pâtes Spaghettini N°3 500G,"Australia, Austria, France, Germany, Romania, Switzerland, en:italy","Barilla, Barilla Nr. 3"
+8076809522533,Gran Cereale Cioccolato,"Italia,España",Gran Cereale
+8410376009408,Doradas al horno zero sin azúcares,"Portugal,España",gullón
+8410376033267,Digestive Avena,"Argélia,Bulgária,França,Marrocos,Espanha",Gullón
+8480000171634,tomate frito receta artesana,"Francia,España",Hacendado
+8710482532303,Trigo Espelta Crackers,"Portugal,Espanha",Bachman
+8712100872273,Maille Moutarde Fine De Dijon L'Originale Verrine 165g,France,Maille
+8718114724430,Light Mayonnaise,"France, United Kingdom, en:ireland",Hellman's
+6111180000484,Flan,Maroc,
+5060088707975,Raw Fruit & Nut Bars - Salted Caramel,"United Kingdom, en:ireland",nākd
+5202390021121,Crémeux saveur original,"Belgium,France,Germany,Netherlands,Romania,Spain,Guadeloupe",Violife
+5057545744741,Baked Beans,United Kingdom,Stockwell & Co.
+6111184007625,Sauce andalouse star 290 g,"Democratic Republic of the Congo,Morocco",Star
+5054781841210,Madagascan Dark Chocolate,United Kingdom,"Extra Special, Asda Extra Special"
+4056489518624,Barista Oat milk - Vemondo,"United Kingdom, en:ireland",Vemondo
+8902080000227,Sting Energy,India,Sting
+4056489664567,Süßstoff,"Belgium, Germany, Morocco, Netherlands, Romania, Spain, en:bulgaria",Lidl
+3760324300145,Suprêmes panés végétaux et gourmands,France,HappyVore
+4056489695370,"Boisson au soja, sucré","Bulgaria, Germany, Romania, en:switzerland",Vemondo
+6111250476744,Confiture de figue,en:Morocco,
+5010029229110,"Crispy Minis Choco, céréales de blé complet enrichies en vitamines et en fer avec du chocolat","Royaume-Uni,Belgique",Weetabix
+8410076611277,Barres protéinées aux chocolat et cranberries sans gluten,"Belgique,France",Nature Valley
+4000405002360,Vegane Pommersche - Schnittlauch,Deutschland,Rügenwalder Mühle
+5060482841978,Cacao & Orange Oat Bars,en:United Kingdom,Deliciously Ella
+3183280000650,Sel fin iodé et fluoré,"France, en:reunion",La baleine
+3225355490925,BLE 70CL DELICES AGRUMES PULCO,France,Pulco
+3250391896554,Flocons d'avoine complète 500g,"Belgium, France, Netherlands, Poland, en:martinique",Chabrior
+3261055930439,Le Cassoulet Mitonné,"France,La Réunion",William Saurin
+3564700019252,10 Pains au lait au levain,"France,Italie","Marque Repère, Épi d'Or"
+3599741003380,Colin d'Alaska MSC façon Fish & Chips,France,Findus
+5000112558272,PET 50CL COCA COLA,"France,Suisse",Coca-Cola
+5000137415970,Cream Crackers Original,"France,United Kingdom",Jacob's
+5010044000275,Toastie White Bread,"France,Royaume-Uni",Warburtons
+5053827110679,Froot Loops,"Bélgica,França,Alemanha,Portugal,Espanha,Suíça",Kellogg's
+6111245460086,Pain de Mie Complet,"France,en:morocco",Assylor
+6191507220214,Lait U.H.T demi-écrémé,Tunisia,Vitalait
+7613036669498,CHEERIOS BIO Céréale 375g,"Belgique,France,Suisse","Nestlé, Cheerios"
+8000070200289,CARTE NOIRE,"France, en:morocco","Carte Noire, Lavazza"
+8076809504720,Pan Bauletto Bianco,"France,Italy","Barilla,Mulino Bianco"
+8076809545457,Penne Rigate Senza Glutine,"Belgique,Croatie,France,Allemagne,Italie,Pays-Bas,Suisse,Royaume-Uni",Barilla
+8076809572569,Pesto Basilico Vegan,"France,Germany,Italy,Spain",Barilla
+8715700016504,Ketchup,"Österreich,Belgien,Dänemark,Finnland,Frankreich,Deutschland,Litauen,Niederlande,Norwegen,Schweden,Schweiz",Heinz
+3700214618240,Hazelnut Based Chocolate Spread,"France,Espagne",Alter Eco
+5060283760041,Proper Corn Sea Salted Popcorn,"Belgium, France, Netherlands, en:united-kingdom",Proper
+5057753181369,Soya Drink Unsweetened,United Kingdom,"The Grower's Harvest, Tesco"
+4056489041313,Bio Organic Almond Drink,"Belgium, Czech Republic, Germany, Italy, Romania, en:bulgaria","Milbona, Vemondo"
+5060298571250,Blossom Honey,Royaume-Uni,Hilltop Everyday
+6111259090132,Pizzarella premium,en:Morocco,Gastro mixte
+5060482840759,Peanut Butter Oat Bar,"France, United Kingdom, en:ireland",Deliciously Ella
+5014276701139,White Miso,United Kingdom,Yutaka
+4056489334538,British cold pressed rapeseed oil,"France,United Kingdom","Deluxe, Lidl, Lidl Deluxe"
+5060719920285,Black Forest cherry dark chocolate,"France,Royaume-Uni",Montezuma's
+3083681148626,Carottes rapees citron dnp 500g,"en:fr, Belgique, Luxembourg",Bonduelle
+4001724038993,Ristorante PIZZA TONNO,"Austria,Francia,Alemania,España",Dr. Oetker
+3329770082342,Skyr nature (8x Nature),France,Yoplait
+8445290044853,Decaff Americano,"United Kingdom, en:ireland",Nescafé Azera
+5013665116233,Drizzler Super Smooth Peanut Butter,en:gb,Whole Earth
+8480000860743,Jamón cocido extra finas lonchas,España,Hacendado
+4003143005402,novobac,en:Morocco,p.n.f
+4061463578013,Organic Super Firm Tofu,en:gb,Plant Menu
+4056489695387,Boisson au soja,"France,Pologne",Vemondo
+5411188139126,Iogurte Sabor Natural Coco,"Luxemburgo,España",alpro
+3168930173311,Doritos goût nature,en:fr,Doritos
+6111266070974,Baraani,en:Morocco,Baraani
+6111018909170,,Morocco,Nestlé
+3018930004903,Bretzels d'Alsace maxi,"France,Guadeloupe","Dr. Oetker, Ancel"
+3045320001525,Confiture Fraises,"Estonie,France",Bonne Maman
+3270190136880,Moutarde de Dijon,"France, United States, en:morocco","Carrefour BIO, Carrefour"
+3564700582633,Petits pains grillés blé complet,France,"Marque Repère, Épi d'Or"
+3564707117203,Lait Amande calcium,"France,Réunion","Bio Village, Marque Repère"
+3760049791266,6 pains suedois 180g,France,La Boulangère
+5000358462043,Balsamic Vinegar of Modena,"France,United Kingdom",Tesco
+5051140474201,Dijon Mustard,"France, Ireland, United Kingdom",Tesco
+5060139430364,Yoyos Strawberry Multipack 5 x,"France, en:united-kingdom",BEAR
+5941868200087,Maispops,"Austria,Germania,România,Elveția",Gusto
+6111249960988,Capri Vanille,Morocco,Excelo
+7613033687884,MAGGI Bouillon KUB Volaille 180g,"France,Suisse","Nestlé, Maggi"
+7613035694897,Pavé Gourmand Epinards et Fromage,France,Garden gourmet
+7622210450029,Prince - Goût Lait - Choco Au Blé Compet,"Canada,France,Switzerland",LU
+8003753900438,"Illy Classico 100% Arabica, 250g","Австралійський Союз,Бельгія,Франція,Німеччина,Італія,Марокко,Румунія,Велика Британія,Україна",Illy
+8714100846179,Maille Vinaigrette Légère Vinaigre de Vin Rouge & Échalotes 36cl,"France, Germany",Maille
+5999884034469,HELL,"Bulgaria,Grecia,India,Marruecos,Rumania,España,Túnez",Hell
+6111242105270,Ghilal,Morocco,Jaouda
+5018297006464,Bakery Co. 5 The Original Bagels Fresher for Longer,"France, en:united-kingdom",New York Bakery Co
+6111162001553,Double concentre de tomate,"France,Maroc",Delicia
+6111126002640,Daya mini vani,"en:france,en:morocco",Chergui
+6111259340886,Chocup milky,"en:france, en:morocco",Excelo
+3229820797922,Coco sans sucres,"France,Morocco",Bjorg
+8711200461004,Amora Sauce Crudités Caesar Bouteille 380ml,France,Amora
+8480000212566,Yogur natural proteínas 0%,España,Hacendado
+3248830000143,Pâte à tarte brisée - Pur beurre,France,Marie
+8711200389186,Vegan Mayo,"France,Royaume-Uni",Hellmann's
+6111184001739,Star sauce salade au basilic,en:ma,Star
+3046920016377,LINDT EXCELLENCE 100% COCOA,"Autriche,France,Allemagne,Italie,Espagne",Lindt
+5057753897413,Mayonnaise,en:gb,Tesco
+4056489258346,High Protein Joghurterzeugnis - Heidelbeere,"Bulgaria,Croatia,Germany,Lithuania,Romania,Slovenia,Spain,Switzerland",Milbona
+5060283762427,Salt & Vinegar Lentil Chips,United Kingdom,Proper
+3456300014556,Fourrés Chocolat🍫,France,"Jardin bio, jardin bio étic Léa Nature"
+3660603081843,Mayonnaise,France,Bénédicta
+6111242107441,lait sans lactose,ma,Jaouda
+8723300710739,Vitamine D 10,"France, Morocco, en:belgium",Innovit
+5060853640131,Cocoa & Hazelnut Gut-Loving Granola,"United Kingdom,Ireland",Bio & Me
+5056138201807,Suckies Strawberry,en:gb,The Collective
+3154230809357,HERTA LE BON PARIS Jambon à l'étouffée x6 -255g,France,"HERTA, Le Bon Paris"
+3168930170570,Ice tea,France,Lipton
+8711327615380,Carte D'Or Les Essentiels Glace Crème Glacée Vanille 700ml,France,"Carte D'or, Les Essentiels"
+6111270961442,Nooco,en:Morocco,nooco
+6111031005651,Golden,en:Morocco,Bimo
+3307130803004,Ratatouille à la provençale,France,"Jardin Bio,Jardin biologique,Léa Nature"
+0078895126389,Premium dark soy sauce,"Australia,Czech Republic,France,Germany,New Zealand,United Kingdom",Lee Kum Kee
+3011360007421,Knorr Soupe Minestrone à l'Huile d'Olive 104g 4 Portions,"Belgique,France","Knorr, Unilever"
+3023290007310,Petit nesquik,"Belgique,France,Suisse",Nestlé
+3032220061100,PRESIDENT BURGER CHEDDAR EMMENTAL 12 TRANCHES 200g,France,"Lactalis, Président"
+3036810230860,Vinaigre de cidre,"France, Senegal, en:morocco","Maille, Unilever"
+3068320014067,Evian 75cl PET,"Australia,France,Morocco,Spain,Sweden,Switzerland,United Kingdom,Cambodia",Evian
+3175681061460,Cuisiné cappelletti,"Belgique,France,en:france",Céréal BIO
+3252378000954,Sel fin iodé,France,Cérébos
+3431410001023,Crêpes dentelle - L'authentique,"France,Suisse",Gavottes
+5000254019051,Baking Powder,"Germany,United Kingdom",Dr. Oetker
+5031021069665,Scottish Rough Oatcakes,"United Kingdom, en:ireland",Tesco
+5031021679253,Extra Virgin Olive Oil,"France, United Kingdom, en:ireland",Tesco
+5410126832051,LOTUS Gaufre de Liège - Perles de sucre - 315g (7x1p),"Belgium,France","Lotus Bakeries, Lotus"
+6111184001036,"Vinaigre Alcool Colore,","France,Maroc",National
+7613035144699,NESTLE NESQUIK Céréales 450g,"France,Guadeloupe,La Réunion,Sénégal,Espagne,Suisse","Nestlé, Nesquik"
+7622210438294,L'Original noir,France,"Côté d'Or, Mondelez"
+8076809543934,Provencale 400g fra,"France,Italie",Barilla
+5060482840209,Apple & Raisin Oat Bar,"France,United Kingdom",Deliciously Ella
+4056489167853,Muesli Crunchy 0%,"Portugal,España","Crownfield,Lidl"
+5060406461701,Raw Greens Virgin Smoothie,en:gb,Mockingbird
+6221007032588,Cerelac,en:ma,Nestlé
+8480000213587,Griego Ligero Natural,Espanha,Hacendado
+8410783344468,Delizias pechuga de pavo,España,NOEL
+4088600190112,British unsalted butter,United Kingdom,"Aldi,Cowbelle"
+4056489383444,Spreadable west contry butter,en:gb,Lidl
+5057753934996,Reduced Sugar and Salt Baked Beans,en:United Kingdom,Tesco
+7613287413048,,"Morocco,Saudi Arabia",Nesquik
+6111265800503,Albane,en:ma,albane
+3073781177916,Mini Babybel Original,France,"Babybel,Mini babybel"
+3073781178005,Babybel,en:fr,"BABYBEL, Mini babybel"
+8480000862150,Picos 100% integrales,España,Hacendado
+3229820803449,Galettes riz chocolat noir,France,Bjorg
+5061013962506,predator,en:Morocco,
+3017230000059,Olives noires confites dénoyautées bocal 150g,France,Tramier
+3017760306492,Prince petit dej,"Belgique,France,La Réunion,États-Unis",Lu
+3019081238650,Sardines huile d'olives et piment,"France, en:united-kingdom",Parmentier
+3033491350795,Activia bifidus saveur citron,"Belgium,France","Activia, Danone"
+3045320083453,Pomme vanille,"France, Suisse, en:french-polynesia, en:new-caledonia",Andros
+3155251205449,Ma Crème anglaise,France,Bridélice
+3179140213964,,France,Vahiné
+3187670002347,Pancakes sans conservateurs Farine de blé issue de Moulins Français,"France,Switzerland",Brioche Pasquier
+3251490432650,Croq' soja à la provencale,"France,Switzerland",Céréal Bio
+3272770093590,St Moret Ligne & Plaisir 8% Minis,France,"Fromarsac, Savencia, St Moret"
+3366321051631,matière grasse,"Belgique,France","St Hubert,St Hubert Oméga 3"
+4012860003110,Senf Mittelscharf,Deutschland,"Bautz'ner,Bautzner"
+5000119003867,Tesco Smooth Peanut Butter 340G,United Kingdom,Tesco
+5011308000994,Tikka Masala Spice Paste,"Australia, France, New Zealand, en:united-kingdom",Patak's
+5014271400426,Strawberry High Fruit Content Spread,"United Kingdom, en:it",St. Dalfour
+5053827189927,Special K High Protein,"Belgique,France",Kellogg's
+5053990106981,Pringles Cașcaval,"Hungary, Morocco, Romania, Russia, Spain, en:ukraine",Pringles
+5410013100003,Spa reine,"Belgique,France,Luxembourg,Pays-Bas",spa
+6111046001433,,"France,Maroc,en:Maroc",Jaïd
+7300400114714,Vollkorn Roggen,"Österreich,Frankreich,Deutschland,Griechenland,Schweiz",Wasa
+7622210249661,Bournville Dark Chocolate bar,"France,United Kingdom,United States",Cadbury
+8004880810058,Monte Regale Italian Spaghetti,"France, en:morocco",Monte Regale
+8722700197508,Vinaigre Balsamique de Modène 25 cl,"France,Italie",Maille
+8852018101055,Shrimp Flavour,"Finland,France,Germany","YumYum, Yum Yum"
+9417986941806,Sweet Chilli Rice Crackers 100G,"France,Royaume-Uni",Sweet Chilli
+6111032000082,Blédilait Croissance,Morocco,Danone
+6111242041356,Fakiat,"France, en:morocco",
+3664346304863,Chocolate Orange Milk,"United Kingdom, United States, en:romania",Terry's
+6111126003852,daya vani sghira,"en:france, en:morocco",Chergui

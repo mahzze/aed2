@@ -1,7 +1,7 @@
 #ifndef PRODUTO_H
 #define PRODUTO_H
 
-#define MAX_TEXT 200
+#define MAX_TEXT 300
 
 typedef struct Produto{
     char nome[MAX_TEXT];

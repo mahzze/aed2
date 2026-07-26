@@ -27,7 +27,7 @@ void TrieInsertBin(Trie *raiz,
 Produto *TrieSearchBin(Trie *raiz,
                        const char *codigo);
 
-void TrieDeleteBin(No *raiz);
+void TrieDeleteBin(Trie *raiz);
 
 Produto *TrieRemoveBin(Trie *raiz, const char *codigo);
 

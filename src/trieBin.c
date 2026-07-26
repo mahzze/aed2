@@ -74,15 +74,25 @@ Produto *TrieSearchBin(Trie *raiz, const char *codigo){
     return atual->produto;
 }
 
-void TrieDeleteBin(No *raiz){
+void TrieDeleteBinRec(No *raiz){
 
     if(raiz == NULL)
         return;
 
     for(int i = 0; i < M; i++)
-        TrieDeleteBin(raiz->filho[i]);
+        TrieDeleteBinRec(raiz->filho[i]);
 
     free(raiz->produto);
+    free(raiz);
+}
+
+void TrieDeleteBin(Trie *raiz){
+
+    if(raiz == NULL)
+        return;
+
+    TrieDeleteBinRec(raiz->root);
+
     free(raiz);
 }
 

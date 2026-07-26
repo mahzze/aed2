@@ -1,35 +1,31 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <time.h>
 
 #include "trie.h"
 #include "dataset.h"
 
-// leitura dos dados e construcao da trie
-
-// implementação de uma API de buscas na trie, recebendo inputs, e mostrando
-// o output e o tempo necessario para encontrar cada registro. Talvez valha
-// a pena colocar a API em arquivo proprio e depois integrar tudo, mas parece
-// simples o bastante para deixar em um arquivo único.
-// ideia das operaçoes: 
-// 0 - busca de um código de barras especifico.
-// 1 - filtragem por empresa 
-// 2 - sair
-
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <time.h>
-
-#include "trie.h"
-
-#define MAX_PRODUTOS 1000000
-#define REP 1
-#define PREFIXO 5
+#define MAX_PRODUTOS 10000
+#define REP 100
+#define PREFIXO 6
 
 char codigos[MAX_PRODUTOS][14];
+char nomes[MAX_PRODUTOS][200];
+char paises[MAX_PRODUTOS][200];
+char brands[MAX_PRODUTOS][200];
+
 int nCodigos = 0;
+
+double Media(double tempos[], int n){
+
+    double soma = 0.0;
+
+    for(int i = 0; i < n; i++)
+        soma += tempos[i];
+
+    return soma / n;
+}
 
 void LerCodigos(const char *arquivo){
 
@@ -46,7 +42,13 @@ void LerCodigos(const char *arquivo){
 
     while(fgets(linha, sizeof(linha), fp)){
 
-        sscanf(linha, "%13[^,]", codigos[nCodigos]);
+        sscanf(linha,
+               "%13[^,],%199[^,],%199[^,],%199[^\n]",
+               codigos[nCodigos],
+               nomes[nCodigos],
+               paises[nCodigos],
+               brands[nCodigos]);
+
         nCodigos++;
     }
 
@@ -85,131 +87,214 @@ int main(int argc, char *argv[]){
     printf("Produtos: %d\n", nCodigos);
     printf("Repeticoes: %d\n\n", REP);
 
-    /*=========================
-      CRIAÇÃO
-    =========================*/
+/*=========================
+  CRIAÇÃO
+=========================*/
+
+double tempos[REP];
+
+for(int r = 0; r < REP; r++){
+
+    fp = fopen(argv[1], "r");
+
+    if(fp == NULL){
+        perror("Erro");
+        return 1;
+    }
 
     ini = clock();
 
-    Trie *root = TrieCreate(fp);
+    Trie *rootTeste = TrieCreate(fp);
 
     fim = clock();
 
-    int nos;
-    size_t memoria = TrieMemoria(root, &nos);
-
-    printf("\n===== MEMORIA =====\n");
-    printf("Nos               : %d\n", nos);
-    printf("Memoria da trie   : %.2f KB\n", memoria / 1024.0);
+    tempos[r] = TempoMs(ini, fim);
 
     fclose(fp);
+    TrieDelete(rootTeste);
+}
 
-    printf("Criacao              : %10.3lf ms\n",
-           TempoMs(ini,fim));
+double mediaCriacao = Media(tempos, REP);
+
+/* Cria a trie definitiva para os demais testes */
+
+fp = fopen(argv[1], "r");
+
+if(fp == NULL){
+    perror("Erro");
+    return 1;
+}
+
+Trie *root = TrieCreate(fp);
+
+fclose(fp);
+
+int nos;
+size_t memoria = TrieMemoria(root, &nos);
+
+printf("\n===== MEMORIA =====\n");
+printf("Nos               : %d\n", nos);
+printf("Memoria da trie   : %.2f KB\n", memoria / 1024.0);
+
+printf("Criacao              : %10.3lf ms (%.3lf us/prod)\n",
+       mediaCriacao,
+       mediaCriacao * 1000.0 / nCodigos);
+/*=========================
+  INSERÇÃO
+=========================*/
+
+for(int r = 0; r < REP; r++){
+
+    Trie *rootInsert = malloc(sizeof(Trie));
+    rootInsert->root = NewNode();
+
+    ini = clock();
+
+    for(int i = 0; i < nCodigos; i++){
+
+        TrieInsert(rootInsert,
+                   codigos[i],
+                   nomes[i],
+                   paises[i],
+                   brands[i]);
+    }
+
+    fim = clock();
+
+    tempos[r] = TempoMs(ini, fim);
+
+    TrieDelete(rootInsert);
+}
+
+double mediaInsert = Media(tempos, REP);
+
+printf("Insercao             : %10.3lf ms (%.3lf us/op)\n",
+       mediaInsert,
+       mediaInsert * 1000.0 / nCodigos);
 
     /*=========================
       BUSCA EXISTENTE
     =========================*/
+for(int r = 0; r < REP; r++){
 
     ini = clock();
 
-    for(int r=0;r<REP;r++)
-        for(int i=0;i<nCodigos;i++)
-            TrieSearch(root,codigos[i]);
+    for(int i = 0; i < nCodigos; i++)
+        TrieSearch(root, codigos[i]);
 
     fim = clock();
 
-    printf("Busca existente      : %10.3lf ms (%.3lf us/op)\n",
-           TempoMs(ini,fim),
-           TempoMs(ini,fim)*1000.0/(REP*nCodigos));
+    tempos[r] = TempoMs(ini, fim);
+}
+
+double mediaBusca = Media(tempos, REP);
+
+printf("Busca existente      : %10.3lf ms (%.3lf us/op)\n",
+       mediaBusca,
+       mediaBusca * 1000.0 / nCodigos);
 
     /*=========================
       BUSCA INEXISTENTE
     =========================*/
+for(int r = 0; r < REP; r++){
 
     ini = clock();
 
-    for(int r=0;r<REP;r++){
+    for(int i = 0; i < nCodigos; i++){
 
-        for(int i=0;i<nCodigos;i++){
+        char codigo[14];
 
-            char codigo[14];
+        strcpy(codigo, codigos[i]);
 
-            strcpy(codigo,codigos[i]);
+        codigo[11] = (codigo[11]=='9') ? '8' : '9';
+        codigo[12] = (codigo[12]=='9') ? '8' : '9';
 
-            codigo[12] = (codigo[12]=='9') ? '8' : '9';
-
-            TrieSearch(root,codigo);
-        }
+        TrieSearch(root, codigo);
     }
 
     fim = clock();
 
-    printf("Busca inexistente    : %10.3lf ms (%.3lf us/op)\n",
-           TempoMs(ini,fim),
-           TempoMs(ini,fim)*1000.0/(REP*nCodigos));
+    tempos[r] = TempoMs(ini, fim);
+}
+
+double mediaBuscaInv = Media(tempos, REP);
+
+printf("Busca inexistente    : %10.3lf ms (%.3lf us/op)\n",
+       mediaBuscaInv,
+       mediaBuscaInv * 1000.0 / nCodigos);
 
     /*=========================
       PREFIXOS
     =========================*/
+int digitos[10];
 
-    int digitos[10];
+for(int r = 0; r < REP; r++){
 
     ini = clock();
 
-    for(int r=0;r<REP;r++){
+    for(int i = 0; i < nCodigos; i++){
 
-        for(int i=0;i<nCodigos;i++){
+        char prefixo[PREFIXO+1];
 
-            char prefixo[PREFIXO+1];
+        strncpy(prefixo, codigos[i], PREFIXO);
+        prefixo[PREFIXO] = '\0';
 
-            strncpy(prefixo,codigos[i],PREFIXO);
-            prefixo[PREFIXO]='\0';
-
-            TriePrefixos(root,prefixo,digitos);
-        }
+        TriePrefixos(root, prefixo, digitos);
     }
 
     fim = clock();
 
-    printf("Prefixos             : %10.3lf ms (%.3lf us/op)\n",
-           TempoMs(ini,fim),
-           TempoMs(ini,fim)*1000.0/(REP*nCodigos));
+    tempos[r] = TempoMs(ini, fim);
+}
+
+double mediaPrefixo = Media(tempos, REP);
+
+printf("Prefixos             : %10.3lf ms (%.3lf us/op)\n",
+       mediaPrefixo,
+       mediaPrefixo * 1000.0 / nCodigos);
 
     /*=========================
       CONTA PREFIXO
     =========================*/
+for(int r = 0; r < REP; r++){
 
     ini = clock();
 
-    for(int r=0;r<REP;r++){
+    for(int i = 0; i < nCodigos; i++){
 
-        for(int i=0;i<nCodigos;i++){
+        char prefixo[PREFIXO+1];
 
-            char prefixo[PREFIXO+1];
+        strncpy(prefixo, codigos[i], PREFIXO);
+        prefixo[PREFIXO] = '\0';
 
-            strncpy(prefixo,codigos[i],PREFIXO);
-            prefixo[PREFIXO]='\0';
-
-            TrieContaPrefixo(root,prefixo);
-        }
+        TrieContaPrefixo(root, prefixo);
     }
 
     fim = clock();
 
-    printf("Conta prefixo        : %10.3lf ms (%.3lf us/op)\n",
-           TempoMs(ini,fim),
-           TempoMs(ini,fim)*1000.0/(REP*nCodigos));
+    tempos[r] = TempoMs(ini, fim);
+}
+
+double mediaConta = Media(tempos, REP);
+
+printf("Conta prefixo        : %10.3lf ms (%.3lf us/op)\n",
+       mediaConta,
+       mediaConta * 1000.0 / nCodigos);
 
     /*=========================
       REMOÇÃO
     =========================*/
+for(int r = 0; r < REP; r++){
+
+    rewind(fp);
+
+    Trie *rootRem = TrieCreate(fp);
 
     ini = clock();
 
-    for(int i=0;i<nCodigos;i++){
+    for(int i = 0; i < nCodigos; i++){
 
-        Produto *p = TrieRemove(root,codigos[i]);
+        Produto *p = TrieRemove(rootRem, codigos[i]);
 
         if(p != NULL)
             free(p);
@@ -217,9 +302,16 @@ int main(int argc, char *argv[]){
 
     fim = clock();
 
-    printf("Remocao              : %10.3lf ms (%.3lf us/op)\n",
-           TempoMs(ini,fim),
-           TempoMs(ini,fim)*1000.0/nCodigos);
+    tempos[r] = TempoMs(ini, fim);
+
+    TrieDelete(rootRem);
+}
+
+double mediaRemocao = Media(tempos, REP);
+
+printf("Remocao              : %10.3lf ms (%.3lf us/op)\n",
+       mediaRemocao,
+       mediaRemocao * 1000.0 / nCodigos);
 
     /*=========================
       DESTRUIÇÃO
@@ -227,8 +319,7 @@ int main(int argc, char *argv[]){
 
     ini = clock();
 
-    TrieDelete(root->root);
-    free(root);
+    TrieDelete(root);
 
     fim = clock();
 
