@@ -9,6 +9,6 @@ Used values:
 	limitPrefixAmount = 50
 	prefixAmountStep = 1
 	testPrefixSize = 3
-	overallRepetitions = 100
-	eachSearchRepetitions = 50
-Tests performed on: 2026-07-27 03:42:03.0048853
+	overallRepetitions = 80
+	eachSearchRepetitions = 20
+Tests performed on: 2026-07-27 09:43:44.8768206
